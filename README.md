@@ -3,7 +3,7 @@
 - 👀 I’m interested in Game Development and any programming in general. So any job offers I would highly appreciate. 
 - 🌱 I’m currently learning Python alongside with Excel and SQL.
 - 💞️ I’m looking to collaborate with some more familiar with Game Development than I am and build some games together, whilst publishing them on Game Jams.
-- 📫 How to reach me grzegorzkmita@protonmail.com, Discord: Jirafey#8858
+- 📫 How to reach me jirafeycontact@protonmail.com, Discord: Jirafey#8858
 <!---
 ✨
 --->
