@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning C, C++, Docker, Kubernetes, Openstack.
 - 📫 How to reach me jirafeycontact@protonmail.com, Discord: Jirafey#8858
 <!---
-✨
+✨ My games portfolio: https://jirafey.itch.io/
 --->
