@@ -1,4 +1,4 @@
-https://github.com/ayaka14732#hello-i-am-ayaka-
+https://github.com/jirafey#hello-i-am-ayaka-
 
 - 🎮 Games portfolio: jirafey.itch.io
 - 💛 Python, C, C++, Javascript, HTML, CSS.
