@@ -1,6 +1,6 @@
 - 👋 Hi, my real name is Grzegorz Kmita. I'm 19 years old.
 - 👀 I’m interested in programming in general. I am open to job offers.
-- 🌱 I’m currently learning C, C++, Docker, Kubernetes, Openstack.
+- 🌱 I’m currently learning C, C++, Python.
 - 📫 How to reach me:
 - 📧 jirafeycontact@protonmail.com
 - Discord: Jirafey#8858
