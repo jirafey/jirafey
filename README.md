@@ -4,7 +4,7 @@
 ###### Hello, I am Grzegorz 👋🏻 
 
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jirafey&bg_color=30,e26f43,e29232&title_color=f2f22f2&text_color=fff&count_private=true&hide_border=true" width="400" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&count_private=true&theme=default" style="width: 30%%; max-width: 30%%; min-width: 30%%;"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&count_private=true&theme=default" style="width: 10%; max-width: 30%; min-width: 30%;"></a>
 
                                                                                                                                          
 - 🎮 Games portfolio: [jirafey.itch.io](https://jirafey.itch.io/)
