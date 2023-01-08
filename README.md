@@ -1,6 +1,6 @@
 
 
-###### Hello, I am Grzegorz 👋🏻 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/>
+###### Hello, I am Grzegorz 👋🏻 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="right"/>
 
 
 <a href="https://github.com/Jirafey"><img src="https://github-readme-stats.vercel.app/api?username=Jirafey&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 57%; max-width: 57%%; min-width: 57%%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
