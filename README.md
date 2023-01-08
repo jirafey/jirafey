@@ -10,6 +10,7 @@
 
 - 💛 Python, C, C++, HTML, CSS.
 - 💬 Polish - Native, English - C1, Mandarin - B1, German A2, Dutch A1
+ 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%; align="left"></a>
 
 <img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jirafey&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="600"  align="right">
