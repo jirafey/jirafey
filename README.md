@@ -8,4 +8,4 @@
 
 <img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jirafey&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
 
-https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif
+<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="60" align="right"/>
