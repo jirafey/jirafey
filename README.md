@@ -3,7 +3,7 @@
 
 ###### Hello, I am Grzegorz 👋🏻 
 
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jirafey&bg_color=50,F5E58D,fff&title_color=4B311A&text_color=82623b&count_private=true&hide_border=true" width="407" align="left">
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jirafey&bg_color=50,F5E58D,F2252D,fff&title_color=4B311A&text_color=82623b&count_private=true&hide_border=true" width="407" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a> <br>
 
                                                                                                                                          
