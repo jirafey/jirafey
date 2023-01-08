@@ -7,4 +7,5 @@
 - 💬 Polish - Native, English - C1, Mandarin - B1, German A2, Dutch A1
 
 <img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jirafey&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
-<iframe src="https://giphy.com/embed/OfgFXNVi8gnEXvbske" width="480" height="310" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-kitty-art-OfgFXNVi8gnEXvbske">via GIPHY</a></p>
+
+https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif
