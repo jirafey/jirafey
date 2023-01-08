@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&count_private=true&theme=default" style="width: 41%; max-width: 41%; min-width: 41%;</a>
                                                                                                                                          
                                                                      
-<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jirafey&column=6&theme=gruvbox&margin-w=15&margin-h=15" width="91%">                                       
+                                    
                                                                                                                                                      
 - 🎮 Games portfolio: [jirafey.itch.io](https://jirafey.itch.io/)
 
@@ -19,3 +19,4 @@
                                                                                                                                          
 
 
+<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jirafey&column=6&theme=gruvbox&margin-w=15&margin-h=15" width="91%">
