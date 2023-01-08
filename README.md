@@ -11,6 +11,6 @@
 - 💬 Polish - Native, English - C1, Mandarin - B1, German A2, Dutch A1
 
 
-<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jirafey&column=6&theme=gruvbox&margin-w=15&margin-h=15" width="95%">
+<img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jirafey&column=6&theme=gruvbox&margin-w=15&margin-h=15" width="92%">
 
 
