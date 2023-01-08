@@ -7,3 +7,4 @@
 - 💬 Polish - Native, English - C1, Mandarin - B1, German A2, Dutch A1
 
 <img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jirafey&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
+<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
