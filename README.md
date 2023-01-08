@@ -1,5 +1,6 @@
 
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="right"/>
+
 ###### Hello, I am Grzegorz 👋🏻 
 
 
