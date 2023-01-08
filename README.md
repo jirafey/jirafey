@@ -7,4 +7,4 @@
 - 💬 Polish - Native, English - C1, Mandarin - B1, German A2, Dutch A1
 
 <img alt="profile trophy" src="https://github-profile-trophy.vercel.app/?username=Jirafey&column=4&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true" width="500">
-<img src="https://view.moezx.cc/images/.gif" height="60" align="right"/>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VCP6Kpf6guFm4nnF04" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pixel-loop-8bit-VCP6Kpf6guFm4nnF04">via GIPHY</a></p>
