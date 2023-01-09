@@ -9,8 +9,9 @@
 
 <div align="center">
   
-      <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛: </a>
+      <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
         
+  
 ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)<br>
   <a href="https://grzegorzkmita.com">Personal website</a>
 </diV>
