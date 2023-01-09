@@ -5,11 +5,11 @@
 
 ###### Hello, I am Grzegorz 👋🏻 
 [:heart: Sponsor](https://github.co![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)m/sponsors/Jirafey)
+![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
     
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
