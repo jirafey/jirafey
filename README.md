@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/97115044/211226160-781c2698-5f7c-470b-8296-a9f632af0e1f.png" width = "427" align="left" >
                                                                                                                                             
                                                                                                                                             
-<img src ="https://user-images.githubusercontent.com/97115044/211226198-47c1239d-004f-43eb-8a5b-2a87ffd28d01.png" width = "403" >
+<img src ="https://user-images.githubusercontent.com/97115044/211226198-47c1239d-004f-43eb-8a5b-2a87ffd28d01.png" width = "402" >
 
                                                                                                                                
 - 💛 Python, C, C++, HTML, CSS.
