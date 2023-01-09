@@ -31,13 +31,16 @@
 
 
 <h2> Cool projects used to make this profile page:</h2> 
+
+
+<!-- center text? insert photos here with links on them !-->              
 <a href="https://github.com/Jirafey/grzegorzkmita.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jirafey&repo=grzegorzkmita.com" />
 </a>
 <a href="https://github.com/Jirafey/Pong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jirafey&repo=Pong" />
 </a>
-
+<!-- center text? insert photos here with links on them !-->              
 - [`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats)
 
 - [`Github contributions snake`](https://github.com/Platane/snk)
