@@ -9,7 +9,7 @@
   </div>
 
 <div align="center">
-      <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a><br>
+      <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
 
   
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
