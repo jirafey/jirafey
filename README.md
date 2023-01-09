@@ -3,6 +3,8 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ###### Hello, I am Grzegorz 👋🏻 
 
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jirafey&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" width="300"><br>                                  
