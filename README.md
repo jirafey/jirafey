@@ -57,7 +57,7 @@ Dutch - A1 <br>
 
 
 <details>
-<summary> <h2> Links to people's stuff I used:</h2> </summary>
+<summary> <h2> Links to stuff that makes up my profile</h2> </summary>
 
 
 [`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats#readme)
