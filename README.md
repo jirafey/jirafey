@@ -53,19 +53,9 @@ Dutch A1
 [`Github contributions snake`](https://github.com/Platane/snk#readme)
 
 [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
-                                      </div>                                     
-<!-- <a href="https://github.com/Jirafey/grzegorzkmita.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jirafey&repo=grzegorzkmita.com" />
-</a>
-<a href="https://github.com/Jirafey/Pong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jirafey&repo=Pong" />
-                                                                                                      
-                                                                                                      
  <a href="https://www.buymeacoffee.com/jirafey">Buy me a coffee </a>
+                                      </div>                                                                                                                         
 
-<!-- <a href="https://github.com/Jirafey/grzegorzkmita.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jirafey&repo=grzegorzkmita.com" />
-</a>
-<a href="https://github.com/Jirafey/Pong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jirafey&repo=Pong" />
-</a>!-->
+
+                                               
+
