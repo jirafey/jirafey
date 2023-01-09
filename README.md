@@ -17,8 +17,6 @@
 
 <a href="https://grzegorzkmita.com"> Personal website</a>
 </diV>
-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vercel,linkedin,github,stackoverflow,vscode,python,c,cpp,html,css,md,discord,matlab" />
