@@ -17,7 +17,7 @@
 
 <a href="https://grzegorzkmita.com"> Personal website</a>
 </diV>
-<p Skills align="center">
+<p align="center"> Skills
   
   <a href="grzegorz-kmita-resume.pdf">
     <img src="https://skillicons.dev/icons?i=git,vercel,linkedin,github,stackoverflow,vscode,python,c,cpp,html,css,md,discord,matlab" />
