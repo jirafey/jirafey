@@ -20,4 +20,4 @@ jobs:
         with:
           branch: master
           folder: '.'
-custom: https://www.buymeacoffee.com/jirafey
+
