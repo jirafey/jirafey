@@ -25,4 +25,6 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+
+<h2> Cool projects used to make this Readme.md:
+- Snake: _generated with [Platane/snk](https://github.com/Platane/snk)_
