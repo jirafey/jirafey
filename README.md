@@ -31,10 +31,10 @@
 
 
 <h2> Cool projects used to make this profile page:</h2> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Jirafey/grzegorzkmita.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Jirafey/Pong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Platane&repo=snk" />
 </a>
 
