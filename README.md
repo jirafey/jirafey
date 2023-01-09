@@ -56,8 +56,8 @@ Dutch - A1 <br>
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-
-<h2> Links to people's stuff I used:</h2> 
+<details>
+<summary> <h2> Links to people's stuff I used:</h2> </summary>
 
 
 [`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats#readme)
@@ -68,3 +68,4 @@ Dutch - A1 <br>
 
 [`Running cat GIF creator`](https://giphy.com/otajaider)
 </div>                                                                                                                         
+</details>
