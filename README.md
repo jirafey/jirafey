@@ -41,6 +41,7 @@
 
 - [`Github contributions snake`](https://github.com/Platane/snk)
 
+[`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
                                                                       
 <!-- <a href="https://github.com/Jirafey/grzegorzkmita.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jirafey&repo=grzegorzkmita.com" />
