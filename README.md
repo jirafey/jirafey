@@ -2,7 +2,8 @@
 
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
-
+  
+  ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)<br>
 # Hello, I am Grzegorz 👋🏻 <br>
 
   </div>
@@ -11,7 +12,7 @@
       <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a><br>
   
   
-  ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)<br>
+
   
 
         
