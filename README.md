@@ -40,7 +40,7 @@
 
 <details>
 
-<summary><b>  💬 Languages I speak: </summary>
+<summary> <h1>💬 Languages I speak:</h1> </summary>
 
 <div> 
 
