@@ -21,8 +21,6 @@
   <a href="grzegorz-kmita-resume.pdf">
 <h2> Skills</h2>
 <p align="center"> 
-  
-  
     <img src="https://skillicons.dev/icons?i=git,vercel,linkedin,github,stackoverflow,vscode,python,c,cpp,html,css,md,discord,matlab" />
   </a>
 </p>
