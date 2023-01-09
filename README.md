@@ -39,9 +39,9 @@
 <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px"/> </a> 
 
 <details>
-<h3>
-<summary>  💬 Languages I speak: </summary>
-</h3>
+
+<summary><b>  💬 Languages I speak: </summary>
+
 <div> 
 
 Polish - Native <br>
