@@ -28,6 +28,5 @@
 <h2> Cool projects used to make this profile page:</h2>
 
 
-- <a href ="https://github.com/anuraghazra/github-readme-stats" >Gradient Github Stats </a>
- [`Marked`Gradient Github Stats]([//marked.sudo.dog](https://github.com/anuraghazra/github-readme-stats))
+ [`Gradient Github Stats`]([//marked.sudo.dog](https://github.com/anuraghazra/github-readme-stats))
 - <a href = "https://github.com/Platane/snk"> Snake </a>
