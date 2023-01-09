@@ -14,18 +14,6 @@
   
 
         
-
-<a href="https://grzegorzkmita.com"> Personal website</a>
-</diV>
-<div align="center">
-  <h2>  <a href="grzegorz-kmita-resume.pdf">Skills</h2></a>
-<p align="center"> 
-  <a href="grzegorz-kmita-resume.pdf">
-    <img src="https://skillicons.dev/icons?i=git,vercel,linkedin,github,stackoverflow,vscode,python,c,cpp,html,css,md,discord,matlab" />
-  </a>
-</p>
-  </div>
-<div align="center">
 <details>
 <summary><h2> Stats: </h2></summary>
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&langs_count=4&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 50%; max-width: 50%; min-width: 50%;">
@@ -41,6 +29,19 @@
 <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px"/> </a> 
 
 </details>
+  
+<a href="https://grzegorzkmita.com"> Personal website</a>
+</diV>
+<div align="center">
+  <h2>  <a href="grzegorz-kmita-resume.pdf">Skills</h2></a>
+<p align="center"> 
+  <a href="grzegorz-kmita-resume.pdf">
+    <img src="https://skillicons.dev/icons?i=git,vercel,linkedin,github,stackoverflow,vscode,python,c,cpp,html,css,md,discord,matlab" />
+  </a>
+</p>
+  </div>
+<div align="center">
+
 <details>
 
 <summary> <h2>💬</h2> </summary>
