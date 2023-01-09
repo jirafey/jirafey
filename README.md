@@ -29,6 +29,8 @@
 
 
 - <a href ="https://github.com/anuraghazra/github-readme-stats" style="text-decoration=none;color: inherit;">Gradient Github Stats </a>
-          
+          [normal link](https://www.google.com/)
+
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
                                                                
 - <a href = "https://github.com/Platane/snk" style="color: black; text-decoration: underline;text-decoration-style: dotted;" > Snake </a>
