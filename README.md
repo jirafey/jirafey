@@ -12,10 +12,3 @@
 - 💛 Python, C, C++, HTML, CSS.
                                                                                                                                
 - 💬 Polish - Native, English - C1, Mandarin - B1, German A2, Dutch A1
-
-  
-
-![image](https://user-images.githubusercontent.com/97115044/211226773-9c8a4965-3b16-4aad-8e1e-1cf99f9b158e.png)
-![image](https://user-images.githubusercontent.com/97115044/211226806-9c9881a4-48ed-49d2-a095-194594b6db12.png)
-
-![image](https://user-images.githubusercontent.com/97115044/211226814-d0397d30-a407-4b0d-a113-0674c10e6bde.png)
