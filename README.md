@@ -42,13 +42,13 @@
 <summary> 💬 Languages I speak: </summary>
 
 <div> 
-<p>
+
 Polish - Native
 English - C1
 Chinese (Mandarin) - B1
 German - A2
 Dutch - A1
-</p>
+
 </div>
 </details><br>
 
