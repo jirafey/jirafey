@@ -37,15 +37,15 @@
    <h4>             
 
 
-Polish - Native,
+Polish - Native
 
-English - C1,
+English - C1
   
-Chinese (Mandarin) - B1,
+Chinese (Mandarin) - B1
   
-German A2, 
+German - A2
   
-Dutch A1
+Dutch - A1
 </h4><br>
 
 
