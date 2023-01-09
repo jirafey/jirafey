@@ -11,7 +11,7 @@
 ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
   
 </diV>
-
+[`Personal website`](https://grzegorzkmita.com)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vercel,linkedin,github,stackoverflow,vscode,python,c,cpp,html,css,md,discord,matlab" />
