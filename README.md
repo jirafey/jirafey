@@ -29,5 +29,5 @@
 
 
 - <a href ="https://github.com/anuraghazra/github-readme-stats" >Gradient Github Stats </a>
- [`Marked` JS/TS Code Runner](//marked.sudo.dog)
+ [`Marked`Gradient Github Stats]([//marked.sudo.dog](https://github.com/anuraghazra/github-readme-stats))
 - <a href = "https://github.com/Platane/snk"> Snake </a>
