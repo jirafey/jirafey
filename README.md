@@ -35,7 +35,7 @@
                                       <a href="https://jirafey.itch.io/squaremadness"><img src="https://user-images.githubusercontent.com/97115044/211327312-3b9ac0c9-104e-47ea-8d88-8d65bfbba1d8.png" padding="10px"/> </a>
                                       <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px"/> </a>
    <h4>             
-#### 💬
+<h3> 💬 </h3>
 
 Polish - Native
 
