@@ -25,15 +25,15 @@
                            <h3> 💛 Python, C, C++, HTML, CSS.
 </h3>    <h4>             
   
-- Polish - Native,
+Polish - Native,
 
-- English - C1,
+English - C1,
   
-- Chinese (Mandarin) - B1,
+Chinese (Mandarin) - B1,
   
-- German A2, 
+German A2, 
   
-- Dutch A1
+Dutch A1
 </h4><br>
 
 
@@ -43,11 +43,11 @@
 <h2> Cool projects used to make this profile page:</h2> 
 
    
-- [`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats#readme)
+[`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats#readme)
 
-- [`Github contributions snake`](https://github.com/Platane/snk#readme)
+[`Github contributions snake`](https://github.com/Platane/snk#readme)
 
-- [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
+[`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
                                       </div>                                     
 <!-- <a href="https://github.com/Jirafey/grzegorzkmita.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jirafey&repo=grzegorzkmita.com" />
