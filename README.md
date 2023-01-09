@@ -4,11 +4,11 @@
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
 
 # Hello, I am Grzegorz 👋🏻 <br>
-    <a href="https://www.buymeacoffee.com/jirafey"> Consider buying me a coffee <3 </a>
+
   </div>
 
 <div align="center">
-  
+      <a href="https://www.buymeacoffee.com/jirafey"> Consider buying me a coffee <3 </a>
 ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)<br>
   <a href="https://grzegorzkmita.com">Personal website</a>
 </diV>
