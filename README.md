@@ -8,7 +8,6 @@
 
 
 <h2><a href ="https://jirafey.itch.io"> - 🎮 Games portfolio: </a></h2>
-
                          <!-- center text? insert photos here with links on them !--><h3>                                                                              
                                  
                             💛 Python, C, C++, HTML, CSS.
