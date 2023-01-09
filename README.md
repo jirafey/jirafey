@@ -41,10 +41,9 @@
 
 </details>
   
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <details>
-
 <summary> <h2>💬</h2> </summary>
 
 <div> 
@@ -57,9 +56,6 @@ Dutch - A1 <br>
 
 </div>
 </details><br>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 
 <details>
 <summary> <h2> Links to cool stuff that makes up my profile</h2> </summary>
