@@ -1,4 +1,3 @@
-![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
 <!-- center text? insert photos here with links on them !-->
 
 
