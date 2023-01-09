@@ -37,11 +37,11 @@
 <h2> Cool projects used to make this profile page:</h2> 
 
    
-- [`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats)
+- [`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats#readme)
 
-- [`Github contributions snake`](https://github.com/Platane/snk)
+- [`Github contributions snake`](https://github.com/Platane/snk#readme)
 
-[`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
+- [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
                                                                       
 <!-- <a href="https://github.com/Jirafey/grzegorzkmita.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jirafey&repo=grzegorzkmita.com" />
