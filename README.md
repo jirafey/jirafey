@@ -9,7 +9,7 @@
                                                                                                                                          
 - 🎮 Games portfolio: [jirafey.itch.io](https://jirafey.itch.io/)
 <img src="https://user-images.githubusercontent.com/97115044/211225862-ca5d3ff0-3309-4d28-8d0a-37a4f82c02c8.png" width = "407" align="left" >
-<img src ="https://user-images.githubusercontent.com/97115044/211226032-397dc19e-e6d2-4619-8034-d3052ed30b98.png" width = "407" >
+<img src ="https://user-images.githubusercontent.com/97115044/211226032-397dc19e-e6d2-4619-8034-d3052ed30b98.png" width = "387" >
 <br>
 - 💛 Python, C, C++, HTML, CSS.
 - 💬 Polish - Native, English - C1, Mandarin - B1, German A2, Dutch A1
