@@ -27,5 +27,6 @@
 
 
 <h2> Cool projects used to make this profile page:</h2>
-- <a href ="https://github.com/anuraghazra/github-readme-stats" Gradient Github Stats </a>
+- <a href ="https://github.com/anuraghazra/github-readme-stats">Gradient Github Stats </a>
+                                                               
 - Snake: _generated with [Platane/snk](https://github.com/Platane/snk)_
