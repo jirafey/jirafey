@@ -4,7 +4,7 @@
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/>
 
 <h1>
-###### Hello, I am Grzegorz 👋🏻 
+Hello, I am Grzegorz 👋🏻 
 ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
 </h1>
 
