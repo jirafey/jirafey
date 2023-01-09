@@ -2,10 +2,10 @@
 
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
-  
+  <a href="https://www.buymeacoffee.com/jirafey"> Consider buying me a coffee <3 </a>
 # Hello, I am Grzegorz 👋🏻 <br>
   </div>
-  Consider buying me a coffee <3 </a>
+
 <div align="center">
   
 ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)<br>
@@ -54,7 +54,7 @@ Dutch A1
 
 [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
 
- <a href="https://www.buymeacoffee.com/jirafey">
+  
 
                                       </div>                                                                                                                         
 
