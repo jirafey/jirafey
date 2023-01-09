@@ -13,3 +13,5 @@
 - 💛 Python, C, C++, HTML, CSS.
                                                                                                                                
 - 💬 Polish - Native, English - C1, Mandarin - B1, German A2, Dutch A1
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 35%; max-width: 35%; min-width: 35%;"></a>
