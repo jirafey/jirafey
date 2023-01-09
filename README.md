@@ -28,7 +28,7 @@
 <div align="center">
 <details>
 <summary><h2> Stats: </h2></summary>
-<img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 50%; max-width: 50%; min-width: 50%;">
+<img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&lang_count=4&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 50%; max-width: 50%; min-width: 50%;">
 <img alt="GitHub stats" src="https://github-readme-stats-k4xr.vercel.app/api?username=Jirafey&hide=prs&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" style="width: 50%; max-width: 50%; min-width: 50%;">
 </details>
 </div>
