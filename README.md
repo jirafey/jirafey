@@ -31,7 +31,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jirafey)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> Cool projects used to make this profile page:</h2>
+<h2> Cool projects used to make this profile page:</h2> 
 
 
 - [`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats)
