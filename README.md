@@ -43,7 +43,7 @@
 
 <div> 
 
-Polish - Native
+Polish - Native<br>
 English - C1
 Chinese (Mandarin) - B1
 German - A2
