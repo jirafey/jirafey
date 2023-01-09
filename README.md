@@ -1,9 +1,10 @@
-<!-- center text? insert photos here with links on them !-->                                                
+<!-- center text? insert photos here with links on them !-->
+![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/>
 
 ###### Hello, I am Grzegorz 👋🏻 
 [:heart: Sponsor](https://github.co![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)m/sponsors/Jirafey)<br>
-![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
+
 
 
 
