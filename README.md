@@ -4,6 +4,9 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 my:
+![Snake animation](https://github.com/Jirafey/Jirafey/blob/output/github-contribution-grid-snake.svg)
+ 
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 end:
 ![](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
