@@ -53,7 +53,8 @@ Dutch A1
 [`Github contributions snake`](https://github.com/Platane/snk#readme)
 
 [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
- <a href="https://www.buymeacoffee.com/jirafey">Buy me a coffee </a>
+ <a href="https://www.buymeacoffee.com/jirafey">
+Consider buying me a coffee <3 </a>
                                       </div>                                                                                                                         
 
 
