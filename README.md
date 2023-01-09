@@ -7,8 +7,10 @@
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jirafey&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" width="300"><br>                                                                                                                          
 <h2><a href ="https://jirafey.itch.io"> - 🎮 Games portfolio: </a></h2>
                          <!-- insert photos here with links on them !--><h3>                                                                                                     
+  
 - 💛 Python, C, C++, HTML, CSS.</h3>
-                                 <h4>                                                                                              
+                                 <h4>             
+  
 - 💬 Polish - Native,
   <!--flags-->
   
