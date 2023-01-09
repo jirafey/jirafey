@@ -2,6 +2,17 @@
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/>
 
 ###### Hello, I am Grzegorz 👋🏻 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult style="width: 50%; max-width: 50%; min-width: 50%;"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 50%; max-width: 50%; min-width: 50%;"></a>
 
