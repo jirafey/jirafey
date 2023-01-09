@@ -8,7 +8,6 @@
   </div>
 
 <div align="center">
-  
       <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
         
   
