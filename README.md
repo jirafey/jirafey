@@ -2,13 +2,7 @@
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/>
 
 
-
-![Snake animation](https://github.com/Jirafey/Jirafey/blob/output/github-contribution-grid-snake.svg)
- 
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-end:
-![](https://github.com/Jirafey/snk/raw/output/github-contribution-grid-snake.svg)
 
 ###### Hello, I am Grzegorz 👋🏻 
 
