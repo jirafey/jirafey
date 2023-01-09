@@ -1,5 +1,5 @@
 <!-- center text? insert photos here with links on them !-->
-
+https://icons8.com/icon/13930/linkedin
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
 
