@@ -9,12 +9,11 @@
                            <h3> 💛 Python, C, C++, HTML, CSS.
 </h3>    <h4>             
   
-- :poland: Polish - Native,
-  <!--flags-->
+- Polish - Native,
+
+- English - C1,
   
-- :uk: English - C1,
-  
-- :cn: Chinese (Mandarin) - B1,
+- Chinese (Mandarin) - B1,
   
 - German A2, 
   
