@@ -24,6 +24,8 @@
 <div align = "center"> 
 <h2><a href ="https://jirafey.itch.io">🎮 Games portfolio: </a></h2>
                                      <img src="https://user-images.githubusercontent.com/97115044/211325625-a25b7d3e-1e23-42a1-b453-7f8c92cfc475.png"/>
+                                      <img src="https://user-images.githubusercontent.com/97115044/211325625-a25b7d3e-1e23-42a1-b453-7f8c92cfc475.png"/>                                                            
+
                            <h3> 💛 Python, C, C++, HTML, CSS.
 
 </h3>    <h4>             
