@@ -29,7 +29,7 @@
 <h2> Cool projects used to make this profile page:</h2>
 
 
-- <a href ="https://github.com/anuraghazra/github-readme-stats"  text-decoration:none >Gradient Github Stats </a>
+- <a href ="https://github.com/anuraghazra/github-readme-stats"  text-decoration=none >Gradient Github Stats </a>
           
                                                                
-- <a href = "https://github.com/Platane/snk" text-decoration:none > Snake </a>
+- <a href = "https://github.com/Platane/snk" text-decoration=none > Snake </a>
