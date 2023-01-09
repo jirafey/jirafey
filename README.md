@@ -41,11 +41,11 @@
 <details>
 <summary> 💬 Languages I speak: </summary>
 
-- Polish - Native
-- English - C1
-- Chinese (Mandarin) - B1
-- German - A2
-- Dutch - A1
+Polish - Native
+English - C1
+Chinese (Mandarin) - B1
+German - A2
+Dutch - A1
 </details><br>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
