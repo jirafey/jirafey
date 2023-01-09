@@ -61,5 +61,5 @@ Dutch - A1
 
 [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
 
-[`Running cat GIF creator`]https://giphy.com/otajaider/
+[`Running cat GIF creator`](https://giphy.com/otajaider)
               </div>                                                                                                                         
