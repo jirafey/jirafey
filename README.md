@@ -43,11 +43,11 @@
 
 <div> 
 
-Polish - Native<br>
-English - C1
-Chinese (Mandarin) - B1
-German - A2
-Dutch - A1
+Polish - Native <br>
+English - C1 <br>
+Chinese (Mandarin) - B1 <br>
+German - A2 <br>
+Dutch - A1 <br>
 
 </div>
 </details><br>
