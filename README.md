@@ -22,7 +22,7 @@
 
 </diV>
 <div align="center">
-  <h2>  <a href="grzegorz-kmita-resume.pdf">Skills</h2></a>
+  <h4>  <a href="grzegorz-kmita-resume.pdf">Skills</h4></a>
 <p align="center"> 
   <a href="grzegorz-kmita-resume.pdf">
     <img src="https://skillicons.dev/icons?i=git,vercel,linkedin,github,stackoverflow,vscode,python,c,cpp,html,css,md,discord,matlab" />
