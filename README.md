@@ -46,3 +46,4 @@
 <a href="https://github.com/Jirafey/Pong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jirafey&repo=Pong" />
 </a>!-->
+![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
