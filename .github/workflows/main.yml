@@ -1,6 +1,6 @@
 name: generate animation 
   
- on: [push]
+ on:
    # run automatically every 12 hours 
    schedule: 
      - cron: "0 */12 * * *"  
@@ -11,7 +11,7 @@ name: generate animation
    # run on every push on the master branch 
    push: 
      branches: 
-     - main
+     - master
       
     
  jobs: 
