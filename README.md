@@ -45,7 +45,7 @@
 </details>
 <details>
 
-<summary> <h2>💬 Languages I speak:</h2> </summary>
+<summary> <h2>💬</h2> </summary>
 
 <div> 
 
