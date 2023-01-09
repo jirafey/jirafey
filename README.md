@@ -51,7 +51,7 @@ Dutch - A1
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-<h2> Cool things used to make this profile page:</h2> 
+<h2> Links to people's stuff I used:</h2> 
 
 
 [`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats#readme)
