@@ -28,7 +28,7 @@
 
 <div align = "center"> 
 <details>
-<summary><h2>🎮</h2></summary>
+<summary><h3>🎮</h3></summary>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png" padding="10px"/></a>
 <a href="https://jirafey.itch.io/squaremadness"><img src="https://user-images.githubusercontent.com/97115044/211327312-3b9ac0c9-104e-47ea-8d88-8d65bfbba1d8.png" padding="10px"/> </a>
 <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px"/> </a> 
@@ -38,7 +38,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <details>
-<summary> 💬 </summary>
+<summary><h3>💬 </h3></summary>
 
 <div> 
 
@@ -52,7 +52,7 @@ Dutch - A1 <br>
 </details><br>
 
 <details>
-<summary> <h2> Links to cool stuff that makes up my profile</h2> </summary>
+<summary> <h5> Links to cool stuff that makes up my profile</h5> </summary>
 
 
 [`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats#readme)
