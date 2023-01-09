@@ -33,16 +33,3 @@
 - [`Github contributions snake`](https://github.com/Platane/snk)
 
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
-
-https://placehold.it/150/ffffff/ff0000?text=hello
-
-
-<span style="color:orange;">Word up</span>
-
-                           <p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
-                           <br>
