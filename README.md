@@ -60,10 +60,7 @@ Dutch A1
 [`Github contributions snake`](https://github.com/Platane/snk#readme)
 
 [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
-
-  
-
-                                      </div>                                                                                                                         
+              </div>                                                                                                                         
 
 
                                                
