@@ -6,17 +6,17 @@
 
 # Hello, I'm Grzegorz 👋🏻 <br>
 
-  </div>
+</div>
 
 <div align="center">
-      <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
+<a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
 
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
   
 
         
 
-  <a href="https://grzegorzkmita.com">Personal website</a>
+<a href="https://grzegorzkmita.com">Personal website</a>
 </diV>
 
 
@@ -31,10 +31,9 @@
 </div>
 <div align = "center"> 
 <h2><a href ="https://jirafey.itch.io">🎮 Games portfolio: </a></h2>
-                                    <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png" padding="10px"/></a>
-                                      <a href="https://jirafey.itch.io/squaremadness"><img src="https://user-images.githubusercontent.com/97115044/211327312-3b9ac0c9-104e-47ea-8d88-8d65bfbba1d8.png" padding="10px"/> </a>
-                                      <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px"/> </a>
-   <h4>             
+<a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png" padding="10px"/></a>
+<a href="https://jirafey.itch.io/squaremadness"><img src="https://user-images.githubusercontent.com/97115044/211327312-3b9ac0c9-104e-47ea-8d88-8d65bfbba1d8.png" padding="10px"/> </a>
+<a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px"/> </a> 
 <h3> 💬 Languages I speak: </h3>
 
 Polish - Native
@@ -52,9 +51,9 @@ Dutch - A1
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-<h2> Cool projects used to make this profile page:</h2> 
+<h2> Cool things used to make this profile page:</h2> 
 
-   
+
 [`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats#readme)
 
 [`Github contributions snake`](https://github.com/Platane/snk#readme)
@@ -62,4 +61,4 @@ Dutch - A1
 [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
 
 [`Running cat GIF creator`](https://giphy.com/otajaider)
-              </div>                                                                                                                         
+</div>                                                                                                                         
