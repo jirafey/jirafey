@@ -42,5 +42,7 @@ https://placehold.it/150/ffffff/ff0000?text=hello
 
 <span style="color:orange;">Word up</span>
 
-                           
+                           <p style='color:red'>This is some red text.</p>
+<font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
                            <br>
