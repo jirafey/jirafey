@@ -4,7 +4,7 @@
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
 
 
-# Hello, I am Grzegorz 👋🏻 <br>
+# Hello, I'm Grzegorz 👋🏻 <br>
 
   </div>
 
@@ -61,7 +61,3 @@ Dutch - A1
 
 [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
               </div>                                                                                                                         
-
-
-                                               
-
