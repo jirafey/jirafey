@@ -60,3 +60,4 @@ Dutch A1
 <a href="https://github.com/Jirafey/Pong">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jirafey&repo=Pong" />
 </a>!-->
+[`Buy me a coffee`](https://www.buymeacoffee.com/jirafey)
