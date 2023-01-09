@@ -2,8 +2,9 @@
 
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
-  <a href="https://www.buymeacoffee.com/jirafey"> Consider buying me a coffee <3 </a>
+
 # Hello, I am Grzegorz 👋🏻 <br>
+    <a href="https://www.buymeacoffee.com/jirafey"> Consider buying me a coffee <3 </a>
   </div>
 
 <div align="center">
