@@ -9,6 +9,11 @@
                          <!-- insert photos here with links on them !--><h3>                                                                                                     
 - 💛 Python, C, C++, HTML, CSS.</h3>
                                  <h4>                                                                                              
-- 💬 Polish - Native, English - C1, Mandarin - B1, German A2, Dutch A1
+- 💬 Polish - Native,
+  
+- English - C1,
+- Chinese (Mandarin) - B1,
+- German A2, 
+- Dutch A1
 </h4><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 50%; max-width: 50%; min-width: 50%;"></a>
