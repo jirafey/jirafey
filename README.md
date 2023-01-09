@@ -2,7 +2,7 @@
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/>
 
 ###### Hello, I am Grzegorz 👋🏻 
-![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
+![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)<br>
 [:heart: Sponsor](https://github.co![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)m/sponsors/Jirafey)
 
 
