@@ -25,11 +25,15 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
+a, a:hover, a:focus, a:active {
+	text-decoration: none;
+	color: inherit;
+	text-align: center;
+}
 <h2> Cool projects used to make this profile page:</h2>
 
 
-- <a href ="https://github.com/anuraghazra/github-readme-stats" style="text-decoration=none;">Gradient Github Stats </a>
+- <a href ="https://github.com/anuraghazra/github-readme-stats" style="text-decoration=none;color: inherit;">Gradient Github Stats </a>
           
                                                                
-- <a href = "https://github.com/Platane/snk" style="text-decoration=none;" > Snake </a>
+- <a href = "https://github.com/Platane/snk" style="text-decoration=none;color: inherit;" > Snake </a>
