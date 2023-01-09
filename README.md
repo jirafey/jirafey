@@ -3,7 +3,6 @@
 
 ###### Hello, I am Grzegorz 👋🏻 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide_title=true&theme=radical)
 [:heart: Sponsor](https://github.com/sponsors/Jirafey)
 
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jirafey&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"  style="width: 50%; max-width: 50%; min-width: 50%;">
