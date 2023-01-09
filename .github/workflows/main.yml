@@ -25,7 +25,7 @@ name: generate animation
        - name: generate github-contribution-grid-snake.svg 
          uses: Platane/snk/svg-only@v2 
          with: 
-           github_user_name: ${{ github.repository_owner }} 
+           github_user_name: Jirafey
            outputs: | 
              dist/github-contribution-grid-snake.svg 
              dist/github-contribution-grid-snake-dark.svg?palette=github-dark 
