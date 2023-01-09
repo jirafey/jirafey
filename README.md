@@ -23,7 +23,6 @@
 </div>
 <div align = "center"> 
 <h2><a href ="https://jirafey.itch.io">🎮 Games portfolio: </a></h2>
-                                      ![image](https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png)
 
                                      <img src="https://user-images.githubusercontent.com/97115044/211325625-a25b7d3e-1e23-42a1-b453-7f8c92cfc475.png" padding="10px"/>
                                       <img src="https://user-images.githubusercontent.com/97115044/211326131-1c6fe988-4108-4423-a58e-19ab97b708a6.png" padding="10px"/> 
