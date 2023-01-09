@@ -1,3 +1,4 @@
+![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
 <!-- center text? insert photos here with links on them !-->
 
 
@@ -6,7 +7,6 @@
 
 ###### Hello, I am Grzegorz 👋🏻 
 [:heart: Sponsor](https://github.co![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)m/sponsors/Jirafey)
-![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&color=00cf00)
 
 
 
