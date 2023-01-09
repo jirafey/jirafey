@@ -21,10 +21,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jirafey&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 50%; max-width: 50%; min-width: 50%;">
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jirafey&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" style="width: 50%; max-width: 50%; min-width: 50%;">
 </div>
-<div align = "center">
-<h2><a href ="https://jirafey.itch.io">🎮 Games portfolio: </a></h2>
-                                      ![image](https://user-images.githubusercontent.com/97115044/211324222-31a34aea-9fb4-4334-bd10-f06e72a1b010.png)
+<div align = "center"> ![image](https://user-images.githubusercontent.com/97115044/211324222-31a34aea-9fb4-4334-bd10-f06e72a1b010.png)
 
+<h2><a href ="https://jirafey.itch.io">🎮 Games portfolio: </a></h2>
+                                     
                            <h3> 💛 Python, C, C++, HTML, CSS.
 </h3>    <h4>             
   
