@@ -12,6 +12,7 @@
 <img src ="https://user-images.githubusercontent.com/97115044/211226032-397dc19e-e6d2-4619-8034-d3052ed30b98.png" width = "387" >
 <br>
 - 💛 Python, C, C++, HTML, CSS.
+                                                                                                                               
 - 💬 Polish - Native, English - C1, Mandarin - B1, German A2, Dutch A1
 
   
