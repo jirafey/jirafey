@@ -36,4 +36,4 @@ a, a:hover, a:focus, a:active {
 - <a href ="https://github.com/anuraghazra/github-readme-stats" style="text-decoration=none;color: inherit;">Gradient Github Stats </a>
           
                                                                
-- <a href = "https://github.com/Platane/snk" style="color: black; text-decoration: underline;text-decoration-style: dotted; > Snake </a>
+- <a href = "https://github.com/Platane/snk" style="color: black; text-decoration: underline;text-decoration-style: dotted;" > Snake </a>
