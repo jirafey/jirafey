@@ -1,0 +1,24 @@
+name: Daily 
+  
+ on: 
+   schedule: 
+     - cron: '0 0 * * *' 
+   workflow_dispatch: 
+  
+ jobs: 
+   snack: 
+     runs-on: ubuntu-latest 
+     steps: 
+       - uses: actions/checkout@v3 
+       - uses: Platane/snk/svg-only@v2 
+         with: 
+           github_user_name: ${{ github.repository_owner }} 
+           outputs: | 
+             snack/github-snake.svg 
+             snack/github-snake-dark.svg?palette=github-dark 
+       - uses: casperdcl/push-dir@v1 
+         with: 
+           message: Snack 
+           branch: snack 
+           dir: snack 
+           history: false
