@@ -1,6 +1,7 @@
 name: generate animation 
   
  on:
+   push:
    # run automatically every 12 hours 
    schedule: 
      - cron: "0 */12 * * *"  
