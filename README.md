@@ -18,7 +18,7 @@ end:
 
 <h2><a href ="https://jirafey.itch.io">🎮 Games portfolio: </a></h2>
                            <h3> 💛 Python, C, C++, HTML, CSS.
-</h3>     <h4>             
+</h3>    <h4>             
   
 - 💬 Polish - Native,
   <!--flags-->
