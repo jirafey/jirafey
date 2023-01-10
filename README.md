@@ -20,7 +20,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
-<img height="32" width="32" src="https://cdn.simpleicons.org/MSExcel/" />  
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftExcel/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Visual Studio Code/" />
 </div>
