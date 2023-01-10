@@ -1,5 +1,8 @@
 <!-- individual links and https://simpleicons.org/ !-->
 
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/" />
+
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
 
