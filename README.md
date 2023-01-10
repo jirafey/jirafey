@@ -15,13 +15,10 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Minutemailer/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
-<img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/discord/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Unity/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" />  
-<img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode/" />
 </div>
 <div align="center">
