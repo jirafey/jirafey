@@ -18,7 +18,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/discord/" />  
-<img height="32" width="32" src="https://cdn.simpleicons.org/matlab/" />  
+<img height="32" width="32" src="https://cdn.simpleicons.org/Unity/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftAccess/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftExcel/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/" />  
