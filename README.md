@@ -14,7 +14,7 @@
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/VSCode-Dark.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/HTML.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CSS.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Markdown-Dark.svg" />
+<img height="52" width="52" src="https://github.com/Jirafey/Jirafey/blob/main/images/Markdown-Dark.svg" />
 
   
 
