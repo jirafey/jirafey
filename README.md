@@ -23,6 +23,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/Rust/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/CSharp/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudio/" />
   
 </div>
 <div align="center">
