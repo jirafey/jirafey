@@ -11,6 +11,20 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/markdown/" />  
+<img height="32" width="32" src="https://cdn.simpleicons.org/mail/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
+<img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
+<img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
+<img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
+<img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
+<img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Excel/" />  
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/" />  
+<img height="32" width="32" src="https://cdn.simpleicons.org/Visual Studio Code/" />
+  
 </div>
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
