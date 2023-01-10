@@ -20,6 +20,10 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Rust/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/C#/" />
+  
 </div>
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
