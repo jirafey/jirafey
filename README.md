@@ -25,8 +25,6 @@
 </p>
   </div>
 <div align="center">
-
-<div align = "center"> 
 <details>
 <summary><h3>🎮</h3></summary>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png" padding="10px"/></a>
