@@ -19,10 +19,10 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
-<img height="32" width="32" src="https://cdn.simpleicons.org/Microsoft Access/" />  
+<img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftAccess/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftExcel/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/" />  
-<img height="32" width="32" src="https://cdn.simpleicons.org/Visual Studio Code/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode/" />
 </div>
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
