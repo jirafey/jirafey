@@ -22,17 +22,12 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/clion/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/markdown/" />  
 <img height="32" width="32" src="https://grzegorzkmita.com/images/email.png" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/Unity/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/Rust/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/CSharp/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudio/" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg" />  
 </div>
 <div align="center">
