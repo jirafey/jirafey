@@ -25,7 +25,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/" />  
 <img height="32" width="32" src="https://grzegorzkmita.com/images/email.png" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/PyCharm/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/discord/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Unity/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" />  
