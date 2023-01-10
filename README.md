@@ -24,7 +24,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/Rust/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/CSharp/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudio/" />
-  
+<img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg" />  
 </div>
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
