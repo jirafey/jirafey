@@ -46,7 +46,7 @@
 <details>
 <summary><h3>💬 </h3></summary>
 
-<div> 
+<div align ="center">
 
 Polish - Native <br>
 English - C1 <br>
@@ -56,7 +56,7 @@ Dutch - A1 <br>
 
 </div>
 </details><br>
-
+<div align ="center">
 <details>
 <summary> <h5> Links to cool stuff that makes up my profile</h5> </summary>
 
