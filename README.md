@@ -1,4 +1,4 @@
-<!-- center text? insert photos here with links on them !-->
+<!-- individual links and https://simpleicons.org/ !-->
 
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
