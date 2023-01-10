@@ -8,8 +8,8 @@
 <div align="center">
 <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
   
-###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B)  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJirafey%2Fhit-counter&count_bg=%23F4E892&title_bg=%23F0CD7B&icon=yarn.svg&icon_color=%23FFFFFF&title=unique-visits&edge_flat=false)](https://hits.seeyoufarm.com)
+###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&logo=#181717&lcolor=F4E892&color=F0CD7B&cache=on)  
+
 <details>
 <summary>Stats:</summary>
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&langs_count=4&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 50%; max-width: 50%; min-width: 50%;">
