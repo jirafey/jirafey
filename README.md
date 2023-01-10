@@ -18,6 +18,7 @@
 <img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/StackOverflow-Dark.svg" />
 <img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/clion.svg" />
 <img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/linkedin-Dark.svg" />
+<img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/pycharm.svg" />
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/" />
 <img height="32" width="32" src="https://grzegorzkmita.com/images/email.png" />
