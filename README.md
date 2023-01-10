@@ -12,7 +12,7 @@
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Python-Dark.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Sass.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Vercel-Dark.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/VisualStudioCode-Dark.svg" />
+<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/VSCode-Dark.svg" />
 
   
 
