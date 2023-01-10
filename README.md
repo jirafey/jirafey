@@ -18,8 +18,6 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/clion/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/c/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/c++/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn/" />
