@@ -7,9 +7,9 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/vercel/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/c/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/cpp/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/html/" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/css/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/c++/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/CSS/" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/" />
 
 <div align="center">
