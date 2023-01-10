@@ -8,8 +8,7 @@
 <div align="center">
 <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
   
-  ![](https://vbr.wocr.tk/badge?page_id=visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
-###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&logo=#181717)  
+  ![](https://vbr.wocr.tk/badge?page_id=visitor-badge-reloaded-visitors&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github)
 
 <details>
 <summary>Stats:</summary>
