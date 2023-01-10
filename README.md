@@ -2,6 +2,15 @@
 
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/clion/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/c/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cpp/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/html/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/css/" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/" />
 
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
