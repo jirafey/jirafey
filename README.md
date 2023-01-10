@@ -108,5 +108,7 @@ Dutch - A1 <br>
 [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
 
 [`Running cat GIF creator`](https://giphy.com/otajaider)
+                    
+[`Simple icons`](https://github.com/simple-icons/simple-icons#readme)
 </div>                                                                                                                         
 </details>
