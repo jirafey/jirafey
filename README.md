@@ -26,12 +26,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" />  
 <img height="32" width="32" src="https://grzegorzkmita.com/images/email.png" />
-</div><div align="center">
-
- 
-
-</div>
-
+</div><div align="center"></div>
 
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
