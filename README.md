@@ -12,17 +12,14 @@
 <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
   
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)  
-
 ---
+#
+##
+###
+####
+######
+#######
   
-  #
-  
-  ##
-  
-  ###
-  
-  ####
-
 <details>
 <summary>Stats:</summary>
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&langs_count=4&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 50%; max-width: 50%; min-width: 50%;">
