@@ -62,6 +62,10 @@
   </div>
 <div align="center">
 
+
+![](/images/Arduino.svg)(https://grzegorzkmita.com#gh-dark-mode-only)
+
+                   
 #
 
 <h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
