@@ -41,7 +41,7 @@
 <a href="https://www.python.org"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
 <img height="32" width="32" alt="Matlab" src="images/Matlab-Dark.svg"></picture></a>
-</div><div align="center">
+</div><div align="center"><h2>Technologies & Other</h2>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Light.svg">
 <img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></picture></a>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
@@ -51,9 +51,7 @@
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>                                    
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
 <img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>
-<!--  do all the icons like this :)-->
-  </div>
-<div align="center">                                  
+<!--  do all the icons like this :)-->                                
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
