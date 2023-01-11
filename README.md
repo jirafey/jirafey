@@ -62,7 +62,7 @@
   </div>
 <div align="center">            
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="/images/Arduino.svg">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/Jirafey/Jirafey/blob/main/images/pycharm.png">
 </picture>
                    
