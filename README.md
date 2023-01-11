@@ -53,8 +53,7 @@
 <a href="https://www.python.org"><img height="32" width="32" alt="VSCode" src="images/VSCode-Light.svg"></picture></a>                           
 <a href="https://www.python.org"><img height="32" width="32" src="images/clion.png" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/pycharm-high-res.png" /></a> 
-<a href="https://grzegorzkmita.com">
-<a href="https://www.python.org"><<a href="https://www.python.org">><source media="(prefers-color-scheme: dark)" srcset="Unity-Dark.svg">
+<a href="https://www.python.org"><a href="https://www.python.org">><source media="(prefers-color-scheme: dark)" srcset="Unity-Dark.svg">
 <a href="https://www.python.org"><img height="32" width="32" alt="Unity" src="images/Unity-Light.svg"></picture></a>
   </div>
 <div align="center">                                  
