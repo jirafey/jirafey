@@ -8,7 +8,6 @@
 <div align="center">
   
 # `Hello 😸, I'm Grzegorz`
-  ---
 <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
   
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)  
@@ -26,6 +25,8 @@
   <a href="grzegorz-kmita-resume.pdf">
 <div align="center">
 
+                   #
+                   
   <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Python-Dark.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/C.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CPP.svg" />
