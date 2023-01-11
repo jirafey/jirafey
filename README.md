@@ -52,7 +52,7 @@
 <a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Dark.svg">
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Light.svg"></picture></a>                           
 <img height="32" width="32" src="images/clion.png" />
-<img height="32" width="32" src="images/pycharm.png" />
+<img height="32" width="32" src="images/pycharm-2.png" />
 <a href="https://grzegorzkmita.com">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Unity/">
 <img height="32" width="32" alt="Unity" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogo.png"></picture></a>
