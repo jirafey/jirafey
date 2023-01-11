@@ -47,12 +47,13 @@
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
 <img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a>
 <a href="https://www.python.org"><img height="32" width="32" src="images/Git.svg" />
-<!--  do all the icons like this :)-->
-  </div><div align="center">
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>                                    
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
-<img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>  
+<img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>
+<!--  do all the icons like this :)-->
+  </div><div align="center">
+  
   </div>
 <div align="center">                                  
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
