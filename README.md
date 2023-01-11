@@ -43,7 +43,7 @@
   
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)  
 
----
+
 
 <details>
 <summary>Stats:</summary>
