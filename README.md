@@ -37,7 +37,7 @@
   <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/HTML.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CSS.svg" /> 
 <a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Dark.svg">
-<img height="32" width="32" alt="Markdown" src="images/icons8-markdown-32.png"></picture></a>
+<img height="32" width="32" alt="Markdown" src="images/Markdown-Light.svg"></picture></a>
 <a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Dark.svg">
 <img height="32" width="32" alt="Matlab" src="images/Matlab-Light.svg"></picture></a>
 </div><div align="center">
