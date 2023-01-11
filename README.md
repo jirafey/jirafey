@@ -64,17 +64,16 @@
   </div>
 <div align="center">  <a href="https://grzegorzkmita.com">          
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/images/Arduino.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="/images/pycharm.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="/images/Unity.png">
 </picture></a>
-                             
-            <i class="devicon-unity-original colored"></i>
+
           
 #
 
 <h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
-<a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png" padding="10px"/></a>
-
+<a href="https://jirafey.itch.io/teacup-adventure"><img src="" padding="10px"/></a>
+          
 <div align="center">
 <a href="https://jirafey.itch.io/squaremadness"><img src="https://user-images.githubusercontent.com/97115044/211327312-3b9ac0c9-104e-47ea-8d88-8d65bfbba1d8.png" padding="10px"/> </a>
                   
