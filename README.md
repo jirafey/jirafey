@@ -62,7 +62,7 @@
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Light.svg"></picture></a>                                                                                                            
 <a href="https://grzegorzkmita.com">                                                                                                           
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-<img height="32" width="32" alt="LinkedIn" src="images/linkedin-Dark.svg" /></picture></a>
+<img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" /></picture></a>
                                                                                        
 <img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" />  
