@@ -44,42 +44,7 @@
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)  
 <details>
 <summary>Stats:</summary>
-<img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&langs_count=4&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 50%; max-width: 50%; min-width: 50%;">
-<img alt="GitHub stats" src="https://github-readme-stats-k4xr.vercel.app/api?username=Jirafey&hide=prs&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" style="width: 50%; max-width: 50%; min-width: 50%;">
-</details>
-<a href="https://grzegorzkmita.com">Personal website</a>
-</div><br>                    
-<div align="center">
-  <a href="grzegorz-kmita-resume.pdf">Resume</a>
-<p align="center"> 
-  <a href="grzegorz-kmita-resume.pdf">
-<div align="center">
 
-  <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Python-Dark.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/C.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CPP.svg" />
-  <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/HTML.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CSS.svg" />
-  <img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/Markdown-Dark.svg" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg" />  
-</div><div align="center">
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Git.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Github-Dark.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Vercel-Dark.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Arduino.svg" />
-
-  </div><div align="center">
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/VSCode-Dark.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/clion.png" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/pycharm.png" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/Unity/" /> 
-  </div><div align="center">
-<img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/StackOverflow-Dark.svg" />
-<img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/linkedin-Dark.svg" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" />  
-<img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" />  
-<img height="32" width="32" src="https://grzegorzkmita.com/images/email.png" />
-</div><div align="center"></div>
   </a>
 </p>
   </div>
