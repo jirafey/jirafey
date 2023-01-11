@@ -53,8 +53,8 @@
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
-<img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a></div>
-<a href="https://www.python.org"><img height="32" width="32" src="images/Git.svg" />      
+<img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>
+<a href="https://www.python.org"><img height="32" width="32" src="images/Git.svg" /> </div>     
                                                                                  
 #
                                                                             
