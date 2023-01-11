@@ -57,8 +57,8 @@
 <img height="32" width="32" alt="Unity" src="images/Unity-Light.svg"></picture></a>
   </div>
 <div align="center">                                  
-<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Dark.svg">
-<img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Light.svg"></picture></a>                                                                     <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
+<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
+<img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>                                                                     <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
 <a href="https://www.python.org"><img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>                                             <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" </img></a>   
 <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" </img></a>   
 <a href="https://www.python.org"><img height="32" width="32" src="https://grzegorzkmita.com/images/email.png"</img></a> 
