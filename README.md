@@ -64,7 +64,9 @@
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png" padding="10px"/></a>
           
 <div align="center">
-<a href="https://jirafey.itch.io/squaremadness"><img src="https://user-images.githubusercontent.com/97115044/211327312-3b9ac0c9-104e-47ea-8d88-8d65bfbba1d8.png" padding="10px"/> </a>
+<a href="https://jirafey.itch.io/squaremadness"><img src="https://user-images.githubusercontent.com/97115044/211327312-3b9ac0c9-104e-47ea-8d88-8d65bfbba1d8.png"
+[`Square Madness`] <iframe frameborder="0" src="https://itch.io/embed/1398742?linkback=true&amp;border_width=0" width="550" height="165"><a href="https://jirafey.itch.io/teacup-adventure">Teacup Adventure by Jirafey</a></iframe>
+padding="10px"/> </a>
                   
 <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px"/> </a> 
 
