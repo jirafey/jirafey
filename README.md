@@ -2,10 +2,14 @@
 
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
-# Hello, I'm Grzegorz 😸 
 
 </div>
+
+# Hello, I'm Grzegorz 😸 
+
 <div align="center">
+  
+  
 <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
   
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)  
