@@ -63,7 +63,7 @@
 <div align="center">
 
 
-![arduino](https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg#gh-dark-mode-only)](https://grzegorzkmita.com)
+[![arduino](https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg#gh-dark-mode-only)](https://grzegorzkmita.com)
 
                    
 #
