@@ -60,8 +60,8 @@
   </a>
 </p>
   </div>
-<div align="center">            
-<picture><a href="https://grzegorzkmita.com">
+<div align="center">  <a href="https://grzegorzkmita.com">          
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="/images/Arduino.svg">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="/images/pycharm.png">
 </picture></a>
