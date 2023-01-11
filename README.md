@@ -58,15 +58,12 @@
   </div>
 <div align="center">                                   
 <picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Dark.svg">
-<a href="https://www.python.org"><img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Light.svg"></picture></a>                                                                                                            
-<a href="https://grzegorzkmita.com">                                                                                                           
+<a href="https://www.python.org"><img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Light.svg"></picture></a>                                   <a href="https://grzegorzkmita.com">                                                                                                           
 <picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
-<a href="https://www.python.org"><img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" /></picture></a>
-                                                                                       
-<a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" /></a>   
-<a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" /></a>   
-<a href="https://www.python.org"><img height="32" width="32" src="https://grzegorzkmita.com/images/email.png" /></a> 
-
+<a href="https://www.python.org"><img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>                                             <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" </img></a>   
+<a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" </img></a>   
+<a href="https://www.python.org"><img height="32" width="32" src="https://grzegorzkmita.com/images/email.png"</img></a> 
+</div>
 #
                                                                             
 <h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
