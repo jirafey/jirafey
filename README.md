@@ -52,10 +52,10 @@
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/clion.png" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/pycharm.png" />
 <a href="https://grzegorzkmita.com">
-                                   
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Unity/">
 <img height="32" width="32" alt="Unity" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogo.png"></picture></a>
-  </div><div align="center">
+  </div><div align="center">                                   
+
 <img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/StackOverflow-Dark.svg" />
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 <img height="32" width="32" alt="LinkedIn" src="https://github.com/Jirafey/Jirafey/blob/main/images/linkedin-Dark.svg" /></picture></a>
