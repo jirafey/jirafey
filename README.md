@@ -30,8 +30,8 @@
 <p align="center"> 
   <a href="grzegorz-kmita-resume.pdf">
 <div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Dark.svg">
-<a href="https://www.python.org"><img height="32" width="32" alt="Python" src="images/Python-Light.svg"></picture></a>                                                 <a href="https://www.python.org"><img height="32" width="32" src="images/C.svg" /></a> 
+<picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
+<a href="https://www.python.org"><img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a>                                                 <a href="https://www.python.org"><img height="32" width="32" src="images/C.svg" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/CPP.svg" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/HTML.svg" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/CSS.svg" /></a>  
