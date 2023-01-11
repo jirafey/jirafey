@@ -31,17 +31,21 @@
   <a href="grzegorz-kmita-resume.pdf">
 <div align="center">
   <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Python-Dark.svg" </img>
+<a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Dark.svg">
+<img height="32" width="32" alt="Python" src="images/Python-Light.svg"></picture></a>                                                                                   
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/C.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CPP.svg" />
   <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/HTML.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CSS.svg" /> 
 <a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Dark.svg">
-<img height="32" width="32" alt="Unity" src="images/icons8-markdown-32.png"></picture></a>
-<img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg" />  
+<img height="32" width="32" alt="Markdown" src="images/icons8-markdown-32.png"></picture></a>
+<a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Dark.svg">
+<img height="32" width="32" alt="Matlab" src="images/Matlab-Light.svg"></picture></a>
 </div><div align="center">
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Git.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Github-Dark.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Vercel-Dark.svg" />
+<a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Dark.svg">
+<img height="32" width="32" alt="Github" src="images/Github-Light.svg"></picture></a>                                                                                     <a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Dark.svg">
+<img height="32" width="32" alt="Vercel" src="images/Vercel-Light.svg"></picture></a>
 <a href="https://grzegorzkmita.com">
  <img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
 <!--  do all the icons like this :)-->
@@ -54,7 +58,8 @@
 <img height="32" width="32" alt="Unity" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogo.png"></picture></a>
   </div>
 <div align="center">                                   
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/StackOverflow-Dark.svg" />
+<a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Dark.svg">
+<img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Light.svg"></picture></a>                                                                                                            
 <a href="https://grzegorzkmita.com">                                                                                                           
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
 <img height="32" width="32" alt="LinkedIn" src="https://github.com/Jirafey/Jirafey/blob/main/images/linkedin-Dark.svg" /></picture></a>
