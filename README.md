@@ -59,6 +59,7 @@
 <a href="https://www.python.org"><img height="32" width="32" src="images/Git.svg" /> </div>     
                                                                                  
 #
+                                                                                 
 <div align="center">                                                                           
 <h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png" padding="10px"/></a>
@@ -73,6 +74,7 @@ padding="10px"/> </a>
 <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px"/> </a> 
 
 `Pong`
+
   </div>
   
 <div align ="center">
