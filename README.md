@@ -63,7 +63,7 @@
 <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" </img></a>   
 <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" </img></a>
 <a href="mailto:grzegorzkmita@tuta.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://grzegorzkmita.com/images/email.png">
-<img height="36" width="36" alt="mail" src="https://grzegorzkmita.com/images/email.png"></img></picture></a></div>
+<img height="32" width="32" alt="mail" src="https://grzegorzkmita.com/images/email.png"></img></picture></a></div>
                                                                                                              
 #
                                                                             
