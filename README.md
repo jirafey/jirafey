@@ -1,4 +1,6 @@
 <!-- individual links and https://simpleicons.org/ !-->
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
@@ -66,6 +68,8 @@
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="/images/pycharm.png">
 </picture></a>
                              
+            <i class="devicon-unity-original colored"></i>
+          
 #
 
 <h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
