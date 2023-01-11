@@ -58,8 +58,6 @@
   <a href="grzegorz-kmita-resume.pdf">
 <div align="center">
 
-#
-
   <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Python-Dark.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/C.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CPP.svg" />
