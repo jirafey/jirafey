@@ -29,7 +29,7 @@
   <a href="grzegorz-kmita-resume.pdf">Resume</a>
 <p align="center"> 
   <a href="grzegorz-kmita-resume.pdf">
-<div align="center"><h2>Technologies</h2>
+<div align="center"><h2>Languages</h2>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
 <img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/C.svg" /></a> 
@@ -41,8 +41,7 @@
 <a href="https://www.python.org"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
 <img height="32" width="32" alt="Matlab" src="images/Matlab-Dark.svg"></picture></a>
-                                                                     
-</div><div align="center"><h2>Skills & Other</h2>
+
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Light.svg">
 <img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></picture></a>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
