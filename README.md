@@ -19,15 +19,15 @@
 <img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/linkedin-Dark.svg" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg" />  
 <img height="32" width="32" src="https://grzegorzkmita.com/images/email.png" />
-
+</div><div align="center">
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/clion.png" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/pycharm.png" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/Unity/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" />  
-
-
 </div>
+
+
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
 
