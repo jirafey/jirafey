@@ -29,9 +29,10 @@
   <a href="grzegorz-kmita-resume.pdf">Resume</a>
 <p align="center"> 
   <a href="grzegorz-kmita-resume.pdf">
-<div align="center">
+<div align="center"><a href="https://www.python.org">
 <picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
-<a href="https://www.python.org"><img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a>                                                 <a href="https://www.python.org"><img height="32" width="32" src="images/C.svg" /></a> 
+<img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a> 
+<img height="32" width="32" src="images/C.svg" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/CPP.svg" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/HTML.svg" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/CSS.svg" /></a>  
