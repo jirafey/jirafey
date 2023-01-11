@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Python-Dark.svg" />
+  <a href="https://github.com/Jirafey/grzegorzkmita.com"><img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Python-Dark.svg" <img/></a>
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/C.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CPP.svg" />
   <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/HTML.svg" />
