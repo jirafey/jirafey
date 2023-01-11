@@ -7,7 +7,7 @@
 
 <div align="center">
   
- # [`Hello, I'm Grzegorz 😸 `]
+ # `Hello, I'm Grzegorz 😸 `
   
 <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
   
