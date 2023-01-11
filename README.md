@@ -42,12 +42,11 @@
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
 <img height="32" width="32" alt="Matlab" src="images/Matlab-Dark.svg"></picture></a>
 </div><div align="center">
-<a href="https://www.python.org"><img height="32" width="32" src="images/Git.svg" />
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Light.svg">
 <img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></picture></a>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
 <img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a>
-
+<a href="https://www.python.org"><img height="32" width="32" src="images/Git.svg" />
 <!--  do all the icons like this :)-->
   </div><div align="center">
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
