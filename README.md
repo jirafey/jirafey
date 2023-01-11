@@ -64,7 +64,7 @@
   </div>
 <div align="center">  <a href="https://grzegorzkmita.com">          
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Unity/">
   <img height="32" width="32" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogo.png">
 </picture></a>
 
