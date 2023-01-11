@@ -2,9 +2,9 @@
 
 <div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
+# Hello, I'm Grzegorz 😸 
 
 </div>
-# Hello, I'm Grzegorz 😸 
 <div align="center">
 <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
   
