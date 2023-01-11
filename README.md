@@ -58,11 +58,7 @@
 <div align="center">                                  
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>                                         <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
-<img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>
-<a href="mailto:grzegorzkmita@tuta.io"><picture><source media="(prefers-color-scheme: dark)" srcset="images/email-png.png">
-<img height="32" width="32" alt="mail" src="images/email-png.png"></img></picture></a></div>
-
-                                                                                              
+<img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>                                                                                       
 #
                                                                             
 <h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
