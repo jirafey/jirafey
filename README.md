@@ -52,29 +52,17 @@
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/clion.png" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/pycharm.png" />
 <a href="https://grzegorzkmita.com">          
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Unity/">
-  <img height="32" width="32" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogo.png">
-</picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Unity/">
+<img height="32" width="32" alt="Unity" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogo.png"></picture></a>
   </div><div align="center">
 <img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/StackOverflow-Dark.svg" />
 <img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/linkedin-Dark.svg" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" />  
 <img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" />  
 <img height="32" width="32" src="https://grzegorzkmita.com/images/email.png" />
-</div><div align="center"></div>
-  </a>
-</p>
-  </div>
-<div align="center">  <a href="https://grzegorzkmita.com">          
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Unity/">
-  <img height="32" width="32" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogo.png">
-</picture></a>
 
-          
 #
-
+                                                                            
 <h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png" padding="10px"/></a>
           
