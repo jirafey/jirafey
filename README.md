@@ -106,7 +106,7 @@
 
 <div align ="center">
 <details>
-<summary><h3>💬 </h3></summary>
+<summary><h3>💬 </h3></summary> />
 
 Polish - Native <br>
 English - C1 <br>
