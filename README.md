@@ -42,8 +42,10 @@
 <a href="https://www.python.org"><img height="32" width="32" alt="Matlab" src="images/Matlab-Light.svg"></picture></a>
 </div><div align="center">
 <a href="https://www.python.org"><img height="32" width="32" src="images/Git.svg" />
-<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
-<img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a>                                                                                    <a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Dark.svg">
+<a href="https://www.python.org">
+                                <picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
+<img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a>
+<a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Dark.svg">
 <a href="https://www.python.org"><img height="32" width="32" alt="Vercel" src="images/Vercel-Light.svg"></picture></a>
 <a href="https://grzegorzkmita.com">
 <a href="https://www.python.org"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
