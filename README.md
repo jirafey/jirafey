@@ -61,21 +61,11 @@
 </p>
   </div>
 <div align="center">            
-<picture>
+<picture><a href="https://grzegorzkmita.com">
   <source media="(prefers-color-scheme: dark)" srcset="/images/Arduino.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://github.com/Jirafey/Jirafey/blob/main/images/pycharm.png">
-</picture>
-                   
-<a href="https://grzegorzkmita.com">
- <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/linkedin-Dark.svg#gh-light-mode-only" </img></a>
- 
- <a href="https://grzegorzkmita.com">
- <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/linkedin-Dark.svg#gh-dark-mode-only" </img></a>
-
-[![arduino](https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg)](https://grzegorzkmita.com#gh-light-mode-only)
-[![arduino](https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/CSS.svg)](https://grzegorzkmita.com#gh-dark-mode-only)
-
-                   
+  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="/images/pycharm.png">
+</picture></a>
+                             
 #
 
 <h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
