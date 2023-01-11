@@ -64,8 +64,16 @@
 
 <a href="https://grzegorzkmita.com">
  <img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg#gh-light-mode-only" </img></a>
+ 
+ <a href="https://grzegorzkmita.com">
+ <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/linkedin-Dark.svg#gh-dark-mode-only" </img></a>
        
-      
+       <a href="https://grzegorzkmita.com#gh-dark-mode-only">
+ <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/pycharm.png" </img></a>
+       
+[![arduino](https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg)](https://grzegorzkmita.com#gh-light-mode-only)
+[![arduino](https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/CSS.svg)](https://grzegorzkmita.com#gh-dark-mode-only)
+
                    
 #
 
