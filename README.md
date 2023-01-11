@@ -30,7 +30,7 @@
 <p align="center"> 
   <a href="grzegorz-kmita-resume.pdf">
 <div align="center"><a href="https://www.python.org">
-<picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
+<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
 <img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a> 
 <img height="32" width="32" src="images/C.svg" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/CPP.svg" /></a> 
@@ -38,29 +38,28 @@
 <a href="https://www.python.org"><img height="32" width="32" src="images/CSS.svg" /></a>  
 <picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Dark.svg">
 <a href="https://www.python.org"><img height="32" width="32" alt="Markdown" src="images/Markdown-Light.svg"></picture></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Dark.svg">
+<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Dark.svg">
 <a href="https://www.python.org"><img height="32" width="32" alt="Matlab" src="images/Matlab-Light.svg"></picture></a>
 </div><div align="center">
 <a href="https://www.python.org"><img height="32" width="32" src="images/Git.svg" />
-<picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
+<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
 <a href="https://www.python.org"><img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a>                                                                                     <a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Dark.svg">
 <a href="https://www.python.org"><img height="32" width="32" alt="Vercel" src="images/Vercel-Light.svg"></picture></a>
 <a href="https://grzegorzkmita.com">
 <a href="https://www.python.org"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
 <!--  do all the icons like this :)-->
   </div><div align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Dark.svg">
+<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Dark.svg">
 <a href="https://www.python.org"><img height="32" width="32" alt="VSCode" src="images/VSCode-Light.svg"></picture></a>                           
 <a href="https://www.python.org"><img height="32" width="32" src="images/clion.png" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/pycharm-high-res.png" /></a> 
 <a href="https://grzegorzkmita.com">
-<picture><source media="(prefers-color-scheme: dark)" srcset="Unity-Dark.svg">
+<a href="https://www.python.org"><<a href="https://www.python.org">><source media="(prefers-color-scheme: dark)" srcset="Unity-Dark.svg">
 <a href="https://www.python.org"><img height="32" width="32" alt="Unity" src="images/Unity-Light.svg"></picture></a>
   </div>
-<div align="center">                                   
-<picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Dark.svg">
-<a href="https://www.python.org"><img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Light.svg"></picture></a>                                   <a href="https://grzegorzkmita.com">                                                                                                           
-<picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
+<div align="center">                                  
+<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Dark.svg">
+<img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Light.svg"></picture></a>                                                                     <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
 <a href="https://www.python.org"><img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>                                             <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" </img></a>   
 <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" </img></a>   
 <a href="https://www.python.org"><img height="32" width="32" src="https://grzegorzkmita.com/images/email.png"</img></a> 
