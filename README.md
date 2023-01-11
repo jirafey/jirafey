@@ -17,7 +17,7 @@
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&langs_count=4&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 50%; max-width: 50%; min-width: 50%;">
 <img alt="GitHub stats" src="https://github-readme-stats-k4xr.vercel.app/api?username=Jirafey&hide=prs&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" style="width: 50%; max-width: 50%; min-width: 50%;">
 
-#
+---
 
 </details>
 
@@ -62,7 +62,7 @@
   </div>
 <div align="center">
 
-#####
+---
 
 <h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png" padding="10px"/></a>
