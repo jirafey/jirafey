@@ -64,7 +64,7 @@
 
 
 [![arduino](https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg)](https://grzegorzkmita.com#gh-light-mode-only)
-[![arduino](https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg)](https://grzegorzkmita.com#gh-dark-mode-only)
+[![arduino](https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/CSS.svg)](https://grzegorzkmita.com#gh-dark-mode-only)
 
                    
 #
