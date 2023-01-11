@@ -30,8 +30,7 @@
 <p align="center"> 
   <a href="grzegorz-kmita-resume.pdf">
 <div align="center">
-
-  <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Python-Dark.svg" />
+  <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Python-Dark.svg" </img>
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/C.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CPP.svg" />
   <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/HTML.svg" />
@@ -45,10 +44,8 @@
 <a href="https://grzegorzkmita.com">
  <img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
 <!--  do all the icons like this :)-->
- 
-
   </div><div align="center">
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/VSCode-Dark.svg" />
+<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/VSCode-Dark.svg" </img>
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/clion.png" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/pycharm.png" />
 <a href="https://grzegorzkmita.com">
