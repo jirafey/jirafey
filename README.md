@@ -58,8 +58,9 @@
 <div align="center">                                  
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>                                         <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
-<img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a></div>                                                                                       
-#
+<img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a></div>
+                                                                    
+                                                                    #
                                                                             
 <h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png" padding="10px"/></a>
