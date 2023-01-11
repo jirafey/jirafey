@@ -15,10 +15,7 @@
 ---
 #
 ##
-###
-####
-######
-#######
+
   
 <details>
 <summary>Stats:</summary>
