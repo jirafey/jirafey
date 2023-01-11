@@ -9,6 +9,7 @@
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CSS.svg" />
   <img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/Markdown-Dark.svg" />
   <img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg" />  
+</div><div align="center">
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Git.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Github-Dark.svg" />
 <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Vercel-Dark.svg" />
