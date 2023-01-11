@@ -1,36 +1,6 @@
 <!-- individual links and https://simpleicons.org/ !-->
 
 <div align="center">
-
- <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Python-Dark.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/C.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CPP.svg" />
-  <img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/HTML.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/CSS.svg" />
-  <img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/Markdown-Dark.svg" />
-  <img height="32" width="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg" />  
-</div><div align="center">
- 
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Git.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Github-Dark.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/Vercel-Dark.svg" />
-
- 
-  </div><div align="center">
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/VSCode-Dark.svg" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/clion.png" />
-<img height="32" width="32" src="https://github.com/Jirafey/Jirafey/blob/main/images/pycharm.png" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/Unity/" /> 
- 
-  </div><div align="center">
-<img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/StackOverflow-Dark.svg" />
-<img height="32" width="32"src="https://github.com/Jirafey/Jirafey/blob/main/images/linkedin-Dark.svg" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" />  
-<img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" />  
-<img height="32" width="32" src="https://grzegorzkmita.com/images/email.png" />
-</div><div align="center"></div>
-
-<div align="center">
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="left"/><br><br>
 
 # Hello, I'm Grzegorz 😸 <br> 
