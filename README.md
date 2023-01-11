@@ -53,8 +53,8 @@
 <a href="https://www.python.org"><img height="32" width="32" src="images/clion.png" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/pycharm-high-res.png" /></a> 
 <a href="https://grzegorzkmita.com">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/Unity/">
-<a href="https://www.python.org"><img height="32" width="32" alt="Unity" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogo.png"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="Unity-Dark.svg">
+<a href="https://www.python.org"><img height="32" width="32" alt="Unity" src="images/Unity-Light.svg"></picture></a>
   </div>
 <div align="center">                                   
 <picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Dark.svg">
@@ -64,6 +64,7 @@
 <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" </img></a>   
 <a href="https://www.python.org"><img height="32" width="32" src="https://grzegorzkmita.com/images/email.png"</img></a> 
 </div>
+                                                                                                             
 #
                                                                             
 <h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
