@@ -58,12 +58,12 @@
   </div>
 <div align="center">                                  
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
-<img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>                                                                     <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
+<img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>                                         <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
 <img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>
 <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" </img></a>   
 <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" </img></a>   
 <a href="mailto:grzegorzkmita@tuta.io"><picture><source media="(prefers-color-scheme: dark)" srcset="images/mail-light.svg">
-<img height="32" width="32" alt="mail" src="images/mail-dark.svg"></picture></a>
+<img height="32" width="32" alt="mail" src="images/mail-dark.svg"></img></picture></a></div>
                                                                                                              
 #
                                                                             
