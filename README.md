@@ -65,7 +65,7 @@
 <div align="center">  <a href="https://grzegorzkmita.com">          
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="/images/Unity.png">
+  <img height="32" width="32" alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="/images/Unity.png">
 </picture></a>
 
           
