@@ -61,7 +61,7 @@
 <a href="https://grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Dark.svg">
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Light.svg"></picture></a>                                                                                                            
 <a href="https://grzegorzkmita.com">                                                                                                           
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+<picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
 <img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" /></picture></a>
                                                                                        
 <img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" />  
