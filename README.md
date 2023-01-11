@@ -36,8 +36,8 @@
 <a href="https://www.python.org"><img height="32" width="32" src="images/CPP.svg" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/HTML.svg" /></a> 
 <a href="https://www.python.org"><img height="32" width="32" src="images/CSS.svg" /></a>  
-<picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg">
-<a href="https://www.python.org"><img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
+<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg">
+<img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
 <a href="https://www.python.org"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
 <img height="32" width="32" alt="Matlab" src="images/Matlab-Dark.svg"></picture></a>
@@ -62,8 +62,8 @@
 <img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>
 <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/Itch.io/" </img></a>   
 <a href="https://www.python.org"><img height="32" width="32" src="https://cdn.simpleicons.org/BuyMeACoffee/" </img></a>   
-<picture><source media="(prefers-color-scheme: dark)" srcset="images/mail-light.svg">
-<a href="mailto:grzegorzkmita@tuta.io"><img height="32" width="32" alt="mail" src="images/mail-dark.svg"></picture></a>
+<a href="mailto:grzegorzkmita@tuta.io"><picture><source media="(prefers-color-scheme: dark)" srcset="images/mail-light.svg">
+<img height="32" width="32" alt="mail" src="images/mail-dark.svg"></picture></a>
                                                                                                              
 #
                                                                             
