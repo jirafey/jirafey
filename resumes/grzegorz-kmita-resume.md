@@ -1,6 +1,6 @@
  #  **Grzegorz Kmita** 
-| [![bmac](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/icon/bmac.png)](https://www.buymeacoffee.com/jirafey)         |[![itch.io](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/itch.png)](https://jirafey.itch.io/)     | [![linkedin](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/linkedin.png)](https://www.linkedin.com/in/grzegorzkmita) | [![email](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/email.png)](mailto:grzegorzkmita@tuta.io)         |[![github](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/github.png)](https://github.com/Jirafey)|  [![website](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/icon/favicon-32x32.png)](https://grzegorzkmita.com)|
-|--------------|-----------|------------|--------------|-----------|------------|
+|         |[![itch.io](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/itch.png)](https://jirafey.itch.io/)     | [![linkedin](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/linkedin.png)](https://www.linkedin.com/in/grzegorzkmita) | [![email](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/email.png)](mailto:grzegorzkmita@tuta.io)         |[![github](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/github.png)](https://github.com/Jirafey)|  [![website](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/icon/favicon-32x32.png)](https://grzegorzkmita.com)|
+|--------------|-----------|------------|--------------|-----------|
 
 
 ### Personal Profile
