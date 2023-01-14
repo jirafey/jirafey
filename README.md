@@ -1,8 +1,8 @@
 |[Support my work 💛](https://www.buymeacoffee.com/jirafey)|
-    |:-------------:|
-    |[My links](linktree.com/grzegorzkmita)|
-    |[Portfolio website](https://grzegorzkmita.com)|
-    |[Resume](https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf)|
+|:-------------:|
+|[My links](linktree.com/grzegorzkmita)|
+|[Portfolio website](https://grzegorzkmita.com)|
+|[Resume](https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf)|
 
 <!-- individual links and https://simpleicons.org/ !-->
 <!-- in your header -->
