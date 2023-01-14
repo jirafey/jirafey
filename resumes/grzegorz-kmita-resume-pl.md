@@ -8,7 +8,7 @@ Inżynier Oprogramowania **Październik 2022 - 2026**
 Ukończony kurs Python, Access, Excel na encodeme-maturalnie.pl **Maj 2022**
 
 #### **Technologie**
-[![Moje umiejętności](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,linkedin,vercel,stackoverflow,vscode,visualstudio,unity,matlab,discord)](https://github.com/Jirafey)
+[![Moje umiejętności](https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,vercel,stackoverflow,vscode,visualstudio,unity,matlab,discord)](https://github.com/Jirafey)
 
 #### **Główny język programowania - Python 3** 
 - [GeoJam 2022](https://itch.io/jam/geojam-2022) - [Jednoosobowy kosmiczny shooter 2D "Square Madness" w  pygame](https://jirafey.itch.io/Square-Madness) 
