@@ -24,7 +24,7 @@
 ---
 
 </details>
-
+<a href="linktree.com/grzegorzkmita">My links</a>
 <a href="https://grzegorzkmita.com">Personal website</a>
 </div>                   
 <div align="center">
