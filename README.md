@@ -1,3 +1,9 @@
+|[Support my work 💛](https://www.buymeacoffee.com/jirafey)|
+    |:-------------:|
+    |[My links](linktree.com/grzegorzkmita)|
+    |[Portfolio website](https://grzegorzkmita.com)|
+    |[Resume](https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf)|
+
 <!-- individual links and https://simpleicons.org/ !-->
 <!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
@@ -10,11 +16,7 @@
 <div align="center">
   
 # `Hello 😸, I'm Grzegorz`
-    |[Support my work 💛](https://www.buymeacoffee.com/jirafey)|
-    |:-------------:|
-    |[My links](linktree.com/grzegorzkmita)|
-    |[Portfolio website](https://grzegorzkmita.com)|
-    |[Resume](https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf)|
+    
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)  
   <details><summary>Github stats</summary>
     <div align="center">
