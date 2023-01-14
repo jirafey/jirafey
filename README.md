@@ -12,13 +12,12 @@
 <div align="center">
   
 # `Hello 😸, I'm Grzegorz`
-|![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)|  
-|:-------------:|
 |[My links](linktree.com/grzegorzkmita)|
+|:-------------:|
 |[Support my work 💛](https://www.buymeacoffee.com/jirafey)|
 |[Portfolio website](https://grzegorzkmita.com)|
 |[Resume](https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf)|
-
+##### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)
   <details><summary>Github stats</summary>
     <div align="center">
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&langs_count=6&layout=compact&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 30%; max-width: 30%; min-width: 30%;"></div><div align="center">
