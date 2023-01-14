@@ -1,15 +1,12 @@
- #  **Grzegorz Kmita** 
-|[![itch.io](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/itch.png)](https://jirafey.itch.io/)     | [![linkedin](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/linkedin.png)](https://www.linkedin.com/in/grzegorzkmita) | [![email](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/email.png)](mailto:grzegorzkmita@tuta.io)         |[![github](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/github.png)](https://github.com/Jirafey)|  [![website](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/icon/favicon-32x32.png)](https://grzegorzkmita.com)|
-|--------------|-----------|------------|--------------|-----------|
+  [![website](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/icon/icon3.png)](https://grzegorzkmita.com) [![linkedin](https://raw.githubusercontent.com/Jirafey/Jirafey/36d88da2328b253eb5e1a7813d9926d546282e6d/images/linkedin-48.svg)](https://www.linkedin.com/in/grzegorzkmita) [![email](https://raw.githubusercontent.com/Jirafey/Jirafey/45ddf46127a9ad7f5a6082d4b0d2964e1c7ba6ad/images/mail-48.svg)](mailto:grzegorzkmita@tuta.io) [![github](https://raw.githubusercontent.com/Jirafey/Jirafey/45ddf46127a9ad7f5a6082d4b0d2964e1c7ba6ad/images/github-48.svg)](https://github.com/Jirafey) [![itch.io](https://raw.githubusercontent.com/Jirafey/Jirafey/45ddf46127a9ad7f5a6082d4b0d2964e1c7ba6ad/images/itch-48.svg)](https://jirafey.itch.io/)
+   #  **Grzegorz Kmita** (+48 576 566 560)
 
-
-### Personal Profile
-* Highly motivated, Computer Science student with superb communication skills, looking for a software engineering role. Eager to learn from experienced engineers. A self‑starter with an ambition to strengthen programming skills and take part in building applications.
+Highly motivated, Computer Science student with superb communication skills, looking for a software engineering role. Eager to learn from experienced engineers. A self‑starter with an ambition to strengthen programming skills and take part in building applications.
 
 ### Education
-* Finished Python, Access, Excel course on https://encodeme-maturalnie.pl **May 2022**
 * West Pomeranian University of Technology Poland
-* BEng in Computer Science **Oct 2022 – Present**
+BE in Computer Science **Oct 2022 – Present**
+* Finished Python, Access, Excel course on https://encodeme-maturalnie.pl **May 2022**
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=git,vercel,stackoverflow,vscode,visualstudio,unity,python,c,cpp,html,css,javascript,discord,matlab)](https://github.com/Jirafey)
@@ -37,3 +34,5 @@
 * CSS 
 * Javascript 
 * https://grzegorzkmita.com
+
+ 
