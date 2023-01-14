@@ -10,7 +10,7 @@
 <div align="center">
   
 # `Hello 😸, I'm Grzegorz`
-  <div align="left" style padding=10px;>
+  <div align="left">
 <a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a> 
   <a href="linktree.com/grzegorzkmita">My links</a>
 <a href="https://grzegorzkmita.com">Portfolio website</a>
