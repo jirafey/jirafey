@@ -10,9 +10,11 @@
 <div align="center">
   
 # `Hello 😸, I'm Grzegorz`
-<a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a> <a href="linktree.com/grzegorzkmita">My links</a>
-<a href="https://grzegorzkmita.com">Personal website</a>
-  
+  <div align="left" style padding=10px;>
+<a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a> 
+  <a href="linktree.com/grzegorzkmita">My links</a>
+<a href="https://grzegorzkmita.com">Portfolio website</a>
+  </div>
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)  
   <details><summary>Github stats</summary>
     <div align="center">
