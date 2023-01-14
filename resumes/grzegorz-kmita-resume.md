@@ -5,7 +5,7 @@ Highly motivated, Computer Science student with superb communication skills, loo
 
 ### Education
 * West Pomeranian University of Technology Poland
-BE in Computer Science **Oct 2022 – Present**
+-- BE in Computer Science **Oct 2022 – Present**
 * Finished Python, Access, Excel course on https://encodeme-maturalnie.pl **May 2022**
 
 ### Skills
