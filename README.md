@@ -10,7 +10,8 @@
 <div align="center">
   
 # `Hello 😸, I'm Grzegorz`
-<a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a>
+<a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a> <a href="linktree.com/grzegorzkmita">My links</a>
+<a href="https://grzegorzkmita.com">Personal website</a>
   
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)  
   <details><summary>Github stats</summary>
@@ -24,8 +25,7 @@
 ---
 
 </details>
-<a href="linktree.com/grzegorzkmita">My links</a>
-<a href="https://grzegorzkmita.com">Personal website</a>
+
 </div>                   
 <div align="center">
   <a href="https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf">Resume</a>
