@@ -15,6 +15,7 @@
     <p><a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a> </p>
     <p> <a href="linktree.com/grzegorzkmita">My links</a></p>
     <p><a href="https://grzegorzkmita.com">Portfolio website</a></p>
+    <p>  <a href="https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf">Resume</a>
   </div>
   
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)  
@@ -32,7 +33,7 @@
 
 </div>                   
 <div align="center">
-  <a href="https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf">Resume</a>
+
 <p align="center"> 
 <div align="center"><h2>Technologies</h2>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
