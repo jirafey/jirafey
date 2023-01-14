@@ -11,12 +11,13 @@
   
 # `Hello 😸, I'm Grzegorz`
   
-  <div align="center">
-    <p><a href="https://www.buymeacoffee.com/jirafey"> Support my work 💛</a> </p>
-    <p> <a href="linktree.com/grzegorzkmita">My links</a></p>
-    <p><a href="https://grzegorzkmita.com">Portfolio website</a></p>
-    <p>  <a href="https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf">Resume</a>
-  </div>
+    
+    |[Support my work 💛](https://www.buymeacoffee.com/jirafey)|
+    |:-:|
+    |[My links](linktree.com/grzegorzkmita)|
+    |[Portfolio website](https://grzegorzkmita.com)|
+    |[Resume](https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf)|
+    
   
 ###### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)  
   <details><summary>Github stats</summary>
