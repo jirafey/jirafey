@@ -5,8 +5,8 @@ Highly motivated, Computer Science student with superb communication skills, loo
 
 ### Education
 * West Pomeranian University of Technology Poland
--- BE in Computer Science **Oct 2022 – Present**
-* Finished Python, Access, Excel course on https://encodeme-maturalnie.pl **May 2022**
+BE in Computer Science **Oct 2022 – Present**
+* Finished Python, Access, Excel course on [ encodeme-maturalnie.pl](https://encodeme-maturalnie.pl) **May 2022**
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=git,vercel,stackoverflow,vscode,visualstudio,unity,python,c,cpp,html,css,javascript,discord,matlab)](https://github.com/Jirafey)
@@ -15,24 +15,19 @@ Highly motivated, Computer Science student with superb communication skills, loo
 
 ##### **Published  games:**
 * 2 player "Pong" game using turtle library 
-* https://jirafey.itch.io/pong 
-* https://github.com/Jirafey/pong
+* [Game page](https://jirafey.itch.io/pong)
+* [GitHub](https://github.com/Jirafey/pong)
 ######  Trijam #156 submission:
 * Single player 2D platformer "Teacup Adventure"
-* https://jirafey.itch.io/Teacup-Adventure
-* https://github.com/Jirafey/Teacup-Adventure
+* [Game page](https://jirafey.itch.io/Teacup-Adventure)
+* [GitHub](https://github.com/Jirafey/Teacup-Adventure)
 ###### GeoJam 2022 submission:
 * Single player 2D space shooter "SquareMadness"  
-* https://jirafey.itch.io/Square-Madness 
-* https://github.com/Jirafey/Square-Madness
+* [Game page](https://jirafey.itch.io/Square-Madness)
+* [GitHub](https://github.com/Jirafey/Square-Madness)
 ##### Decent experience: 
-* C 
-* C++
-* https://github.com/Jirafey/Computer-Science
+* C, C++ - [GitHub](https://github.com/Jirafey/Computer-Science)
 ##### Basic experience:
-* HTML 
-* CSS 
-* Javascript 
-* https://grzegorzkmita.com
+* HTML, CSS, Javascript - [Portfolio website](https://grzegorzkmita.com)
 
  
