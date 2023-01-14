@@ -28,7 +28,7 @@
 <a href="https://grzegorzkmita.com">Personal website</a>
 </div>                   
 <div align="center">
-  <a href="resumes/grzegorz-kmita-resume.pdf">Resume</a>
+  <a href="https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf">Resume</a>
 <p align="center"> 
 <div align="center"><h2>Technologies</h2>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
