@@ -1,6 +1,4 @@
-      <td> 
-       <a href="https://github.com/xadillax/node-sfml" target="_blank"><img src="https://socialify.git.ci/XadillaX/node-sfml/image?description=1&language=1&name=1&owner=1&stargazers=1&theme=Light" /></a> 
-     </td>
+     
 
 <!-- individual links and https://simpleicons.org/ !-->
 <!-- in your header -->
@@ -100,3 +98,7 @@ padding="10px" /><p>Square Madness </p></a>
 [`Running cat GIF creator`](https://giphy.com/otajaider)
                     
 </div>                                                                                                                         
+
+ <td> 
+       <a href="https://github.com/xadillax/node-sfml" target="_blank"><img src="https://socialify.git.ci/XadillaX/node-sfml/image?description=1&language=1&name=1&owner=1&stargazers=1&theme=Light" /></a> 
+     </td>
