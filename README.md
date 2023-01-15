@@ -40,16 +40,18 @@ My dominant language is Python, although I am currently learning C too. My educa
 <img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></picture></a>
 <a href="https://github.com/Jirafey/grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
 <img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a>
-<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
+<a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>                                    
-<a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
+<a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
 <img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>
-<!--  do all the icons like this :)-->                                
-<a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
+                               
+<a href="stackoverflow.com/users/17820864/jirafey"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>
 <a href="https://www.linkedin.com/in/grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
 <img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>
-<a href="https://git-scm.com/"><img height="32" width="32" src="images/Git.svg" /> </div>                                                                             
+
+<a href="https://git-scm.com/">
+<img height="32" width="32" src="images/Git.svg" /> </div>                                                                             
     <details open><summary><h3>:video_game: Published games on itch.io: </h3></summary>                                                                             
 <div align="center">                                                                           
 <a href="https://jirafey.itch.io"></a>
