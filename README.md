@@ -62,14 +62,14 @@ My dominant language is Python, although I have experience with C too. My educat
 <a href="https://www.python.org"><img height="32" width="32" src="images/Git.svg" /> </div>     
                                                                                  
 #
-                                                                                 
+    <details open><summary><h3>:video_game: Published games on itch.io: </h3></summary>                                                                             
 <div align="center">                                                                           
-<h3><a href="https://jirafey.itch.io"> :video_game: Published games on itch.io:</h3></a>
+<a href="https://jirafey.itch.io"></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png"  padding="10px" /><p>Teacup Adventure</p></a>
 <a href="https://jirafey.itch.io/squaremadness"><img src="https://user-images.githubusercontent.com/97115044/211327312-3b9ac0c9-104e-47ea-8d88-8d65bfbba1d8.png"
 padding="10px" /><p>Square Madness </p></a>                                                             
 <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px" /> <p>Pong </p></a>
-
+</details>
   </div>
 
 #
