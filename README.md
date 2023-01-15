@@ -8,7 +8,7 @@
 My dominant language is Python, although I am currently learning C too. My educational background involves classes in Python, Access, and Excel. </p>
   
 
-<img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000" align="center" ></img></div>
+<img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge" align="center" ></img></div>
 
 
    <div align="center">
