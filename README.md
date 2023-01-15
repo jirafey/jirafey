@@ -72,21 +72,21 @@ padding="10px" /><p>Square Madness </p></a>
       <img src="https://socialify.git.ci/Jirafey/grzegorzkmita.com/image?description=1&owner=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FJirafey%2Fgrzegorzkmita.com%2Fmain%2Ficon%2Fandroid-chrome-512x512.png&name=1&pattern=Formal%20Invitation&theme=Auto" alt="grzegorzkmita.com" />
     </td>
     <td>
-     <img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="computer-science"/>
+     <img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="computer-science"/>
     </td>
     <td>
-      <img src="https://socialify.git.ci/jirafey/pong/image?description=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="pong" />
+      <img src="https://socialify.git.ci/jirafey/pong/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="pong" />
     </td>
   </tr>
   <tr>
     <td>
-<img src="https://socialify.git.ci/jirafey/Jirafey/image?description=1&language=Markdown&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="Jirafey" />
+<img src="https://socialify.git.ci/jirafey/Jirafey/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=Markdown&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="Jirafey" />
     </td>
     <td>
-<img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="square-madness"  />
+<img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="square-madness"  />
     </td>
     <td>
-      <img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="teacup-adventure" />
+      <img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="teacup-adventure" />
     </td>
   </tr>
 </table>
