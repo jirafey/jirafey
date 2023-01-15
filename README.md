@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="30" align="center"/> 
+<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="30" align="left"/> 
  <h2><b>Hello 😸, I'm Grzegorz</b></h2>
 
  
