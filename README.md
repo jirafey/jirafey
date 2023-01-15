@@ -86,7 +86,7 @@ German - A2 <br>
 Dutch - A1 <br>
 
 #
-
+                    
 </div>
 </details><br>
 <div align ="center">
@@ -104,7 +104,7 @@ Dutch - A1 <br>
                     
 </div>                                                                                                                         
 
-</details><br>
+</details>
 <div align ="left">
 <summary>Personal Interests and Hobbies</summary>
 <details>
