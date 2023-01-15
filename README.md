@@ -3,7 +3,7 @@
 <div align="center">
     <div align="center">
 <img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000" ></img></div>
-<br>
+
 ### `Hello 😸, I'm Grzegorz`
 <a href ="https://linktree.com/grzegorzkmita"> All the relevant links + resume 💛</a>
 <p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
