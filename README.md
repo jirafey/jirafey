@@ -9,6 +9,8 @@
 <img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F0CD7B&color=F4E892&style=for-the-badge" align="center" ></img></div>
 </div>
 
+#
+
    <div align="center">
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&langs_count=5&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 30%; max-width: 100%; min-width: 100%;">
 <img alt="GitHub stats" src="https://github-readme-stats-k4xr.vercel.app/api?username=Jirafey&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" style="width: 36%; max-width: 100%; min-width: 100%;"></div>
