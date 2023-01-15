@@ -2,7 +2,7 @@
 <div align="center">
   
 # `Hello 😸, I'm Grzegorz`
-<a href ="https://linktree.com/grzegorzkmita"> All the relevant links + resume💛</a>
+<a href ="https://linktree.com/grzegorzkmita"> All the relevant links + resume 💛</a>
 <p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
 My dominant language is Python, although I have experience with C too. My educational background involves classes in Python, Access, and Excel. </p>
 
