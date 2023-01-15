@@ -108,5 +108,5 @@ padding="10px" /><p>Square Madness </p></a>
 
 [`Running cat GIF creator`](https://giphy.com/otajaider) 
                     
-                    [`Repository templates`](https://github.com/wei/socialify#readme)
+[`Repository templates`](https://github.com/wei/socialify#readme)
                     </details>  
