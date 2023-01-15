@@ -20,9 +20,10 @@ My dominant language is Python, although I am currently learning C too. My educa
 
 
 </details>
-</div>                   
-<div align="center">
+</div>         
 
+<div align="center">
+                   <h3>Technology</h3>
 <p align="center"> 
 <div align="center">
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
