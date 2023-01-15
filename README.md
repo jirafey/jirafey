@@ -1,11 +1,11 @@
-<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="29" align="center"/>
+<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" width="29" height="29" align="center"/>
 <div align="center">
   
 ### `Hello 😸, I'm Grzegorz`
 As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
 My dominant language is Python, although I have experience with C too. My educational background involves classes in Python, Access, and Excel.
   
-[Email, resume, socials :yellow_heart:](https://linktree.com/grzegorzkmita)
+[All the relevant links + resume :yellow_heart:](https://linktree.com/grzegorzkmita)
 ##### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)
   <details open><summary>Github stats</summary>
     <div align="center">
