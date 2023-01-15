@@ -99,4 +99,8 @@ padding="10px" /><p>Square Madness </p></a>
                     
 </div>                                                                                                                         
 
-<img src="https://socialify.git.ci/Jirafey/grzegorzkmita.com/image?description=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FJirafey%2Fgrzegorzkmita.com%2Fmain%2Ficon%2Fandroid-chrome-512x512.png&name=1&stargazers=1&theme=Light" alt="grzegorzkmita.com" width="320" height="320" />
+<img src="https://socialify.git.ci/Jirafey/grzegorzkmita.com/image?description=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FJirafey%2Fgrzegorzkmita.com%2Fmain%2Ficon%2Fandroid-chrome-512x512.png&name=1&pattern=Formal%20Invitation&stargazers=1&theme=Dark" alt="grzegorzkmita.com" width="320" height="320" />
+
+<img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&language=2&name=1&owner=1&pattern=Solid&theme=Dark" alt="computer-science" width="320" height="320" />
+
+<img src="https://socialify.git.ci/jirafey/pong/image?description=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="pong" width="320" height="320" />
