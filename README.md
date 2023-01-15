@@ -96,7 +96,7 @@ padding="10px" /><p>Square Madness </p></a>
 [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
 
 [`Running cat GIF creator`](https://giphy.com/otajaider)
-                    
+                    </details>     
 <table>
   <tr>
     <td>
@@ -122,27 +122,3 @@ padding="10px" /><p>Square Madness </p></a>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/nodejs/node" target="_blank"><img src="https://socialify.git.ci/nodejs/node/image?description=1&descriptionEditable=Node.js%20JavaScript%20runtime%20%E2%9C%A8%F0%9F%90%A2%F0%9F%9A%80%E2%9C%A8&font=KoHo&language=1&owner=1&pattern=Overlapping%20Hexagons&stargazers=1&theme=Light" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/libuv/libuv" target="_blank"><img src="https://socialify.git.ci/libuv/libuv/image?description=1&font=KoHo&language=1&owner=1&pattern=Signal&stargazers=1&theme=Dark" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/xadillax/toshihiko" target="_blank"><img src="https://socialify.git.ci/xadillax/toshihiko/image?description=1&descriptionEditable=%F0%9F%A5%9A%20Yet%20another%20simple%20ORM%20for%20Node.js.&font=KoHo&language=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Dark" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/xadillax/byakuren" target="_blank"><img src="https://socialify.git.ci/xadillax/byakuren/image?description=1&font=KoHo&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/xadillax/node-sfml" target="_blank"><img src="https://socialify.git.ci/XadillaX/node-sfml/image?description=1&language=1&name=1&owner=1&stargazers=1&theme=Light" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/xadillax/nodenes" target="_blank"><img src="https://socialify.git.ci/XadillaX/nodenes/image?description=1&font=Rokkitt&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" /></a>
-    </td>
-  </tr>
-</table>
