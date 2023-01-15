@@ -2,9 +2,8 @@
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" width = "60" height="30" align="left"/> 
  <h2 align="center"><b>Hello 😸, I'm Grzegorz</b></h2>
 
- 
-
-<a href ="https://linktree.com/grzegorzkmita" align="center"> All the relevant links + resume 💛</a>
+<div align="center">
+<a href ="https://linktree.com/grzegorzkmita" > All the relevant links + resume 💛</a>
 <p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
 My dominant language is Python, although I am currently learning C too. My educational background involves classes in Python, Access, and Excel. </p>
   
