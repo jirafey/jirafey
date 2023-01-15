@@ -59,7 +59,6 @@ My dominant language is Python, although I have experience with C too. My educat
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
 <img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>
 <a href="https://www.python.org"><img height="32" width="32" src="images/Git.svg" /> </div>                                                                             
-
     <details open><summary><h3>:video_game: Published games on itch.io: </h3></summary>                                                                             
 <div align="center">                                                                           
 <a href="https://jirafey.itch.io"></a>
