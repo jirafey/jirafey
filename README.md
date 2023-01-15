@@ -43,13 +43,11 @@ My dominant language is Python, although I am currently learning C too. My educa
 <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>                                    
 <a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
-<img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>
-                               
+<img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>                               
 <a href="stackoverflow.com/users/17820864/jirafey"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>
 <a href="https://www.linkedin.com/in/grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
 <img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>
-
 <a href="https://git-scm.com/">
 <img height="32" width="32" src="images/Git.svg" /> </div>                                                                             
     <details open><summary><h3>:video_game: Published games on itch.io: </h3></summary>                                                                             
