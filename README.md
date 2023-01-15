@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="29" align="right"/>
+<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="29" align="center"/>
 <div align="center">
   
 ### `Hello 😸, I'm Grzegorz`
