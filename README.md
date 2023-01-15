@@ -51,7 +51,7 @@ My dominant language is Python, although I am currently learning C too. My educa
 <img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>
 <a href="https://git-scm.com/">
 <img height="32" width="32" src="images/Git.svg" /> </div>                                                                             
-    <details open><summary><h3>:video_game: Published games on itch.io: </h3></summary>                                                                             
+    <details open><summary><h3>:video_game: Published games on itch.io </h3></summary>                                                                             
 <div align="center">                                                                           
 <a href="https://jirafey.itch.io"></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png"  padding="10px" /><p>Teacup Adventure</p></a>
@@ -67,7 +67,7 @@ padding="10px" /><p>Square Madness </p></a>
 </details><br>
    
 <table>
-<div align="center"><h3>Projects:</h3></div>
+<div align="center"><h3>Projects</h3></div>
   <tr>
     <td>      
 <img src="https://socialify.git.ci/jirafey/jirafey/image?description=1&language=1&logo=https://github.com/Jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey" />
