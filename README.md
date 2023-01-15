@@ -24,7 +24,7 @@ My dominant language is Python, although I am currently learning C too. My educa
 <div align="center">
 
 <p align="center"> 
-<div align="center"><h3>Technologies</h3>
+<div align="center">
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
 <img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a> 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="32" width="32" src="images/C.svg" /></a> 
