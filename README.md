@@ -107,4 +107,6 @@ padding="10px" /><p>Square Madness </p></a>
 [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
 
 [`Running cat GIF creator`](https://giphy.com/otajaider) 
+                    
+                    [`Repository templates`](https://github.com/wei/socialify#readme)
                     </details>  
