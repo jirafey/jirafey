@@ -81,8 +81,9 @@ padding="10px" /><p>Square Madness </p></a>
 <p> - I am constantly working to improve my language skills, including Polish - Native, English - C1, Chinese(Mandarin) - B1, German - A2, Dutch - A1, I can read Russian, Japanese(katakana and hiragana), and Korean, but I do not speak them well enough. Additionally, I am a promoter of talking to strangers/ meeting up with friends everyday.</p>
 <p> - I also feel like I could be in this business as a project manager or someone that based on client needs and my knowledge of programming capabilities of certain technologies can deliver proper technical language for programming team. Also there is a lot of resumes, feel free to take a look: <a href= "https://github.com/Jirafey/Jirafey/tree/main/resumes">Resumes</details></p></div>
    
+   
 <table>
-<h3>Projects:</h3>
+<div align="center"><h3>Projects:</h3></div>
   <tr>
     <td>
       <img src="https://socialify.git.ci/Jirafey/grzegorzkmita.com/image?description=1&owner=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FJirafey%2Fgrzegorzkmita.com%2Fmain%2Ficon%2Fandroid-chrome-512x512.png&name=1&pattern=Formal%20Invitation&theme=Auto" alt="grzegorzkmita.com" />
