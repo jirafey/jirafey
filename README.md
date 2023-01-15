@@ -117,7 +117,7 @@ padding="10px" /><p>Square Madness </p></a>
 <img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="square-madness" width="320" height="320" /><td></td><img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="teacup-adventure" width="320" height="320" />
     </td>
     <td>
-      <img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&language=1&name=1&owner=1&pattern=Solid&theme=Auto" alt="teacup-adventure" width="320" height="320" />
+      <img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="teacup-adventure" width="320" height="320" />
     </td>
   </tr>
 </table>
