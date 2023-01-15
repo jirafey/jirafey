@@ -106,6 +106,6 @@ Dutch - A1 <br>
 
 </details><details><summary>Personal Interests and Hobbies</summary>
 <div align ="left">
-- In my free time, I am passionate about open-source projects, and I am interested in mastering social interactions, meditation, cold showers, and massage. I also enjoy learning new things everyday, reading books, cooking, swimming. 
-- I am always working to improve my language skills, including Chinese, English, Polish, German, Dutch, I can read Russian, Japanese (katakana and hiragana), and Korean, but I do not speak them well enough. Additionally, I am a promoter of talking to strangers/ meeting up with friends everyday.
-- I also feel like I could be in this business as a project manager or someone that based on client needs and my knowledge of programming capabilities of certain technologies can deliver proper technical language for programming team. Also there is a lot of resumes, feel free to take a look: <a href= "https://github.com/Jirafey/Jirafey/tree/main/resumes">Resumes</details>
+<p>- In my free time, I am passionate about open-source projects, and I am interested in mastering social interactions, meditation, cold showers, and massage. I also enjoy learning new things everyday, reading books, cooking, swimming. </p>
+<p> - I am always working to improve my language skills, including Chinese, English, Polish, German, Dutch, I can read Russian, Japanese (katakana and hiragana), and Korean, but I do not speak them well enough. Additionally, I am a promoter of talking to strangers/ meeting up with friends everyday.</p>
+<p> - I also feel like I could be in this business as a project manager or someone that based on client needs and my knowledge of programming capabilities of certain technologies can deliver proper technical language for programming team. Also there is a lot of resumes, feel free to take a look: <a href= "https://github.com/Jirafey/Jirafey/tree/main/resumes">Resumes</details></p>
