@@ -5,8 +5,7 @@
 ### `Hello 😸, I'm Grzegorz`
 <a href ="https://linktree.com/grzegorzkmita"> All the relevant links + resume 💛</a>
 <p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
-My dominant language is Python, although I have experience with C too. My educational background involves classes in Python, Access, and Excel. </p>
-
+My dominant language is Python, although I am currently learning C too. My educational background involves classes in Python, Access, and Excel. </p>
   
   <div align="center">
 <img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000" ></img></div>
@@ -26,7 +25,7 @@ My dominant language is Python, although I have experience with C too. My educat
 <p align="center"> 
 <div align="center"><h2>Technologies</h2>
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
-<img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a> 
+<img height="24" width="24" alt="Python" src="images/Python-Dark.svg"></picture></a> 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="32" width="32" src="images/C.svg" /></a> 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="32" width="32" src="images/CPP.svg" /></a> 
 <a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a> 
