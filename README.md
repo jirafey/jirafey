@@ -1,6 +1,6 @@
-
-<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="center"/>`Hello 😸, I'm Grzegorz`
 <div align="center">
+<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="center"/>`Hello 😸, I'm Grzegorz`
+
  
 
 <a href ="https://linktree.com/grzegorzkmita"> All the relevant links + resume 💛</a>
