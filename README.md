@@ -69,7 +69,9 @@ padding="10px" /><p>Square Madness </p></a>
 <div align="center"><h3>Projects:</h3></div>
   <tr>
     <td>
-      <img src="https://socialify.git.ci/Jirafey/grzegorzkmita.com/image?description=1&owner=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FJirafey%2Fgrzegorzkmita.com%2Fmain%2Ficon%2Fandroid-chrome-512x512.png&name=1&pattern=Formal%20Invitation&theme=Auto" alt="grzegorzkmita.com" />
+                   https://github.com/Jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true
+                   
+      <img src="https://socialify.git.ci/Jirafey/grzegorzkmita.com/image?description=1&owner=1&language=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/colorless/foxtie-colorless-256.png&name=1&pattern=Formal%20Invitation&theme=Auto" alt="grzegorzkmita.com" />
     </td>
     <td>
      <img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/pink-green-light/foxtie-pink-green-256.png&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="computer-science"/>
