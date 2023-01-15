@@ -4,9 +4,7 @@
 
 <div align="center">
 <a href ="https://linktree.com/grzegorzkmita" > All the relevant links + resume 💛</a>
-<p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
-My dominant language is Python, although I am currently learning C too. My educational background involves classes in Python, Access, and Excel. </p>
-  
+
 
 <img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F0CD7B&color=F4E892&style=for-the-badge" align="center" ></img></div>
 
@@ -17,8 +15,11 @@ My dominant language is Python, although I am currently learning C too. My educa
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-
+<div align="center">
+<h3>Personal profile</h3>
+<p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
+My dominant language is Python, although I am currently learning C too. My educational background involves classes in Python, Access, and Excel. </p>
+</div>
 </details>
 </div>         
 
