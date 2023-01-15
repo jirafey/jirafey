@@ -1,14 +1,14 @@
 
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="50" align="center"/>
 <div align="center">
-    <div align="center">
-<img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000" ></img></div>
-
+ 
 ### `Hello 😸, I'm Grzegorz`
 <a href ="https://linktree.com/grzegorzkmita"> All the relevant links + resume 💛</a>
 <p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
 My dominant language is Python, although I am currently learning C too. My educational background involves classes in Python, Access, and Excel. </p>
   
+   <div align="center">
+<img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000" ></img></div>
 
    <div align="center">
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&langs_count=5&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 25%; max-width: 100%; min-width: 100%;">
