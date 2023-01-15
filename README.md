@@ -9,8 +9,7 @@
 # `Hello 😸, I'm Grzegorz`
 As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
 My dominant language is Python, although I have experience with C too. My educational background involves classes in Python, Access, and Excel.
-##### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)|[All my links 💛](https://linktree.com/grzegorzkmita)|
-|:-------------:|
+##### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)[All my links 💛](https://linktree.com/grzegorzkmita)
 
   <details open><summary>Github stats</summary>
     <div align="center">
