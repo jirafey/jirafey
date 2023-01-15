@@ -86,7 +86,7 @@ padding="10px" /><p>Square Madness </p></a>
 <img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="square-madness"  />
     </td>
     <td>
-      <img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="teacup-adventure" />
+      <img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&logo=https://github.com/Jirafey/foxtie/blob/main/white-purple/foxtie-white-purple-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="teacup-adventure" />
     </td>
   </tr>
 </table>
