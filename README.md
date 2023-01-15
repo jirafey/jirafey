@@ -8,7 +8,7 @@ My dominant language is Python, although I have experience with C too. My educat
 
   <div align="center">
     <a href ="https://linktree.com/grzegorzkmita"> All the relevant links + resume :yellow_heart:</a>
-      <img width = "16" height = "16" src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000"></img></div>
+      <img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000"  width = "16" height = "16"></img></div>
 
   <details open><summary>Github stats</summary>
     
