@@ -12,14 +12,11 @@
 <div align="center">
   
 # `Hello 😸, I'm Grzegorz`
-As a passionate computer science student with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications. My dominant language is Python, although I have experience with C and C++ too. My educational background involves classes in Python, Access, and Excel, and I am presently working towards my BE in Computer Science at the West Pomeranian University of Technology in Poland.
+As a passionate computer science student with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
+My dominant language is Python, although I have experience with C and C++ too. My educational background involves classes in Python, Access, and Excel, and I am presently working towards my BE in Computer Science at the West Pomeranian University of Technology in Poland.
 ##### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)
-|[My links](https://linktree.com/grzegorzkmita)|
+|[All my links 💛](https://linktree.com/grzegorzkmita)|
 |:-------------:|
-|[Support my work 💛](https://www.buymeacoffee.com/jirafey)|
-|[Portfolio website](https://grzegorzkmita.com)|
-|[Resume in English](https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf)|
-|[Resume in Polish](https://grzegorzkmita.com/images/grzegorz-kmita-resume-pl.pdf)|
 
   <details><summary>Github stats</summary>
     <div align="center">
