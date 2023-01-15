@@ -17,8 +17,6 @@ My dominant language is Python, although I am currently learning C too. My educa
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-
-
 </details>
 </div>                   
 <div align="center">
@@ -71,7 +69,7 @@ padding="10px" /><p>Square Madness </p></a>
     <td>
 
     
-      <img src="https://socialify.git.ci/Jirafey/grzegorzkmita.com/image?description=1&owner=1&language=1&logo=https://github.com/Jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true&name=1&pattern=Formal%20Invitation&theme=Auto" alt="grzegorzkmita.com" />
+      <img src="https://socialify.git.ci/Jirafey/grzegorzkmita.com/image?description=1&owner=1&language=1&logo=https://raw.github.com/Jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png&name=1&pattern=Formal%20Invitation&theme=Auto" alt="grzegorzkmita.com" />
     </td>
     <td>
      <img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/pink-green-light/foxtie-pink-green-256.png&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="computer-science"/>
