@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href ="https://linktree.com/grzegorzkmita" > All the relevant links + resume 💛</a>
-
+<br>
 
 <img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F0CD7B&color=F4E892&style=for-the-badge" align="center" ></img></div>
 
