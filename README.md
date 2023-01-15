@@ -99,6 +99,4 @@ padding="10px" /><p>Square Madness </p></a>
                     
 </div>                                                                                                                         
 
- <td> 
-       <a href="https://github.com/xadillax/node-sfml" target="_blank"><img src="https://socialify.git.ci/XadillaX/node-sfml/image?description=1&language=1&name=1&owner=1&stargazers=1&theme=Light" /></a> 
-     </td>
+![grzegorzkmita.com](https://socialify.git.ci/Jirafey/grzegorzkmita.com/image?description=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FJirafey%2Fgrzegorzkmita.com%2Fmain%2Ficon%2Fandroid-chrome-512x512.png&name=1&stargazers=1&theme=Light)
