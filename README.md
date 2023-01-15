@@ -15,10 +15,7 @@ My dominant language is Python, although I have experience with C too. My educat
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
----
-
 </details>
-
 </div>                   
 <div align="center">
 
