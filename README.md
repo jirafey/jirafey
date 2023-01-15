@@ -17,7 +17,8 @@
 |:-------------:|
 |[Support my work 💛](https://www.buymeacoffee.com/jirafey)|
 |[Portfolio website](https://grzegorzkmita.com)|
-|[Resume](https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf)|
+|[Resume in English](https://grzegorzkmita.com/images/grzegorz-kmita-resume.pdf)|
+|[Resume in Polish](https://grzegorzkmita.com/images/grzegorz-kmita-resume-pl.pdf)|
 
   <details><summary>Github stats</summary>
     <div align="center">
