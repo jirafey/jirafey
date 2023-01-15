@@ -6,7 +6,7 @@ As a passionate computer science student, with a strong fixation on software eng
 My dominant language is Python, although I have experience with C too. My educational background involves classes in Python, Access, and Excel.
   
 [All the relevant links + resume :yellow_heart:](https://linktree.com/grzegorzkmita)
-##### ![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)
+![visitors](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F4E892&color=F0CD7B&style=for-the-badge&logo=Github&logoColor=000000)
   <details open><summary>Github stats</summary>
     <div align="center">
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&langs_count=5&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 35%; max-width: 100%; min-width: 100%;">
