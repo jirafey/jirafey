@@ -1,4 +1,6 @@
-
+    <td> 
+       <a href="https://github.com/Jirafey/grzegorzkmita.com" target="_blank"><img src="https://socialify.git.ci/Jirafey/grzegorzkmita.com/image?description=1&language=1&name=1&owner=1&stargazers=1&theme=Light" /></a> 
+     </td>
 
 <!-- individual links and https://simpleicons.org/ !-->
 <!-- in your header -->
