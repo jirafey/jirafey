@@ -75,7 +75,7 @@ padding="10px" /><p>Square Madness </p></a>
      <img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/pink-green-light/foxtie-pink-green-256.png&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="computer-science"/>
     </td>
     <td>
-      <img src="https://socialify.git.ci/jirafey/pong/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="pong" />
+      <img src="https://socialify.git.ci/jirafey/pong/image?description=1&logo=https://github.com/Jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" alt="pong" />
     </td>
   </tr>
   <tr>
