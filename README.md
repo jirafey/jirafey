@@ -1,7 +1,8 @@
 
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"/> <br>
 <div align="cetner">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&width=435&lines=Passionate+computer+science+student;Software+Engineer;Interested+in+communication+%26+relationships;Python%2C+C%2C+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Excel%2C+Access%2C+Microsoft+Office;Cold+showers+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=false&width=435&lines=Passionate+computer+science+student;Software+Engineer;Interested+in+communication+%26+relationships;Python%2C+C%2C+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Excel%2C+Access%2C+Microsoft+Office;Cold+showers+enthusiast" alt="Typing SVG" /></a>
+<div align="center">
 <p><a href ="https://linktree.com/grzegorzkmita" > All the relevant links + resume 💛</a></p>
 </div>
 <br>
