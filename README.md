@@ -18,10 +18,10 @@
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&langs_count=5&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 30%; max-width: 100%; min-width: 100%;">
 <img alt="GitHub stats" src="https://github-readme-stats-k4xr.vercel.app/api?username=Jirafey&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" style="width: 36%; max-width: 100%; min-width: 100%;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jirafey&theme=kacho_ga&hide_border=true&dates=45DD4E&sideLabels=78C3DD&border=904EDD&stroke=DDDD9B&ring=37D9DD&fire=DD076C&currStreakNum=DDAC94&sideNums=DDDDDD&currStreakLabel=3B6924&background=2D1354)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jirafey&theme=kacho_ga&hide_border=true&dates=45DD4E&sideLabels=f4e48c&border=f0cd7b&stroke=f1cf7d&ring=f4e08a&fire=f1d17f&currStreakNum=DDAC94&sideNums=DDDDDD&currStreakLabel=3B6924&background=2D1354)](https://git.io/streak-stats)
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jirafey&theme=kacho_ga&hide_border=true&dates=45DD4E&sideLabels=f4e48c&border=f0cd7b&stroke=f1cf7d&ring=f4e08a&fire=f1d17f&currStreakNum=DDAC94&sideNums=DDDDDD&currStreakLabel=3B6924&background=2D1354)](https://git.io/streak-stats)
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <div align="center">
