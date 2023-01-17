@@ -3,7 +3,7 @@
 
   <h1 align="center">😸Hello, I'm Grzegorz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=50&duration=4000&width=530&lines=Passionate+computer+science+student;Junior+Software+Engineer;Machine+Learning+rookie;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C;I+also+use+C%2C+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Finished+courses+in+Excel%2C+Access;Cold+showers+enthusiast;Feel+free+to+follow%2C+star%2C+fork" alt="Typing SVG" align="center" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=50&duration=4000&width=530&lines=Passionate+computer+science+student;Junior+Software+Engineer;Machine+Learning+newbie;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C;I+also+use+C%2C+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Finished+courses+in+Excel%2C+Access;Cold+showers+enthusiast;Feel+free+to+follow%2C+star%2C+fork" alt="Typing SVG" align="center" />
 </p>
 <div align="center">
 <p><a href ="https://linktree.com/grzegorzkmita" > All the relevant links + resume 💛</a></p>
@@ -22,7 +22,7 @@
 <div align="center">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-                   <p align="cetnter"><h3 align="center">Github streak</h3>
+                   <p align="center"><h3>Github streak</h3>
                    [![GitHub Streak<p>](https://streak-stats.demolab.com?user=Jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=f1d17f&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b)](https://git.io/streak-stats)
                          </p>           
 </details>
