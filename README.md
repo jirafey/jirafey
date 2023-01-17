@@ -20,8 +20,8 @@
 
 <div align="center">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-                   <p align="center"><h3>Github streak</h3>
+<img align="center" src="https://github.com/billyeatcookies/billyeatcookies/blob/output/github-contribution-grid-snake2.svg"  />
+
                    [![GitHub Streak<p>](https://streak-stats.demolab.com?user=Jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=f1d17f&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b)](https://git.io/streak-stats)
                          </p>           
 </details>
