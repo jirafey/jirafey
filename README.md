@@ -12,7 +12,7 @@
 
 <br>
 
-   <div align="center">
+<div align="center">
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&langs_count=5&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 30%; max-width: 100%; min-width: 100%;">
 <img alt="GitHub stats" src="https://github-readme-stats-k4xr.vercel.app/api?username=Jirafey&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" style="width: 36%; max-width: 100%; min-width: 100%;"></div>
 
@@ -72,34 +72,33 @@ padding="10px" /><p>Square Madness </p></a>
    
 <table>
 <div align="center"><h3>Projects</h3></div>
-  <tr>
-    <td>      
+<tr>
+<td>      
 <img src="https://socialify.git.ci/jirafey/jirafey/image?description=1&language=1&logo=https://github.com/Jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey" />
-    </td>
-    <td>
-     <img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/pink-green-light/foxtie-pink-green-256.png&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="computer-science"/>
-    </td>
-    </tr>
-    <tr>
-    <td>
-      <img src="https://socialify.git.ci/jirafey/pong/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/colorless/foxtie-colorless-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="pong" />
-    </td>
-    <td>
+</td>
+<td>
+<img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/pink-green-light/foxtie-pink-green-256.png&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="computer-science"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://socialify.git.ci/jirafey/pong/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/colorless/foxtie-colorless-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="pong" />
+</td>
+<td>
 <img src="https://socialify.git.ci/jirafey/Jirafey/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=Markdown&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="Jirafey" />
-    </td>
-  <tr>
-    
-    <td>
+</td>
+<tr>
+<td>
 <img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/green/foxtie-green-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="square-madness"  />
-    </td>
-    <td>
-      <img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/white-purple/foxtie-white-purple-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="teacup-adventure" />
-    </td>
-  </tr>
+</td>
+<td>
+<img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/white-purple/foxtie-white-purple-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="teacup-adventure" />
+</td>
+</tr>
 </table>
 
 <div align ="center">
-                    <details><summary>Personal Interests and Hobbies</summary>
+<details><summary>Personal Interests and Hobbies</summary>
 
 <p>- In my free time, I am passionate about open-source projects, and I am interested in mastering social interactions, meditation, cold showers, and massage. I also enjoy learning new things everyday, reading books, cooking, swimming. </p>
 <p> - I am constantly working to improve my language skills, including Polish - Native, English - C1, Chinese(Mandarin) - B1, German - A2, Dutch - A1, I can read Russian, Japanese(katakana and hiragana), and Korean, but I do not speak them well enough. Additionally, I am a promoter of talking to strangers/ meeting up with friends everyday.</p>
