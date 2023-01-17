@@ -1,7 +1,7 @@
 
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"/> <br>
 
-  <h1 align="center"><b>Hello 😸, I'm Grzegorz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </b></h1>
+  <h1 align="center"><b>Hello 😸, I'm Grzegorz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2em"> </b></h1>
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=50&duration=4000&width=530&lines=Passionate+computer+science+student;Junior+Software+Engineer;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C;I+also+use+C%2C+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Finished+courses+in+Excel%2C+Access;Cold+showers+enthusiast" alt="Typing SVG" align="center" />
 </p>
