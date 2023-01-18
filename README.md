@@ -115,13 +115,15 @@ padding="10px" /><p>Square Madness </p></a>
 <summary> <h5> Links to cool stuff that makes up my profile</h5> </summary>
 
 
-[`Gradient Github Stats`](https://github.com/anuraghazra/github-readme-stats#readme)
+[`Gradient GitHub Stats`](https://github.com/anuraghazra/github-readme-stats#readme)
 
-[`Github contributions snake`](https://github.com/Platane/snk#readme)
+[`GitHub contributions snake`](https://github.com/Platane/snk#readme)
 
 [`Skill icons`](https://github.com/tandpfun/skill-icons#readme)
 
 [`Running cat GIF creator`](https://giphy.com/otajaider) 
                     
 [`Repository templates`](https://github.com/wei/socialify#readme)
+                    
+                    [`GitHub streaks`](https://github.com/DenverCoder1/github-readme-streak-stats#readme)
                     </details>  
