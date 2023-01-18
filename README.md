@@ -125,5 +125,5 @@ padding="10px" /><p>Square Madness </p></a>
                     
 [`Repository templates`](https://github.com/wei/socialify#readme)
                     
-                    [`GitHub streaks`](https://github.com/DenverCoder1/github-readme-streak-stats#readme)
+[`GitHub streaks`](https://github.com/DenverCoder1/github-readme-streak-stats#readme)
                     </details>  
