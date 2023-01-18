@@ -84,7 +84,7 @@ padding="10px" /><p>Square Madness </p></a>
 <td>      
 <img src="https://socialify.git.ci/jirafey/jirafey/image?description=1&language=1&logo=https://github.com/Jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey" />
 </td>
-<td><img src="https://socialify.git.ci/jirafey/grzegorzkmita/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="grzegorzkmita" />
+<td><img src="https://socialify.git.ci/jirafey/grzegorzkmita.com/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="grzegorzkmita" />
 </td>
 </tr>
 <tr>
@@ -92,18 +92,17 @@ padding="10px" /><p>Square Madness </p></a>
 <img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/pink-green-light/foxtie-pink-green-256.png&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="computer-science"/>
 </td>
 <td>
-<img src="https://socialify.git.ci/jirafey/grzegorzkmita/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="grzegorzkmita" />
+<img src="https://socialify.git.ci/jirafey/pong/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color-pastelle-256/4-color-pastelle-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="pong" />
 </td>
 <tr>
 <td>
-<img src="https://socialify.git.ci/jirafey/pong/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color-pastelle-256/4-color-pastelle-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="pong" />
+<img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/green/foxtie-green-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="square-madness"  />
 </td>
 <td>
-<img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/green/foxtie-green-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="square-madness"  />
+<img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/white-purple/foxtie-white-purple-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="teacup-adventure" />
 </td>
 </tr>
 </table>
-<img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/white-purple/foxtie-white-purple-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="teacup-adventure" />
 <div align ="center">
 <details><summary>Personal Interests and Hobbies</summary>
 
