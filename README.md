@@ -81,8 +81,8 @@ padding="10px" /><p>Square Madness </p></a>
 <table>
 <div align="center"><h3>Projects</h3></div>
 <tr>
-<td>      
-<img src="https://socialify.git.ci/jirafey/jirafey/image?description=1&language=1&logo=https://github.com/Jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey" />
+<td>      <a href="https://github.com/jirafey/jirafey">
+<img src="https://socialify.git.ci/jirafey/jirafey/image?description=1&language=1&logo=https://github.com/Jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey" /></a>
 </td>
 <td><img src="https://socialify.git.ci/jirafey/grzegorzkmita.com/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="grzegorzkmita" />
 </td>
