@@ -8,11 +8,8 @@
 <div align="center">
 <p><a href ="https://linktree.com/grzegorzkmita" > All the relevant links + resume 💛</a></p>
 </div>
-
-[GitHub Streak](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F0CD7B&color=F4E892&style=for-the-badge)
-
 <div align="center">
-
+<img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F0CD7B&color=F4E892&style=for-the-badge" align="center" ></img></div>
 <br>
 </div>
 <div align="center">
