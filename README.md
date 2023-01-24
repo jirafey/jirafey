@@ -131,3 +131,5 @@ padding="10px" /><p>Square Madness </p></a>
                     
 [`GitHub streaks`](https://github.com/DenverCoder1/github-readme-streak-stats#readme)
                     </details>  
+
+### If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.
