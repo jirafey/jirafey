@@ -68,10 +68,11 @@ My dominant language is Python, although I am currently learning C too. My educa
 <a href="https://jirafey.itch.io"></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png"  padding="10px" /><p>Teacup Adventure</p></a>
 <a href="https://jirafey.itch.io/squaremadness"><img src="https://user-images.githubusercontent.com/97115044/211327312-3b9ac0c9-104e-47ea-8d88-8d65bfbba1d8.png"
-padding="10px" /><p>Square Madness </p></a>                                                             
+padding="10px" /><p>Square Madness </p></a>
+              <p>A game where you try to withstand a wave of enemies, whilst constantly upgrading your ship! This is a 2D game made in Python's library: pygame(NO GAME ENGINE), there's implemented music, sound, video settings & proper menu. This is a submisson for Geojam 2022 and was made in 3 days!</p>
 <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px" />
 <p>Pong </p></a>
-<p>A game where you try to withstand a wave of enemies, whilst constantly upgrading your ship! This is a 2D game made in Python's library: pygame(NO GAME ENGINE), there's implemented music, sound, video settings & proper menu. This is a submisson for Geojam 2022 and was made in 3 days!</p>
+
 </details>
   </div>
 
