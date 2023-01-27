@@ -22,7 +22,7 @@
 
 <div align="center"> 
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=fff&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=f1d17f&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b)](https://git.io/streak-stats)
 
 </details>
                    </div>
