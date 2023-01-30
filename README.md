@@ -73,11 +73,11 @@ My dominant language is Python, although I am currently learning C too. My educa
 <a href="https://mastodon.social/explore"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Mastodon-Light.svg">
 <img height="32" width="32" alt="Mastodon" src="images/Mastodon-Dark.svg"></picture></a>
 <a href="https://www.photoshop.com/"><img height="32" width="32" src="images/Photoshop.svg" alt=Photoshop /></a>
+<a href="https://en.wikipedia.org/wiki/Adobe_Illustrator"><img height="32" width="32" src="images/Illustrator.svg" alt=Illustrator /></a>
 <a href="https://figma.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Figma-Light.svg">
 <img height="32" width="32" alt="Figma" src="images/Figma-Dark.svg"></picture></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Linux-Light.svg">
 <img height="32" width="32" alt="Linux" src="images/Linux-Dark.svg"></picture></a>
-<a href="https://en.wikipedia.org/wiki/Adobe_Illustrator"><img height="32" width="32" src="images/Illustrator.svg" alt=Illustrator /></a>
 <a href="https://git-scm.com/"><img height="32" width="32" src="images/Git.svg"/>
 </div>
 <details open><summary><h3> Published games on itch.io </h3></summary>                                                                             
