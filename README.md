@@ -43,8 +43,13 @@ My dominant language is Python, although I am currently learning C too. My educa
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="32" width="32" src="images/C.svg" /></a> 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="32" width="32" src="images/CPP.svg" /></a> 
 <a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a> 
-<a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg" /></a>  
+<a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg" /></a>
+<a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Sass.svg">
+<img height="32" width="32" alt="Sass" src="images/Sass.svg"></picture></a>
+<a href="https://tailwindcss.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/TailwindCSS-Light.svg">
+<img height="32" width="32" alt="TailwindCSS" src="images/TailwindCSS-Dark.svg"></picture></a>
 <a href="https://www.markdownguide.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg">
+<a href="https://www.javascript.com/"><img height="32" width="32" src="images/JavaScript.svg" alt=JavaScript /></a>
 <img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
 <a href="https://www.arduino.cc/"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
 <a href="https://www.mathworks.com/products/matlab.html"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
@@ -60,20 +65,15 @@ My dominant language is Python, although I am currently learning C too. My educa
 <a href="https://stackoverflow.com/users/17820864/jirafey"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>
 <a href="https://www.linkedin.com/in/grzegorzkmita/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
-<a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Sass.svg">
-<img height="32" width="32" alt="Sass" src="images/Sass.svg"></picture></a>       
 <a href="https://www.linkedin.com/in/grzegorzkmita/"><img height="32" width="32" src="images/LinkedIn (1).svg" alt=LinkedIn /></a> 
 <a href="https://www.photoshop.com/"><img height="32" width="32" src="images/Photoshop.svg" alt=Photoshop /></a>
 <a href="https://en.wikipedia.org/wiki/PowerShell"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Powershell-Light.svg">
 <img height="32" width="32" alt="Vercel" src="images/Powershell-Dark.svg"></picture></a>
 <a href="https://www.rust-lang.org/"><img height="32" width="32" src="images/Rust.svg" alt=Rust /></a> 
-<a href="https://www.javascript.com/"><img height="32" width="32" src="images/JavaScript.svg" alt=JavaScript /></a>
 <a href="https://figma.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Figma-Light.svg">
 <img height="32" width="32" alt="Figma" src="images/Figma-Dark.svg"></picture></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Linux-Light.svg">
 <img height="32" width="32" alt="Linux" src="images/Linux-Dark.svg"></picture></a>
-<a href="https://tailwindcss.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/TailwindCSS-Light.svg">
-<img height="32" width="32" alt="TailwindCSS" src="images/TailwindCSS-Dark.svg"></picture></a>
 <a href="https://mastodon.social/explore"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Mastodon-Light.svg">
 <img height="32" width="32" alt="Mastodon" src="images/Mastodon-Dark.svg"></picture></a>
 <a href="https://en.wikipedia.org/wiki/Adobe_Illustrator"><img height="32" width="32" src="images/Illustrator.svg" alt=Illustrator /></a> 
