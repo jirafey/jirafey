@@ -64,7 +64,8 @@ My dominant language is Python, although I am currently learning C too. My educa
 <img height="32" width="32" alt="Sass" src="images/Sass.svg"></picture></a>       
 <a href="https://www.linkedin.com/in/grzegorzkmita/"><img height="32" width="32" src="images/LinkedIn (1).svg" alt=LinkedIn /></a> 
 <a href="https://www.photoshop.com/"><img height="32" width="32" src="images/Photoshop.svg" alt=Photoshop /></a>
-<a href="https://en.wikipedia.org/wiki/PowerShell"><img height="32" width="32" src="images/Powershell.svg" alt=Powershell /></a> 
+<a href="https://en.wikipedia.org/wiki/PowerShell"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Powershell-Light.svg">
+<img height="32" width="32" alt="Vercel" src="images/Powershell-Dark.svg"></picture></a>
 <a href="https://www.rust-lang.org/"><img height="32" width="32" src="images/Rust.svg" alt=Rust /></a> 
 <a href="https://www.javascript.com/"><img height="32" width="32" src="images/JavaScript.svg" alt=JavaScript /></a> 
 <a href="https://en.wikipedia.org/wiki/Adobe_Illustrator"><img height="32" width="32" src="images/Illustrator.svg" alt=Illustrator /></a> 
