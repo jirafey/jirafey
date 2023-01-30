@@ -60,7 +60,9 @@ My dominant language is Python, although I am currently learning C too. My educa
 <a href="https://stackoverflow.com/users/17820864/jirafey"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>
 <a href="https://www.linkedin.com/in/grzegorzkmita/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
-<img height="32" width="32" alt="LinkedIn" src="images/LinkedIn.svg" </img></picture></a>
+<a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Sass.svg">
+<img height="32" width="32" alt="Sass" src="images/Sass.svg"></picture></a>       
+<img height="32" width="32" alt="LinkedIn" src="images/LinkedIn(1).svg" </img></picture></a>
 <a href="https://git-scm.com/">
 <img height="32" width="32" src="images/Git.svg" /> </div>                                                                             
     <details open><summary><h3> Published games on itch.io </h3></summary>                                                                             
