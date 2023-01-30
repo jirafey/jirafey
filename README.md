@@ -62,7 +62,7 @@ My dominant language is Python, although I am currently learning C too. My educa
 <a href="https://www.linkedin.com/in/grzegorzkmita/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
 <a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Sass.svg">
 <img height="32" width="32" alt="Sass" src="images/Sass.svg"></picture></a>       
-<a href="https://www.linkedin.com/in/grzegorzkmita/"><img height="32" width="32" src="images/LinkedIn(1).svg" alt=LinkedIn /></a> 
+<a href="https://www.linkedin.com/in/grzegorzkmita/"><img height="32" width="32" src="images/LinkedIn (1).svg" alt=LinkedIn /></a> 
 <a href="https://git-scm.com/">
 <img height="32" width="32" src="images/Git.svg" /> </div>                                                                             
     <details open><summary><h3> Published games on itch.io </h3></summary>                                                                             
