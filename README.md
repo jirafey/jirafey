@@ -41,7 +41,8 @@ My dominant language is Python, although I am currently learning C too. My educa
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
 <img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a> 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="32" width="32" src="images/C.svg" /></a> 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="32" width="32" src="images/CPP.svg" /></a> 
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="32" width="32" src="images/CPP.svg" /></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img height="32" width="32" src="images/CS.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a> 
 <a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg" /></a>
 <a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Sass.svg">
