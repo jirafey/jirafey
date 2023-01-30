@@ -49,10 +49,14 @@ My dominant language is Python, although I am currently learning C too. My educa
 <img height="32" width="32" alt="Sass" src="images/Sass.svg"></picture></a>
 <a href="https://tailwindcss.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/TailwindCSS-Light.svg">
 <img height="32" width="32" alt="TailwindCSS" src="images/TailwindCSS-Dark.svg"></picture></a>
-<a href="https://www.markdownguide.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg">
 <a href="https://www.javascript.com/"><img height="32" width="32" src="images/JavaScript.svg" alt=JavaScript /></a>
-<img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
+<a href="https://www.rust-lang.org/"><img height="32" width="32" src="images/Rust.svg" alt=Rust /></a>
 <a href="https://www.arduino.cc/"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
+<a href="https://www.markdownguide.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg">
+<img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
+<a href="https://git-scm.com/"><img height="32" width="32" src="images/Git.svg" />
+<a href="https://en.wikipedia.org/wiki/PowerShell"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Powershell-Light.svg">
+<img height="32" width="32" alt="Vercel" src="images/Powershell-Dark.svg"></picture></a>
 <a href="https://www.mathworks.com/products/matlab.html"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
 <img height="32" width="32" alt="Matlab" src="images/Matlab-Dark.svg"></picture></a>
 <a href="https://vercel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Light.svg">
@@ -68,19 +72,14 @@ My dominant language is Python, although I am currently learning C too. My educa
 <a href="https://www.linkedin.com/in/grzegorzkmita/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn.svg">
 <a href="https://www.linkedin.com/in/grzegorzkmita/"><img height="32" width="32" src="images/LinkedIn (1).svg" alt=LinkedIn /></a> 
 <a href="https://www.photoshop.com/"><img height="32" width="32" src="images/Photoshop.svg" alt=Photoshop /></a>
-<a href="https://en.wikipedia.org/wiki/PowerShell"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Powershell-Light.svg">
-<img height="32" width="32" alt="Vercel" src="images/Powershell-Dark.svg"></picture></a>
-<a href="https://www.rust-lang.org/"><img height="32" width="32" src="images/Rust.svg" alt=Rust /></a> 
 <a href="https://figma.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Figma-Light.svg">
 <img height="32" width="32" alt="Figma" src="images/Figma-Dark.svg"></picture></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Linux-Light.svg">
 <img height="32" width="32" alt="Linux" src="images/Linux-Dark.svg"></picture></a>
 <a href="https://mastodon.social/explore"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Mastodon-Light.svg">
 <img height="32" width="32" alt="Mastodon" src="images/Mastodon-Dark.svg"></picture></a>
-<a href="https://en.wikipedia.org/wiki/Adobe_Illustrator"><img height="32" width="32" src="images/Illustrator.svg" alt=Illustrator /></a> 
-<a href="https://git-scm.com/">
-<img height="32" width="32" src="images/Git.svg" /> </div>                                                                             
-    <details open><summary><h3> Published games on itch.io </h3></summary>                                                                             
+<a href="https://en.wikipedia.org/wiki/Adobe_Illustrator"><img height="32" width="32" src="images/Illustrator.svg" alt=Illustrator /></a> </div>
+<details open><summary><h3> Published games on itch.io </h3></summary>                                                                             
 <div align="center">                                                                           
 <a href="https://jirafey.itch.io"></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png"  padding="10px" /><p>Teacup Adventure</p></a>
