@@ -56,7 +56,7 @@ My dominant language is Python, although I am currently learning C too. My educa
 <a href="https://www.arduino.cc/"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
 <a href="https://www.markdownguide.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg">
 <img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
-<a href="https://git-scm.com/"><img height="32" width="32" src="images/Git.svg" />
+<a href="https://git-scm.com/"><img height="32" width="32" src="images/Git.svg"/>
 <a href="https://en.wikipedia.org/wiki/PowerShell"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Powershell-Light.svg">
 <img height="32" width="32" alt="Vercel" src="images/Powershell-Dark.svg"></picture></a>
 <a href="https://vercel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Light.svg">
