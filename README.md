@@ -3,7 +3,7 @@
 
   <h1 align="center">😸Hello, I'm Grzegorz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=50&duration=4000&width=530&lines=Passionate+computer+science+student;Software+Engineer;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C;I+also+use+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Finished+course+in+Python%2C+Excel%2C+Access;Cold+showers+enthusiast;Feel+free+to+follow%2C+star%2C+fork" alt="Typing SVG" align="center" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=50&duration=4000&width=530&lines=Passionate+computer+science+student;Software+Engineer;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C;I+also+use+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Finished+courses+in+Python%2C+Excel%2C+Access;Cold+showers+enthusiast;Feel+free+to+follow%2C+star%2C+fork" alt="Typing SVG" align="center" />
 </p>
 <div align="center">
 <p><a href ="https://linktree.com/grzegorzkmita" > All the relevant links + resume 💛</a></p>
@@ -29,7 +29,7 @@
 <div align="center">
 <h3>Personal profile</h3>
 <p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
-My dominant language is Python, although I am currently learning C too. My educational background involves a course in Python, Access, and Excel. </p>
+My dominant language is Python, although I am currently learning C too. My educational background involves a courses in Python, Access, and Excel. </p>
 </div>
 </details>
 </div>         
