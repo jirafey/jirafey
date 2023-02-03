@@ -17,12 +17,14 @@ BE in Computer Science **Oct 2022 – Present**
 It can print matrices to file, generate a random matrix. Whole program uses dynamic memory allocation.
 - Add/remove/sort/search through a list of personal data list program - [Github](https://github.com/Jirafey/Computer-Science/blob/main/Semester-1/C/projects/list/doubly_linked_list_managment.c) - 02.02.2023
 It uses doubly linked list structure. 
+
 ### **Python** (Games for Windows) -  [Github](https://github.com/Jirafey/Jirafey)
 ###### Game jam "GeoJam 2022" submission (no game engine):
 * Single player 2D space shooter "Square Madness"
 It features enemy following the player trying to eliminate him. There is an upgrade system, music, sound, game menu (sound, music, video settings).
 This has been made in 3 days for a game jam - GeoJam 2022.
 * [Game page](https://jirafey.itch.io/Square-Madness) - [GitHub](https://github.com/Jirafey/Square-Madness)
+
 ###### Game jam "Trijam #156" submission (no game engine):
 * Single player 2D platformer "Teacup Adventure". This project includes music, sound, graphic design, game menu. This game has a unique mechanic that whenever you jump you have to catch droplets of water in order to jump again.
 It has been made in 3 days for a game jam - Trijam #156. 
