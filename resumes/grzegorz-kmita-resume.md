@@ -31,7 +31,7 @@ Very first project learned about limitations of the software and all the possibi
 
 ##### Experience doing projects for academic purposes: 
 * C, C++ - [GitHub](https://github.com/Jirafey/Computer-Science)
-##### Experience in personal website development:
+##### Experience in portfolio website development:
 * HTML, CSS, Javascript - [Portfolio website](https://grzegorzkmita.com)
 
  
