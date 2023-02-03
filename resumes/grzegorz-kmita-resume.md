@@ -11,23 +11,27 @@ BE in Computer Science **Oct 2022 – Present**
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=git,vercel,stackoverflow,vscode,visualstudio,unity,python,c,cpp,html,css,javascript,discord,matlab)](https://github.com/Jirafey)
 
-#### Python 3- main programming language: 
-
-##### **Published  games:**
-* 2 player "Pong" game using turtle library 
-* [Game page](https://jirafey.itch.io/pong)
-* [GitHub](https://github.com/Jirafey/pong)
-######  Trijam #156 submission:
-* Single player 2D platformer "Teacup Adventure"
-* [Game page](https://jirafey.itch.io/Teacup-Adventure)
-* [GitHub](https://github.com/Jirafey/Teacup-Adventure)
+##### **Published games for Windows(32/64bit) in Python without game engine**
 ###### GeoJam 2022 submission:
-* Single player 2D space shooter "SquareMadness"  
+* Single player 2D space shooter "Square Madness"
+It features enemy following the player trying to eliminate him. There is an upgrade system, music, sound, game menu (sound, music, video settings).
+This has been made in 3 days for a game jam - GeoJam 2022.
 * [Game page](https://jirafey.itch.io/Square-Madness)
 * [GitHub](https://github.com/Jirafey/Square-Madness)
-##### Decent experience: 
+######  Trijam #156 submission:
+* Single player 2D platformer "Teacup Adventure". This project includes music, sound, graphic design, game menu. 
+This game has a unique mechanic that whenever you jump you have to catch droplets of water in order to jump again.
+It has been made in 3 days for a game jam - Trijam #156. 
+* [Game page](https://jirafey.itch.io/Teacup-Adventure)
+* [GitHub](https://github.com/Jirafey/Teacup-Adventure)
+* 2 player "Pong" game using turtle library. 
+Very first project learned about limitations of the software and all the possibilites. 
+* [Game page](https://jirafey.itch.io/pong)
+* [GitHub](https://github.com/Jirafey/pong)
+
+##### Experience doing projects for academic purposes: 
 * C, C++ - [GitHub](https://github.com/Jirafey/Computer-Science)
-##### Basic experience:
+##### Experience in personal website development:
 * HTML, CSS, Javascript - [Portfolio website](https://grzegorzkmita.com)
 
  
