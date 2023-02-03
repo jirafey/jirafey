@@ -9,42 +9,32 @@ Highly motivated, Computer Science student with superb communication skills, loo
 BE in Computer Science **Oct 2022 – Present**
 * Finished Python, Access, Excel course on [ encodeme-maturalnie.pl](https://encodeme-maturalnie.pl) **May 2022**
 
-
 # **C, C++** (Experience doing projects) - [GitHub](https://github.com/Jirafey/Computer-Science)
-
 
 ### Multiply matrices from file. - [Github](https://github.com/Jirafey/Computer-Science/blob/main/Semester-1/C/projects/labs/lab10-11/README.md) -  19.01.2023 
 - Print matrices to file, generate a random matrix. Whole program uses dynamic memory allocation.
 
-
 ### Manage a list of personal data list program - [Github](https://github.com/Jirafey/Computer-Science/blob/main/Semester-1/C/projects/list/doubly_linked_list_managment.c) - 02.02.2023
 - Add/remove/sort/search through the doubly linked list structure. 
 
-
-# **Python** (Games for Windows) -  [Github](https://github.com/Jirafey/Jirafey)
-
+## **Python** (Games for Windows) -  [Github](https://github.com/Jirafey/Jirafey)
 
 ### Game jam "GeoJam 2022" submission (no game engine):
-
 
 ##### "Square Madness" - Single player 2D space shooter - [Game page](https://jirafey.itch.io/Square-Madness) - [GitHub](https://github.com/Jirafey/Square-Madness)
 - This project uses pygame library. It features enemy following the player trying to eliminate him. There is an upgrade system, music, sound, game menu (sound, music, video settings).
 This has been made in 3 days for a game jam - GeoJam 2022.
 
-
 ### Game jam "Trijam #156" submission (no game engine):
 
-
 ##### "Teacup Adventure" - Single player 2D platformer - [Game page](https://jirafey.itch.io/Teacup-Adventure) - [GitHub](https://github.com/Jirafey/Teacup-Adventure)
-- This project uses pygame library. There is music, sound, graphic design, game menu. This game has a unique mechanic that whenever you jump you have to catch droplets of water in order to jump again.
+- This project uses pygame library. There is music, sound, graphic design, game menu.
 It has been made in 3 days for a game jam - Trijam #156.
 
 ### First ever game in Python (no game engine):
 ##### "Pong" - 2 player 2D game using turtle library. - [Game page](https://jirafey.itch.io/pong) - [GitHub](https://github.com/Jirafey/pong)
 - Players need to catch a ball with their movable platforms.
 
-
-#### **HTML, CSS, Javascript**
-* Experience in portfolio website development - [Portfolio website](https://grzegorzkmita.com)
-
+#### **HTML, CSS, Javascript** (Experience in portfolio website development)
+* [Portfolio website](https://grzegorzkmita.com)
  
