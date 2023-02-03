@@ -23,14 +23,14 @@ BE in Computer Science **Oct 2022 – Present**
 
 
 
-##### "Square Madness" (no game engine) - [Game page](https://jirafey.itch.io/Square-Madness) - [GitHub](https://github.com/Jirafey/Square-Madness)- **2022**:
+#### "Square Madness" (no game engine) - [Game page](https://jirafey.itch.io/Square-Madness) - [GitHub](https://github.com/Jirafey/Square-Madness)- **2022**:
 - Single player 2D space shooter.This project uses pygame library. It features enemy follow script, upgrade system, music, sound, game menu (sound, music, video settings). This has been made in 3 days.
 
-##### "Teacup Adventure" (no game engine) - [Game page](https://jirafey.itch.io/Teacup-Adventure) - [GitHub](https://github.com/Jirafey/Teacup-Adventure) - **2022**:
+#### "Teacup Adventure" (no game engine) - [Game page](https://jirafey.itch.io/Teacup-Adventure) - [GitHub](https://github.com/Jirafey/Teacup-Adventure) - **2022**:
 - Single player 2D platformer. This project uses pygame library. There is music, sound, graphic design, game menu. It has been made in 3 days.
 
-##### "Pong" (no game engine) - [Game page](https://jirafey.itch.io/pong) - [GitHub](https://github.com/Jirafey/pong) - **2022**:
+#### "Pong" (no game engine) - [Game page](https://jirafey.itch.io/pong) - [GitHub](https://github.com/Jirafey/pong) - **2022**:
 - 2 player 2D game using turtle library. Players need to catch a ball with their movable platforms.
 ---
-#### **HTML, CSS, Javascript** [Portfolio website development](https://grzegorzkmita.com) - **2023**
+## **HTML, CSS, Javascript** ([Portfolio website](https://grzegorzkmita.com)) - **2023**
  
