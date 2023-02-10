@@ -115,10 +115,10 @@ padding="10px" /><p>Square Madness </p></a>
 <tr>
 <td>
 <a href="https://github.com/jirafey/computer-science">
-<img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="computer-science"/></a>
+<img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&forks=0&pulls=0&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="computer-science"/></a>
 </td>
 <td><a href="https://github.com/jirafey/pong">
-<img src="https://socialify.git.ci/jirafey/pong/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color-pastelle-256/4-color-pastelle-256.png&language=1&name=1&forks=1&pulls=1&stargazers=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="pong" /></a>
+<img src="https://socialify.git.ci/jirafey/pong/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color-pastelle-256/4-color-pastelle-256.png&language=1&name=1&forks=0&pulls=0&stargazers=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="pong" /></a>
 </td>
 <tr>
 <td><a href="https://github.com/jirafey/square-madness">
