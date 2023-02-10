@@ -109,7 +109,7 @@ padding="10px" /><p>Square Madness </p></a>
 
 <td>
 <a href="https://github.com/jirafey/grzegorzkmita.com">
-<img src="https://socialify.git.ci/jirafey/grzegorzkmita.com/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="grzegorzkmita" /></a>
+<img src="https://socialify.git.ci/jirafey/grzegorzkmita.com/image?description=1&forks=0&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="grzegorzkmita" /></a>
 </td>
 </tr>
 <tr>
