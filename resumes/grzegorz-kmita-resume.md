@@ -19,19 +19,16 @@ BE in Computer Science **Oct 2022 – Present**
 * Single player 2D space shooter "Square Madness"
 It features enemy following the player trying to eliminate him. There is an upgrade system, music, sound, game menu (sound, music, video settings).
 This has been made in 3 days for a game jam - GeoJam 2022.
-* [Game page](https://jirafey.itch.io/Square-Madness)
-* [GitHub](https://github.com/Jirafey/Square-Madness)
+* [Game page](https://jirafey.itch.io/Square-Madness) - [GitHub](https://github.com/Jirafey/Square-Madness)
 ######  Trijam #156 submission:
 * Single player 2D platformer "Teacup Adventure". This project includes music, sound, graphic design, game menu. 
 This game has a unique mechanic that whenever you jump you have to catch droplets of water in order to jump again.
 It has been made in 3 days for a game jam - Trijam #156. 
-* [Game page](https://jirafey.itch.io/Teacup-Adventure)
-* [GitHub](https://github.com/Jirafey/Teacup-Adventure)
+* [Game page](https://jirafey.itch.io/Teacup-Adventure) - [GitHub](https://github.com/Jirafey/Teacup-Adventure)
 ###### First ever game in Python:
 * 2 player "Pong" game using turtle library.
 Players need to catch a ball with their movable platforms.
-* [Game page](https://jirafey.itch.io/pong)
-* [GitHub](https://github.com/Jirafey/pong)
+* [Game page](https://jirafey.itch.io/pong) - [GitHub](https://github.com/Jirafey/pong)
 
 ##### Experience doing projects for academic purposes: 
 * C, C++ - [GitHub](https://github.com/Jirafey/Computer-Science)
