@@ -8,12 +8,12 @@ Inżynier Oprogramowania **Październik 2022 - 2026**
 Ukończony kurs Python, Access, Excel na encodeme-maturalnie.pl **Maj 2022**
 
 ### Umiejętności
-[![My Skills](https://skillicons.dev/icons?i=git,vercel,stackoverflow,vscode,visualstudio,unity,python,c,cpp,html,css,javascript,discord,matlab)](https://github.com/Jirafey)
+[![My Skills](https://skillicons.dev/icons?i=git,vercel,stackoverflow,vscode,unity,python,c,cpp,html,css,javascript,discord,matlab)](https://github.com/Jirafey)
 
 ##### **Published games for Windows(32/64bit) in Python without game engine**
 ###### GeoJam 2022 submission:
 * Single player 2D space shooter "Square Madness"
-It features enemiesx following the player trying to eliminate him. There is an upgrade system, music, sound, game menu (sound, music, video settings).
+It features enemies following the player trying to eliminate him. There is an upgrade system, music, sound, game menu (sound, music, video settings).
 This has been made in 3 days for a game jam - GeoJam 2022.
 * [Game page](https://jirafey.itch.io/Square-Madness)
 * [GitHub](https://github.com/Jirafey/Square-Madness)
