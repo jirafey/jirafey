@@ -156,16 +156,3 @@ padding="10px" /><p>Square Madness </p></a>
                     </details>  
 <p> If you liked my profile, you can <b>star⭐</b><a href=https://github.com/jirafey/jirafey>the repo</a> and if you want to use this template you can <a href=https://github.com/jirafey/jirafey/fork> <b>fork it</b></a> and use it.</p>
                     </p>
-
-
-
-
-
-                    
-
-
-                   
-                    
-
-
-
