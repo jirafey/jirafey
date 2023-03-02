@@ -90,7 +90,8 @@ My dominant language is Python, although I am currently learning C too. My educa
 padding="10px" /><p>Square Madness </p></a></div>
     <div text-align="justify"> 
               <p>A game where you try to withstand a wave of enemies, whilst constantly upgrading your ship! This is a 2D game. There's implemented music, sound, video settings & proper menu. This is a submisson for Geojam 2022 and was built in 3 days! Made in Python's library: pygame(NO GAME ENGINE).</p></div>
-<a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px" /></div><div align="center">
+</div><div align="center">
+<a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px" />
     <p>Pong </p></a></div>
     <div text-align="justify"> 
         <p>Retro pong game, recreated in Python's library turtle(NO GAME ENGINE).</p></div>
