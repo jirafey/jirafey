@@ -7,9 +7,7 @@
 <p><a href ="https://linktree.com/grzegorzkmita" > All the relevant links + resume 💛</a></p>
 </div>
 <div align="center">
-  
-![](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F0CD7B&color=F4E892&style=for-the-badge)
-
+<img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F0CD7B&color=F4E892&style=for-the-badge" align="center" ></img></div>
 <br> 
 </div>
 <div align="center">
@@ -161,12 +159,10 @@ padding="10px" /><p>Square Madness </p></a>
 <details>
 <summary></summary>             
 <div align="center">
-  
+
 ![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
-                  
+                   
 </details>  
 </div>
-
-
                    
-![](https://hit.yhype.me/github/profile?user_id=97115044)    
+![](https://hit.yhype.me/github/profile?user_id=97115044)
