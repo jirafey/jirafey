@@ -24,7 +24,7 @@
                    
 </div>
 
-<div align="center">
+<div align="left">
 <h3>Personal profile</h3>
 <p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
 My dominant language is Python, although I am currently learning C too. My educational background involves courses in Python, Access, and Excel. </p>
@@ -129,7 +129,7 @@ padding="10px" /><p>Square Madness </p></a>
 </td>
 </tr>
 </table>
-<div align ="center">
+<div align ="left">
 <details><summary>Personal Interests and Hobbies</summary>
 
 <p>- In my free time, I am passionate about open-source projects, and I am interested in mastering social interactions, meditation, cold showers, and massage. I also enjoy learning new things everyday, reading books, cooking, swimming. </p>
