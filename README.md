@@ -82,18 +82,20 @@ My dominant language is Python, although I am currently learning C too. My educa
 <div align="center">                                                                           
 <a href="https://jirafey.itch.io"></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png"  padding="10px" /><p>Teacup Adventure</p></a>
-    <div text-align="justify"> 
+    <div align="justify"> 
 <p>2D platformer with interesting mechanic: when you jump, water comes out of the teacup, you need to catch it in order to jump again!
     Made in Python's library: pygame(NO GAME ENGINE)</div>
 </p>
 <a href="https://jirafey.itch.io/squaremadness"><img src="https://user-images.githubusercontent.com/97115044/211327312-3b9ac0c9-104e-47ea-8d88-8d65bfbba1d8.png"
 padding="10px" /><p>Square Madness </p></a>
+    <div align="justify"> 
               <p>A game where you try to withstand a wave of enemies, whilst constantly upgrading your ship! This is a 2D game. There's implemented music, sound, video settings & proper menu. This is a submisson for Geojam 2022 and was built in 3 days! Made in Python's library: pygame(NO GAME ENGINE).</p>
-<a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px" />
+<a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px" /></div>
 <p>Pong </p></a>
+    <div align="justify"> 
 <p>Retro pong game, recreated in Python's library turtle(NO GAME ENGINE).</p>
 </details>
-  </div>
+    </div></div>
 
 #
                     
@@ -131,7 +133,7 @@ padding="10px" /><p>Square Madness </p></a>
 </table>
 <div align ="center">
 <details><summary>Personal Interests and Hobbies</summary>
-<div align ="left">
+<div align ="justify">
 <p>- In my free time, I am passionate about open-source projects, and I am interested in mastering social interactions, meditation, cold showers, and massage. I also enjoy learning new things everyday, reading books, cooking, swimming. </p>
 <p> - I am constantly working to improve my language skills, including Polish - Native, English - C1, Chinese(Mandarin) - B1, German - A2, Dutch - A1, I can read Russian, Japanese(katakana and hiragana), and Korean, but I do not speak them well enough. Additionally, I am a promoter of talking to strangers/ meeting up with friends whenever possible.</p>
 <p> - I also feel like I could be in this business as a project manager or someone that based on client needs and my knowledge of programming capabilities of certain technologies can deliver proper technical language for programming team. Also there is a lot of resumes, feel free to take a look: <a href= "https://github.com/Jirafey/Jirafey/tree/main/resumes">Resumes</details></p></div>
