@@ -94,7 +94,7 @@ padding="10px" /><p>Square Madness </p></a></div>
 <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px" />
     <p>Pong </p></a></div>
     <div text-align="justify"> 
-        <p>Retro pong game, recreated in Python's library turtle(NO GAME ENGINE).</p></div>
+        <p>Retro pong game, recreated in Python's library turtle(NO GAME ENGINE)Retro pong game, recreated in Python's library turtle(NO GAME ENGINE)Retro pong game, recreated in Python's library turtle(NO GAME ENGINE)Retro pong game, recreated in Python's library turtle(NO GAME ENGINE)Retro pong game, recreated in Python's library turtle(NO GAME ENGINE)Retro pong game, recreated in Python's library turtle(NO GAME ENGINE)Retro pong game, recreated in Python's library turtle(NO GAME ENGINE)Retro pong game, recreated in Python's library turtle(NO GAME ENGINE).</p></div>
 </details>
     
 #
