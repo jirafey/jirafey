@@ -160,12 +160,13 @@ padding="10px" /><p>Square Madness </p></a>
 <summary></summary>             
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
+![View Counter](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F0CD7B&color=F4E892&style=for-the-badge)
+                   
+![Alternate Image](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
                   
 </details>  
 </div>
-![View Counter](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F0CD7B&color=F4E892&style=for-the-badge)
-![Alternate Image](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
+
 
                    
 ![](https://hit.yhype.me/github/profile?user_id=97115044)    
