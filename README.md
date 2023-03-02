@@ -10,8 +10,9 @@
 <div align="center">
 <img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&text=views&lcolor=F0CD7B&color=F4E892&style=for-the-badge&" align="center" ></img></div>
 <br> 
-<div align="center"> 
-  <summary>🔥 Streak Stats</summary><details>
+<div align="center">
+<details>
+<summary>🔥 Streak Stats</summary>
 <img src="https://streak-stats.demolab.com?user=Jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b"></div></details>
 
 <div align="center">
