@@ -158,12 +158,11 @@ padding="10px" /><p>Square Madness </p></a>
 <p> If you liked my profile, you can <b>star⭐</b><a href=https://github.com/jirafey/jirafey>the repo</a> and if you want to use this template you can <a href=https://github.com/jirafey/jirafey/fork> <b>fork it</b></a> and use it.</p>
                     </p>
                     
-                    <details>
-<summary>     </summary>             
+<details>
+<summary></summary>             
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
                    
-
-                   </details>  
+</details>  
 </div>  
