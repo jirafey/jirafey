@@ -82,6 +82,7 @@ My dominant language is Python, although I am currently learning C too. My educa
 <div align="center">                                                                           
 <a href="https://jirafey.itch.io"></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png"  padding="10px" /><p>Teacup Adventure</p></a>
+    <div text-align="justify"> 
 <p>2D platformer with interesting mechanic: when you jump, water comes out of the teacup, you need to catch it in order to jump again!
 Made in Python's library: pygame(NO GAME ENGINE)
 </p>
