@@ -2,23 +2,23 @@
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
 
   <h1 align="center">😸Hello, I'm Grzegorz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
-  <div align="center"> 
- 
-<img src="https://streak-stats.demolab.com?user=Jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b">
 
-</div>  
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=50&duration=4000&width=530&lines=Passionate+computer+science+student;Software+Engineer;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C;I+also+use+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Finished+courses+in+Python%2C+Excel%2C+Access;Cold+showers+enthusiast;Feel+free+to+follow%2C+star%2C+fork" alt="Typing SVG" align="center" />
 <p><a href ="https://linktree.com/grzegorzkmita" > All the relevant links + resume 💛</a></p>
-</div>
-
-
   
 </div>
 <div align="center">
 <img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F0CD7B&color=F4E892&style=for-the-badge" align="center" ></img></div>
 <br> 
 </div>
+</div>
+  <div align="center"> 
+ 
+<img src="https://streak-stats.demolab.com?user=Jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b">
+
+</div>  
+
 <div align="center">
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 36%; max-width: 100%; min-width: 100%;">
 <img alt="GitHub stats" src="https://github-readme-stats-k4xr.vercel.app/api?username=Jirafey&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" style="width: 43%; max-width: 100%; min-width: 100%;">
