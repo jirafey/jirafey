@@ -7,6 +7,7 @@
 <p><a href ="https://linktree.com/grzegorzkmita" > All the relevant links + resume 💛</a></p>
 </div>
 <div align="center">
+  
 ![](https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&lcolor=F0CD7B&color=F4E892&style=for-the-badge)
                    
 ![Alternate Image](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
