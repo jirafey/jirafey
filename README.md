@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=50&duration=4000&width=530&lines=Passionate+computer+science+student;Software+Engineer;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C;I+also+use+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Finished+courses+in+Python%2C+Excel%2C+Access;Cold+showers+enthusiast;Feel+free+to+follow%2C+star%2C+fork" alt="Typing SVG" align="center" />
 </div>
 <div align="center">
-<img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&text=views&lcolor=F0CD7B&color=F4E892&style=for-the-badge&" align="center" ></img></div>
+<img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&text=hits&lcolor=F0CD7B&color=F4E892&style=for-the-badge&" align="center" ></img></div>
 <br> 
 <div align="center"> 
 <img src="https://streak-stats.demolab.com?user=Jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b">
