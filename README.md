@@ -17,10 +17,7 @@
   <img src="https://streak-stats.demolab.com?user=Jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" height="150" alt="streaks graph"  />
 
   <img src="https://github-readme-stats-k4xr.vercel.app/api?username=Jirafey&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" height="150" alt="stats graph"  />
-</div> <br>
-
-<div align="center">
-
+</div> 
 <div align="center">
                    
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
