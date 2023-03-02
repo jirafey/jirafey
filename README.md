@@ -16,14 +16,15 @@
 
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <div align="center"> 
  
 <img src="https://streak-stats.demolab.com?user=Jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b">
 
-</details>
-                   </div>
+</div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
 <div align="center">
 <h3>Personal profile</h3>
 <p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
