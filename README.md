@@ -12,7 +12,7 @@
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
 
 <div align="center">
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true"count_private=true&theme=deafult" style="width: 36%; max-width: 100%; min-width: 100%;">
