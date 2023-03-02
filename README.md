@@ -160,9 +160,11 @@ padding="10px" /><p>Square Madness </p></a>
 <summary></summary>             
 <div align="center">
   
-![](https://hit.yhype.me/github/profile?user_id=97115044)
+
                    
 ![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
                    
 </details>  
 </div>  
+
+                   ![](https://hit.yhype.me/github/profile?user_id=97115044)
