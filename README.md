@@ -7,7 +7,14 @@
     <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=40&duration=4000&width=530&lines=Passionate+computer+science+student;Software+Engineer;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C%2FC%2B%2B;I+also+use+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Finished+courses+in+Python%2C+Excel%2C+Access;Cold+showers+enthusiast;Feel+free+to+follow%2C+star%2C+fork" alt="Typing SVG" align="center" />
-    </div><div align="center"><img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&text=views&lcolor=F0CD7B&color=F4E892&style=for-the-badge" align="center" ></img></div>
+        
+        
+        
+    </div><div align="center">
+    
+    ![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
+    
+    </div>
 <div align="center">
 <br>
   <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" /> <br>
@@ -161,9 +168,7 @@ padding="10px" /><p>Square Madness </p></a></div>
 <details>
 <summary></summary>             
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
-                   
+<img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&text=views&lcolor=F0CD7B&color=F4E892&style=for-the-badge" align="center" ></img>                   
 </details>  
 </div>
                    
