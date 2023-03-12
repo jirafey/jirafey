@@ -10,9 +10,9 @@
         
         
         
-    </div><div align="center">
-    
-    ![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
+    </div>
+    <div align="center">
+![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
     
     </div>
 <div align="center">
