@@ -156,13 +156,6 @@ padding="10px" /><p>Square Madness </p></a></div>
                     </details>  
 <p> If you liked my profile, you can <b>star⭐</b><a href=https://github.com/jirafey/jirafey>the repo</a> and if you want to use this template you can <a href=https://github.com/jirafey/jirafey/fork> <b>fork it</b></a> and use it.</p>
                     </p>
-                    
-<details>
-<summary></summary>             
-<div align="center">
-<img src= "https://vbr.wocr.tk/badge?page_id=Jirafey.Jirafey&text=views&lcolor=F0CD7B&color=F4E892&style=for-the-badge" align="center" ></img>                   
-</details>  
-</div>
                    
 ![](https://hit.yhype.me/github/profile?user_id=97115044)
     
