@@ -1,4 +1,4 @@
-
+                     
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
 
 <h1 align="center">😸Hello, I'm Grzegorz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
@@ -6,8 +6,8 @@
     <p><a href ="https://linktree.com/grzegorzkmita" > All the relevant links + resume 💛</a></p><div align="center">
     <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=40&duration=4000&width=530&lines=Passionate+computer+science+student;Software+Engineer;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C%2FC%2B%2B;I+also+use+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Finished+courses+in+Python%2C+Excel%2C+Access;Cold+showers+enthusiast;Feel+free+to+follow%2C+star%2C+fork" alt="Typing SVG" align="center" />  </div>
-![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F4E892)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=40&duration=4000&width=530&lines=Passionate+computer+science+student;Aspiring+Python+Developer;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C%2FC%2B%2B;I+also+use+C%2B%2B%2C+HTML%2C+CSS%2C+JavaScript;Finished+courses+in+Python%2C+Excel%2C+Access;Cold+showers+enthusiast;Feel+free+to+follow%2C+star%2C+fork" alt="Typing SVG" align="center" />  </div>
+![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F1cc7b)
 
   <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" /> <br>
 
@@ -25,7 +25,7 @@
 <h3>Personal profile</h3>
     <div text-align="justify">
 <p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
-My dominant language is Python, although I am currently learning C too. My educational background involves courses in Python, Access, and Excel. </p>
+My main language is Python, although I am currently learning C too. My educational background involves courses in Python, Access, and Excel. </p>
 </div>
 </details>
 </div>         
@@ -93,7 +93,7 @@ padding="10px" /><p>Square Madness </p></a></div>
 <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px" />
     <p>Pong </p></a></div>
     <div text-align="justify"> 
-        <p>Retro pong game, recreated in Python's library turtle(NO GAME ENGINE.</p></div>
+        <p>Retro pong game, recreated in Python's library turtle(NO GAME ENGINE)</p></div>
 </details>
     
 #
@@ -110,23 +110,23 @@ padding="10px" /><p>Square Madness </p></a></div>
 
 <td>
 <a href="https://github.com/jirafey/grzegorzkmita.com">
-<img src="https://socialify.git.ci/jirafey/grzegorzkmita.com/image?description=1&forks=0&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="grzegorzkmita" /></a>
+<img src="https://socialify.git.ci/jirafey/grzegorzkmita.com/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="grzegorzkmita" /></a>
 </td>
 </tr>
 <tr>
 <td>
 <a href="https://github.com/jirafey/computer-science">
-<img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&forks=0&pulls=0&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="computer-science"/></a>
+<img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="computer-science"/></a>
 </td>
 <td><a href="https://github.com/jirafey/pong">
-<img src="https://socialify.git.ci/jirafey/pong/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color-pastelle-256/4-color-pastelle-256.png&language=1&name=1&forks=0&pulls=0&stargazers=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="pong" /></a>
+<img src="https://socialify.git.ci/jirafey/pong/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color-pastelle-256/4-color-pastelle-256.png&language=1&name=1&forks=1&pulls=1&stargazers=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="pong" /></a>
 </td>
 <tr>
 <td><a href="https://github.com/jirafey/square-madness">
 <img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&forks=1&pulls=1&stargazers=0&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/green/foxtie-green-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="square-madness"  /></a>
 </td>
 <td><a href="https://github.com/jirafey/teacup-adventure">
-<img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&forks=0&pulls=1&stargazers=0&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/white-purple/foxtie-white-purple-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="teacup-adventure" /></a>
+<img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/white-purple/foxtie-white-purple-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="teacup-adventure" /></a>
 </td>
 </tr>
 </table>
@@ -159,4 +159,4 @@ padding="10px" /><p>Square Madness </p></a></div>
                    
 ![](https://hit.yhype.me/github/profile?user_id=97115044)
     
-    
+ 
