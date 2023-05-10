@@ -25,7 +25,7 @@
 <h3>Personal profile</h3>
     <div text-align="justify">
 <p> As a passionate computer science student, with a strong fixation on software engineering, I am excited to apply my communication proficiencies and technical understanding to offer meaningful input to the building of applications.
-My dominant language is Python, although I am currently learning C too. My educational background involves courses in Python, Access, and Excel. </p>
+My main language is Python, although I am currently learning C too. My educational background involves courses in Python, Access, and Excel. </p>
 </div>
 </details>
 </div>         
