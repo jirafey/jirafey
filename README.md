@@ -18,7 +18,6 @@
 <div align="center">
        
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 Currently to commiting to Nokia repositories so there are rarely any private commits here.     
 </div>
 
