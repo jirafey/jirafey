@@ -16,7 +16,6 @@
   <img src="https://github-readme-stats-k4xr.vercel.app/api?username=Jirafey&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" height="150" alt="stats graph"  />
 </div> 
 <div align="center">
-Currently to commiting to Nokia repositories so there are rarely any private commits here.
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
