@@ -1,4 +1,4 @@
-                                 
+
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
 
 <h1 align="center">😸Hello, I'm Grzegorz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
@@ -18,7 +18,7 @@
 <div align="center">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
- 
+
 </div>
 
 <div align="center">
@@ -28,18 +28,18 @@
 My main language is Python, although I am currently learning C too. My educational background involves courses in Python, Access, and Excel. </p>
 </div>
 </details>
-</div>         
+</div>
 
 <div align="center">
-                   <h3>Technology</h3>
-<p align="center"> 
+<h3>Technology</h3>
+<p align="center">
 <div align="center">
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
-<img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a> 
+<img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="32" width="32" src="images/C.svg" /></a> 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="32" width="32" src="images/CPP.svg" /></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img height="32" width="32" src="images/CS.svg" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a> 
+<a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg" /></a>
 <a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Sass.svg">
 <img height="32" width="32" alt="Sass" src="images/Sass.svg"></picture></a>
@@ -62,9 +62,9 @@ My main language is Python, although I am currently learning C too. My education
 <a href="https://github.com/Jirafey/grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
 <img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a>
 <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
-<img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>                                    
+<img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>
 <a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
-<img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>                               
+<img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>
 <a href="https://stackoverflow.com/users/17820864/jirafey"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>
 <a href="https://www.linkedin.com/in/grzegorzkmita/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn (1).svg">
@@ -77,11 +77,11 @@ My main language is Python, although I am currently learning C too. My education
 <img height="32" width="32" alt="Figma" src="images/Figma-Dark.svg"></picture></a>
 <a href="https://git-scm.com/"><img height="32" width="32" src="images/Git.svg"/>
 </div>
-<details open><summary><h3> Published games on itch.io </h3></summary>                                                                             
-<div align="center">                                                                           
+<details open><summary><h3> Published games on itch.io </h3></summary>
+<div align="center">                         
 <a href="https://jirafey.itch.io"></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png"  padding="10px" /><p>Teacup Adventure</p></a></div>
-    <div text-align="justify"> 
+    <div text-align="justify">
 <p>2D platformer with interesting mechanic: when you jump, water comes out of the teacup, you need to catch it in order to jump again!
     Made in Python's library: pygame(NO GAME ENGINE)</div>
 </p><div align="center">
@@ -92,19 +92,19 @@ padding="10px" /><p>Square Madness </p></a></div>
 </div><div align="center">
 <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px" />
     <p>Pong </p></a></div>
-    <div text-align="justify"> 
+    <div text-align="justify">
         <p>Retro pong game, recreated in Python's library turtle(NO GAME ENGINE)</p></div>
 </details>
-    
+
 #
-                    
+
 </div>
 </details><br>
-   
+
 <table>
 <div align="center"><h3>Projects</h3></div>
 <tr>
-<td>      <a href="https://github.com/jirafey/jirafey">
+<td><a href="https://github.com/jirafey/jirafey">
 <img src="https://socialify.git.ci/jirafey/jirafey/image?description=1&forks=1&pulls=1&stargazers=1&language=1&logo=https://github.com/Jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey" /></a>
 </td>
 
@@ -153,7 +153,7 @@ padding="10px" /><p>Square Madness </p></a></div>
 [`Repository templates`](https://github.com/wei/socialify#readme)
                     
 [`GitHub streaks`](https://github.com/DenverCoder1/github-readme-streak-stats#readme)
-                    </details>  
+</details>
 <p> If you liked my profile, you can <b>star⭐</b><a href=https://github.com/jirafey/jirafey>the repo</a> and if you want to use this template you can <a href=https://github.com/jirafey/jirafey/fork> <b>fork it</b></a> and use it.</p>
                     </p>
                    
