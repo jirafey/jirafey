@@ -31,33 +31,52 @@ My main language is Python, although I am currently learning C too. My education
 </div>
 
 <div align="center">
-<h3>Technology</h3>
+<h3>Skills</h3>
 <p align="center">
 <div align="center">
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
 <img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a>
+
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="32" width="32" src="images/C.svg" /></a> 
+
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="32" width="32" src="images/CPP.svg" /></a>
+
 <a href="https://www.javascript.com/"><img height="32" width="32" src="images/JavaScript.svg" alt=JavaScript /></a>
-<!-- <a href="https://www.rust-lang.org/"><img height="32" width="32" src="images/Rust.svg" alt=Rust /></a> -->
-<a href="https://www.mathworks.com/products/matlab.html"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
-<img height="32" width="32" alt="Matlab" src="images/Matlab-Dark.svg"></picture></a>
-<a href="https://www.arduino.cc/"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
-<a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg" /></a>
-<a href="https://www.markdownguide.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg">
-<img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
+
+<a href="https://www.markdownguide.org/](https://www.gnu.org/software/bash/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Bash-Light.svg">
+<img height="32" width="32" alt="Bash" src="images/Bash-Dark.svg"></picture></a>
+
 <a href="https://en.wikipedia.org/wiki/PowerShell"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Powershell-Light.svg">
 <img height="32" width="32" alt="Powershell" src="images/Powershell-Dark.svg"></picture></a>
+
+<!-- <a href="https://www.rust-lang.org/"><img height="32" width="32" src="images/Rust.svg" alt=Rust /></a> -->
+
+<a href="https://www.mathworks.com/products/matlab.html"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
+<img height="32" width="32" alt="Matlab" src="images/Matlab-Dark.svg"></picture></a>
+
+<a href="https://www.arduino.cc/"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
+
+<a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a>
+
+<a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg" /></a>
+
+<a href="https://www.markdownguide.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg">
+<img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
+
 <a href="https://en.wikipedia.org/wiki/Linux"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Linux-Light.svg">
 <img height="32" width="32" alt="Linux" src="images/Linux-Dark.svg"></picture></a>
+
 <a href="https://vercel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Light.svg">
 <img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></picture></a>
+
 <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>
+
 <a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
 <img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>
+
 <a href="https://git-scm.com/"><img height="32" width="32" src="images/Git.svg"/>
+
 </div>
 <details open><summary><h3> Published games on itch.io </h3></summary>
 <div align="center">                         
