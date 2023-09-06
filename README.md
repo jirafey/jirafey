@@ -41,8 +41,8 @@ My main language is Python, although I am currently learning C too. My education
 <!-- <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img height="32" width="32" src="images/CS.svg" /></a> -->
 <a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg" /></a>
-<a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Sass.svg">
-<img height="32" width="32" alt="Sass" src="images/Sass.svg"></picture></a>
+<!-- <a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Sass.svg"> -->
+<!-- <img height="32" width="32" alt="Sass" src="images/Sass.svg"></picture></a> -->
 <!-- <a href="https://tailwindcss.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/TailwindCSS-Light.svg"> -->
 <!-- <img height="32" width="32" alt="TailwindCSS" src="images/TailwindCSS-Dark.svg"></picture></a> -->
 
