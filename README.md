@@ -54,13 +54,13 @@ My main language is Python, although I am currently learning C too. My education
 <img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
 </div><div align="center">
 <a href="https://en.wikipedia.org/wiki/PowerShell"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Powershell-Light.svg">
-<img height="32" width="32" alt="Vercel" src="images/Powershell-Dark.svg"></picture></a>
+<img height="32" width="32" alt="Powershell" src="images/Powershell-Dark.svg"></picture></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Linux-Light.svg">
 <img height="32" width="32" alt="Linux" src="images/Linux-Dark.svg"></picture></a>
 <a href="https://vercel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Light.svg">
 <img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></picture></a>
-<a href="https://github.com/Jirafey/grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
-<img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a>
+<!-- <a href="https://github.com/Jirafey/grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
+<img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a> -->
 <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>
 <a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
