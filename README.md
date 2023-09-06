@@ -53,13 +53,22 @@ My main language is Python, although I am currently learning C too. My education
 <img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
 <a href="https://en.wikipedia.org/wiki/Linux"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Linux-Light.svg">
 <img height="32" width="32" alt="Linux" src="images/Linux-Dark.svg"></picture></a>
+<a href="https://git-scm.com/"><img height="32" width="32" src="images/Git.svg"/>
+<a href="https://vercel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/GitLab-Light.svg">
+<img height="32" width="32" alt="GitLab" src="images/GitLab-Dark.svg"></picture></a>
+<a href="https://vercel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/GitHub-Light.svg">
+<img height="32" width="32" alt="GitHub" src="images/GitHub-Dark.svg"></picture></a>
 <a href="https://vercel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Light.svg">
 <img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></picture></a>
 <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>
+<a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/NeoVim-Light.svg">
+<img height="32" width="32" alt="NeoVim" src="images/NeoVim-Dark.svg"></picture></a>
+<a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/NeoVim-Light.svg">
+<img height="32" width="32" alt="NeoVim" src="images/NeoVim-Dark.svg"></picture></a>
 <a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
 <img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>
-<a href="https://git-scm.com/"><img height="32" width="32" src="images/Git.svg"/>
+
 </div>
 <details open><summary><h3> Published games on itch.io </h3></summary>
 <div align="center">                         
