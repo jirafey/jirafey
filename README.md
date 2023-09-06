@@ -1,3 +1,4 @@
+
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
 
 <h1 align="center">😸Hello, I'm Grzegorz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
@@ -59,8 +60,8 @@ My main language is Python, although I am currently learning C too. My education
 <img height="32" width="32" alt="Linux" src="images/Linux-Dark.svg"></picture></a>
 <a href="https://vercel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Light.svg">
 <img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></picture></a>
-<a href="https://github.com/Jirafey/grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
-<img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a>
+<!-- <a href="https://github.com/Jirafey/grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg"> -->
+<!-- <img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a> -->
 <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>
 <a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
