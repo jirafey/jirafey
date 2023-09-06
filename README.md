@@ -36,11 +36,10 @@ My main language is Python, although I am currently learning C too. My education
 <div align="center">
 <a href="https://www.python.org"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Python-Light.svg">
 <img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a>
-
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="32" width="32" src="images/C.svg" /></a> 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="32" width="32" src="images/CPP.svg" /></a>
 <a href="https://www.javascript.com/"><img height="32" width="32" src="images/JavaScript.svg" alt=JavaScript /></a>
-<a href="https://www.markdownguide.org/](https://www.gnu.org/software/bash/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Bash-Light.svg">
+<a href="https://www.gnu.org/software/bash/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Bash-Light.svg">
 <img height="32" width="32" alt="Bash" src="images/Bash-Dark.svg"></picture></a>
 <a href="https://en.wikipedia.org/wiki/PowerShell"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Powershell-Light.svg">
 <img height="32" width="32" alt="Powershell" src="images/Powershell-Dark.svg"></picture></a>
