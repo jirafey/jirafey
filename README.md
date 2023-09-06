@@ -38,17 +38,10 @@ My main language is Python, although I am currently learning C too. My education
 <img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="32" width="32" src="images/C.svg" /></a> 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="32" width="32" src="images/CPP.svg" /></a>
-<a href="https://www.javascript.com/"><img height="32" width="32" src="images/JavaScript.svg" alt=JavaScript /></a>
-<a href="https://www.rust-lang.org/"><img height="32" width="32" src="images/Rust.svg" alt=Rust /></a>
-<!-- <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img height="32" width="32" src="images/CS.svg" /></a> -->
-
-<!-- <a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Sass.svg"> -->
-<!-- <img height="32" width="32" alt="Sass" src="images/Sass.svg"></picture></a> -->
-<!-- <a href="https://tailwindcss.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/TailwindCSS-Light.svg"> -->
-<!-- <img height="32" width="32" alt="TailwindCSS" src="images/TailwindCSS-Dark.svg"></picture></a> -->
-
 <a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg" /></a>
+<a href="https://www.javascript.com/"><img height="32" width="32" src="images/JavaScript.svg" alt=JavaScript /></a>
+<a href="https://www.rust-lang.org/"><img height="32" width="32" src="images/Rust.svg" alt=Rust /></a>
 <a href="https://www.mathworks.com/products/matlab.html"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
 <img height="32" width="32" alt="Matlab" src="images/Matlab-Dark.svg"></picture></a>
 <a href="https://www.arduino.cc/"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
@@ -61,22 +54,10 @@ My main language is Python, although I am currently learning C too. My education
 <img height="32" width="32" alt="Linux" src="images/Linux-Dark.svg"></picture></a>
 <a href="https://vercel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Light.svg">
 <img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></picture></a>
-<!-- <a href="https://github.com/Jirafey/grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
-<img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a> -->
 <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>
 <a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
 <img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>
-<!-- <a href="https://stackoverflow.com/users/17820864/jirafey"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
-<img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a> -->
-<!-- <a href="https://www.linkedin.com/in/grzegorzkmita/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/LinkedIn (1).svg">
-<a href="https://www.linkedin.com/in/grzegorzkmita/"><img height="32" width="32" src="images/LinkedIn (1).svg" alt=LinkedIn /></a>  -->
-<!-- <a href="https://mastodon.social/explore"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Mastodon-Light.svg">
-<img height="32" width="32" alt="Mastodon" src="images/Mastodon-Dark.svg"></picture></a> -->
-<!-- <a href="https://www.photoshop.com/"><img height="32" width="32" src="images/Photoshop.svg" alt=Photoshop /></a>
-<a href="https://en.wikipedia.org/wiki/Adobe_Illustrator"><img height="32" width="32" src="images/Illustrator.svg" alt=Illustrator /></a> -->
-<!-- <a href="https://figma.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Figma-Light.svg"> -->
-<!-- <img height="32" width="32" alt="Figma" src="images/Figma-Dark.svg"></picture></a> -->
 <a href="https://git-scm.com/"><img height="32" width="32" src="images/Git.svg"/>
 </div>
 <details open><summary><h3> Published games on itch.io </h3></summary>
