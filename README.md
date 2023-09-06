@@ -1,4 +1,3 @@
-
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
 
 <h1 align="center">😸Hello, I'm Grzegorz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
@@ -38,15 +37,14 @@ My main language is Python, although I am currently learning C too. My education
 <img height="32" width="32" alt="Python" src="images/Python-Dark.svg"></picture></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="32" width="32" src="images/C.svg" /></a> 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="32" width="32" src="images/CPP.svg" /></a>
-<a href="https://www.javascript.com/"><img height="32" width="32" src="images/JavaScript.svg" alt=JavaScript /></a>
 <!-- <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img height="32" width="32" src="images/CS.svg" /></a> -->
 <a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg" /></a>
-<!-- <a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Sass.svg"> -->
+<a href="https://sass-lang.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Sass.svg">
 <!-- <img height="32" width="32" alt="Sass" src="images/Sass.svg"></picture></a> -->
 <!-- <a href="https://tailwindcss.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/TailwindCSS-Light.svg"> -->
 <!-- <img height="32" width="32" alt="TailwindCSS" src="images/TailwindCSS-Dark.svg"></picture></a> -->
-
+<a href="https://www.javascript.com/"><img height="32" width="32" src="images/JavaScript.svg" alt=JavaScript /></a>
 <!-- <a href="https://www.rust-lang.org/"><img height="32" width="32" src="images/Rust.svg" alt=Rust /></a> -->
 <a href="https://www.mathworks.com/products/matlab.html"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
 <img height="32" width="32" alt="Matlab" src="images/Matlab-Dark.svg"></picture></a>
@@ -60,8 +58,8 @@ My main language is Python, although I am currently learning C too. My education
 <img height="32" width="32" alt="Linux" src="images/Linux-Dark.svg"></picture></a>
 <a href="https://vercel.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vercel-Light.svg">
 <img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></picture></a>
-<!-- <a href="https://github.com/Jirafey/grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg"> -->
-<!-- <img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a> -->
+<a href="https://github.com/Jirafey/grzegorzkmita.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
+<img height="32" width="32" alt="Github" src="images/Github-Dark.svg"></picture></a>
 <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>
 <a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
