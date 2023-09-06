@@ -66,6 +66,8 @@ My main language is Python, although I am currently learning C too. My education
 <img height="32" width="32" alt="NeoVim" src="images/NeoVim-Dark.svg"></picture></a>
 <a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
 <img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>
+<a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
+<img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>
 
 </div>
 <details open><summary><h3> Published games on itch.io </h3></summary>
