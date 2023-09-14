@@ -62,8 +62,8 @@ My main language is Python, although I am currently learning C too. My education
 <img height="32" width="32" alt="Vercel" src="images/Vercel-Dark.svg"></picture></a>
 <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VSCode-Light.svg">
 <img height="32" width="32" alt="VSCode" src="images/VSCode-Dark.svg"></picture></a>
-<a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Vim-Light.svg">
-<img height="32" width="32" alt="Vim" src="images/Vim-Dark.svg"></picture></a>
+<a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/VIM-Light.svg">
+<img height="32" width="32" alt="VIM" src="images/VIM-Dark.svg"></picture></a>
 <a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Unity-Light.svg">
 <img height="32" width="32" alt="Unity" src="images/Unity-Dark.svg"></picture></a>
 <a href="https://unity.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/StackOverflow-Light.svg">
