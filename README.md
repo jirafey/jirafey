@@ -130,7 +130,6 @@ padding="10px" /><p>Square Madness </p></a></div>
 <div align ="justify">
 <p>- In my free time, I am passionate about open-source projects, and I am interested in mastering social interactions, meditation, cold showers, and massage. I also enjoy learning new things everyday, reading books, cooking, swimming. </p>
 <p> - I am constantly working to improve my language skills, including Polish - Native, English - C1, Chinese(Mandarin) - B1, German - A2, Dutch - A1, I can read Russian, Japanese(katakana and hiragana), and Korean, but I do not speak them well enough. Additionally, I am a promoter of talking to strangers/ meeting up with friends whenever possible.</p>
-<p> - I also feel like I could be in this business as a project manager or someone that based on client needs and my knowledge of programming capabilities of certain technologies can deliver proper technical language for programming team. Also there is a lot of resumes, feel free to take a look: <a href= "https://github.com/Jirafey/Jirafey/tree/main/resumes">Resumes</details></p></div>
 
 <div align ="center">
 <details>
