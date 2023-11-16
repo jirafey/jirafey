@@ -52,9 +52,9 @@ My main language is Python, although I am currently learning C too. My education
 <a href="https://www.arduino.cc/"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a>
 <a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg" /></a>
-<a href="https://www.markdownguide.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg">
-<img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a><a href="https://git-scm.com">
-<img height="32" width="32" alt="Git" src="images/Git.svg">
+<a href="https://www.markdownguide.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg"> /></picture>/></a>
+<img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
+<a href="https://git-scm.com"><img height="32" width="32" alt="Git" src="images/Git.svg">
 <a href="https://gitlab.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/GitLab-Light.svg">
 <img height="32" width="32" alt="GitLab" src="images/GitLab-Dark.svg"></picture></a>
 <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
