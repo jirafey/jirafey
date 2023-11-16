@@ -43,11 +43,12 @@ My main language is Python, although I am currently learning C too. My education
 <a href="https://java.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Java-Light.svg">
 <img height="32" width="32" alt="Java" src="images/Java-Dark.svg"></picture></a>
 <a href="https://www.javascript.com/"><img height="32" width="32" src="images/JavaScript.svg" alt=JavaScript /></a>
+<a href="https:/uiua.org/"><img height="32" width="32" alt="Uiua" src="images/141476592.png"></a>
 <a href="https://www.gnu.org/software/bash/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Bash-Light.svg">
 <img height="32" width="32" alt="Bash" src="images/Bash-Dark.svg"></picture></a>
 <a href="https://en.wikipedia.org/wiki/PowerShell"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Powershell-Light.svg">
 <img height="32" width="32" alt="Powershell" src="images/Powershell-Dark.svg"></picture></a>
-<img height="32" width="32" alt="Uiua" src="images/141476592.png"></picture></a>
+
 <!-- <a href="https://www.rust-lang.org/"><img height="32" width="32" src="images/Rust.svg" alt=Rust /></a> -->
 <a href="https://www.mathworks.com/products/matlab.html"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
 <img height="32" width="32" alt="Matlab" src="images/Matlab-Dark.svg"></picture></a>
