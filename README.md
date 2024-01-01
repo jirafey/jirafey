@@ -1,10 +1,8 @@
 
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
 
-<h1 align="center">😸Hello, I'm Grzegorz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
+<h1 align="center">😸Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
 <div align="center">
-    <p><a href ="https://linktree.com/grzegorzkmita" > All the other links</a></p><div align="center">
-    <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=40&duration=4000&width=530&lines=Passionate+Computer+Science+student;Python+Developer;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C%2FC%2B%2B;I+also+use+HTML%2C+CSS%2C+JavaScript;Finished+courses+in+Python%2C+Excel%2C+Access;Cold+showers+enthusiast;Feel+free+to+follow%2C+star%2C+fork" alt="Typing SVG" align="center" />  </div>
 ![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F1cc7b)
@@ -105,8 +103,8 @@ padding="10px" /><p>Square Madness </p></a></div>
 </td>
 
 <td>
-<a href="https://github.com/jirafey/grzegorzkmita.com">
-<img src="https://socialify.git.ci/jirafey/grzegorzkmita.com/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="grzegorzkmita" /></a>
+<a href="https://github.com/jirafey/jirafey.github.io">
+<img src="https://socialify.git.ci/jirafey/jirafey.github.io/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey.github.io" /></a>
 </td>
 </tr>
 <tr>
