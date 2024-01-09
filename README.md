@@ -1,4 +1,3 @@
-
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
 
 <h1 align="center">😸Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> </h1>
@@ -88,9 +87,11 @@ padding="10px" /><p>Square Madness </p></a></div>
 </div><div align="center">
 <a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px" />
     <p>Pong </p></a></div>
+  <div align="center">
     <div text-align="justify">
         <p>Retro pong game, recreated in Python's library turtle(NO GAME ENGINE)</p></div>
 </details>
+  </div>
 
 #
 
