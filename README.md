@@ -6,17 +6,17 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=40&duration=4000&width=530&lines=Passionate+Computer+Science+student;Python+Developer;Open+to+job+offers;Interested+in+deepening+interpersonal+skills;Mainly+programming+in+Python%2C+C%2FC%2B%2B;I+also+use+HTML%2C+CSS%2C+JavaScript;Finished+courses+in+Python%2C+Excel%2C+Access;Cold+showers+enthusiast;Feel+free+to+follow%2C+star%2C+fork" alt="Typing SVG" align="center" />  </div>
-![](https://komarev.com/ghpvc/?username=Jirafey&style=flat&color=F1cc7b)
+![](https://komarev.com/ghpvc/?username=jirafey&style=flat&color=F1cc7b)
 
-  <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=Jirafey&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" /> <br>
+  <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=jirafey&exclude_repo=github-readme-stats-2,github-readme-streak-stats,readme-typing-svg,github-readme-streak-stats-vercel,linkedin-skill-assessments-quizzes&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages" /> <br>
 
-  <img src="https://streak-stats.demolab.com?user=Jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" height="150" alt="streaks graph"  />
+  <img src="https://streak-stats.demolab.com?user=jirafey&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" height="150" alt="streaks graph"  />
 
-  <img src="https://github-readme-stats-k4xr.vercel.app/api?username=Jirafey&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-k4xr.vercel.app/api?username=jirafey&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" height="150" alt="stats graph"  />
 </div> 
 <div align="center">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Jirafey/Jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jirafey/jirafey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/jirafey/jirafey/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
@@ -50,7 +50,7 @@ My main language is Python, although I am currently learning C too. My education
 <!-- <a href="https://www.rust-lang.org/"><img height="32" width="32" src="images/Rust.svg" alt=Rust /></a> -->
 <a href="https://www.mathworks.com/products/matlab.html"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Matlab-Light.svg">
 <img height="32" width="32" alt="Matlab" src="images/Matlab-Dark.svg"></picture></a>
-<!-- <a href="https://www.arduino.cc/"><img height="32" width="32" src="https://raw.githubusercontent.com/Jirafey/Jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a> -->
+<!-- <a href="https://www.arduino.cc/"><img height="32" width="32" src="https://raw.githubusercontent.com/jirafey/jirafey/601f276a8c25cf415fca2137ea7d24b99b1f1b10/images/Arduino.svg" </img></a> -->
 <a href="https://en.wikipedia.org/wiki/HTML"><img height="32" width="32" src="images/HTML.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img height="32" width="32" src="images/CSS.svg" /></a>
 <a href="https://www.markdownguide.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg"/>
@@ -102,12 +102,12 @@ padding="10px" /><p>Square Madness </p></a></div>
 <div align="center"><h3>Projects</h3></div>
 <tr>
 <td><a href="https://github.com/jirafey/jirafey">
-<img src="https://socialify.git.ci/jirafey/jirafey/image?description=1&forks=1&pulls=1&stargazers=1&language=1&logo=https://github.com/Jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey" /></a>
+<img src="https://socialify.git.ci/jirafey/jirafey/image?description=1&forks=1&pulls=1&stargazers=1&language=1&logo=https://github.com/jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey" /></a>
 </td>
 
 <td>
 <a href="https://github.com/jirafey/jirafey.dev">
-<img src="https://socialify.git.ci/jirafey/jirafey.dev/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey.github.io" /></a>
+<img src="https://socialify.git.ci/jirafey/jirafey.dev/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey.github.io" /></a>
 </td>
 </tr>
 <tr>
@@ -120,10 +120,10 @@ padding="10px" /><p>Square Madness </p></a></div>
 </td>
 <tr>
 <td><a href="https://github.com/jirafey/square-madness">
-<img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/green/foxtie-green-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="square-madness"  /></a>
+<img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/jirafey/foxtie/main/green/foxtie-green-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="square-madness"  /></a>
 </td>
 <td><a href="https://github.com/jirafey/teacup-adventure">
-<img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/white-purple/foxtie-white-purple-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="teacup-adventure" /></a>
+<img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/jirafey/foxtie/main/white-purple/foxtie-white-purple-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="teacup-adventure" /></a>
 </td>
 </tr>
 </table>
