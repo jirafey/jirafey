@@ -132,6 +132,17 @@ padding="10px" /><p>Square Madness </p></a></div>
 <div align ="justify">
 <p>- In my free time, I am passionate about open-source projects, and I am interested in mastering social interactions, meditation, cold showers, and massage. I also enjoy learning new things everyday, reading books, cooking, swimming. </p>
 <p> - I am constantly working to improve my language skills, including Polish - Native, English - C1, Chinese(Mandarin) - B1, German - A2, Dutch - A1, I can read Russian, Japanese(katakana and hiragana), and Korean, but I do not speak them well enough. Additionally, I am a promoter of talking to strangers/ meeting up with friends whenever possible.</p>
+<p> If you feel impostor syndrome, you don't feel like you know what you are doing, try this:
+<a href>https://youtu.be/9CF9jx2Hhws?si=Jf4eM9HAye9PSmGq</a><br><br>
+Paraphrased from the video: no looking up on the internet, no LSP, just notepad.<br>
+Do:
+<br>
+- read a file line by line, convert to a number (ASCII) and sum it up
+<br>
+- it was later clarified that Primeagen wanted you to do that, if the file is filled with numbers and to sum it up, but you should be able to do both of those
+<br>
+- if you can't do that in your best language, learn your language properly.
+</p>
 
 <div align ="center">
 <details>
