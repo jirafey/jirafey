@@ -102,28 +102,29 @@ padding="10px" /><p>Square Madness </p></a></div>
 <div align="center"><h3>Projects</h3></div>
 <tr>
 <td><a href="https://github.com/jirafey/jirafey">
-<img src="https://socialify.git.ci/jirafey/jirafey/image?description=1&forks=1&pulls=1&stargazers=1&language=1&logo=https://github.com/jirafey/foxtie/blob/main/pink-green-light/foxtie-pink-green-256.png?raw=true&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey" /></a>
+<img src="https://socialify.git.ci/jirafey/jirafey/image?description=1&forks=1&pulls=1&stargazers=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey" 
+  /></a>
 </td>
 
 <td>
 <a href="https://github.com/jirafey/jirafey.dev">
-<img src="https://socialify.git.ci/jirafey/jirafey.dev/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/jirafey/foxtie/main/high-contrast-purple/foxtie-pink-green-purple-divided-centered-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey.github.io" /></a>
+<img src="https://socialify.git.ci/jirafey/jirafey.dev/image?description=1&forks=1&pulls=1&stargazers=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey.github.io" /></a>
 </td>
 </tr>
 <tr>
 <td>
 <a href="https://github.com/jirafey/computer-science">
-<img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color/foxtie-4color-white-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="computer-science"/></a>
+<img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&forks=1&pulls=1&stargazers=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="computer-science"/></a>
 </td>
 <td><a href="https://github.com/jirafey/battery-date-time-app">
-<img src="https://socialify.git.ci/jirafey/battery-date-time-app/image?description=1&logo=https://raw.githubusercontent.com/Jirafey/foxtie/main/4-color-pastelle-256/4-color-pastelle-256.png&language=1&name=1&forks=1&pulls=1&stargazers=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="battery-date-time-app" /></a>
+<img src="https://socialify.git.ci/jirafey/battery-date-time-app/image?description=1&language=1&name=1&forks=1&pulls=1&stargazers=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="battery-date-time-app" /></a>
 </td>
 <tr>
 <td><a href="https://github.com/jirafey/square-madness">
-<img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/jirafey/foxtie/main/green/foxtie-green-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="square-madness"  /></a>
+<img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&forks=1&pulls=1&stargazers=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="square-madness"  /></a>
 </td>
 <td><a href="https://github.com/jirafey/teacup-adventure">
-<img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&forks=1&pulls=1&stargazers=1&logo=https://raw.githubusercontent.com/jirafey/foxtie/main/white-purple/foxtie-white-purple-256.png&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="teacup-adventure" /></a>
+<img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&forks=1&pulls=1&stargazers=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="teacup-adventure" /></a>
 </td>
 </tr>
 </table>
