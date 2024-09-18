@@ -34,6 +34,8 @@
 <a href="https://www.markdownguide.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Markdown-Light.svg">
 <img height="32" width="32" alt="Markdown" src="images/Markdown-Dark.svg"></picture></a>
 <a href="https://git-scm.com"><img height="32" width="32" alt="Git" src="images/Git.svg"></a>
+<a href="https://nixos.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Nix-Light.svg">
+<img height="32" width="32" alt="Nix" src="images/Nix-Dark.svg"></picture></a>
 <a href="https://gitlab.com"><picture><source media="(prefers-color-scheme: dark)" srcset="images/GitLab-Light.svg">
 <img height="32" width="32" alt="GitLab" src="images/GitLab-Dark.svg"></picture></a>
 <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="images/Github-Light.svg">
