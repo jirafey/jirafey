@@ -69,7 +69,7 @@ My main language is Python, although I am currently learning C too. My education
 <img height="32" width="32" alt="StackOverflow" src="images/StackOverflow-Dark.svg"></picture></a>
 
 </div>
-<details open><summary><h3> Published games on itch.io </h3></summary>
+<h3> Published games on itch.io </h3>
 <div align="center">                         
 <a href="https://jirafey.itch.io"></a>
 <a href="https://jirafey.itch.io/teacup-adventure"><img src="https://user-images.githubusercontent.com/97115044/211327111-82001490-b05e-4cc1-87bb-ad0317351ab4.png"  padding="10px" /><p>Teacup Adventure</p></a></div>
@@ -77,58 +77,25 @@ My main language is Python, although I am currently learning C too. My education
 <p>2D platformer with interesting mechanic: when you jump, water comes out of the teacup, you need to catch it in order to jump again!
     Made in Python's library: pygame(NO GAME ENGINE)</div>
 </p><div align="center">
-<a href="https://jirafey.itch.io/squaremadness"><img src="https://user-images.githubusercontent.com/97115044/211327312-3b9ac0c9-104e-47ea-8d88-8d65bfbba1d8.png"
+<a href="https://jirafey.itch.io/squaremadness"><img src="sm1.png"
 padding="10px" /><p>Square Madness </p></a></div>
     <div text-align="justify"> 
               <p>A game where you try to withstand a wave of enemies, whilst constantly upgrading your ship! This is a 2D game. There's implemented music, sound, video settings & proper menu. This is a submisson for Geojam 2022 and was built in 3 days! Made in Python's library: pygame(NO GAME ENGINE).</p></div>
 </div><div align="center">
-<a href="https://jirafey.itch.io/pong"><img src="https://user-images.githubusercontent.com/97115044/211326562-7d06b0e3-c40f-4eed-a733-687e071a8565.png" padding="10px" />
+<a href="https://jirafey.itch.io/pong"><img src="pong1.png" padding="10px" />
     <p>Pong </p></a></div>
   <div align="center">
     <div text-align="justify">
         <p>Retro pong game, recreated in Python's library turtle(NO GAME ENGINE)</p></div>
-</details>
   </div>
 
 #
 
 </div>
-</details><br>
+<br>
 
-<table>
-<div align="center"><h3>Projects</h3></div>
-<tr>
-<td><a href="https://github.com/jirafey/jirafey">
-<img src="https://socialify.git.ci/jirafey/jirafey/image?description=1&forks=1&pulls=1&stargazers=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey" 
-  /></a>
-</td>
-
-<td>
-<a href="https://github.com/jirafey/jirafey.github.io">
-<img src="https://socialify.git.ci/jirafey/jirafey.github.io/image?description=1&forks=1&pulls=1&stargazers=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="jirafey.github.io" /></a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/jirafey/computer-science">
-<img src="https://socialify.git.ci/jirafey/computer-science/image?description=1&forks=1&pulls=1&stargazers=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="computer-science"/></a>
-</td>
-<td><a href="https://github.com/jirafey/battery-date-time-app">
-<img src="https://socialify.git.ci/jirafey/battery-date-time-app/image?description=1&language=1&name=1&forks=1&pulls=1&stargazers=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="battery-date-time-app" /></a>
-</td>
-<tr>
-<td><a href="https://github.com/jirafey/square-madness">
-<img src="https://socialify.git.ci/jirafey/square-madness/image?description=1&forks=1&pulls=1&stargazers=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="square-madness"  /></a>
-</td>
-<td><a href="https://github.com/jirafey/teacup-adventure">
-<img src="https://socialify.git.ci/jirafey/teacup-adventure/image?description=1&forks=1&pulls=1&stargazers=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&theme=Auto" style="margin:0;padding:0" alt="teacup-adventure" /></a>
-</td>
-</tr>
-</table>
 <div align ="center">
-<details>
-<summary> <h5> Links to cool stuff that makes up my profile</h5> </summary>
-
+<details><summary><h5> Links to cool stuff that makes up my profile</h5></summary>
 
 [`Gradient GitHub Stats`](https://github.com/anuraghazra/github-readme-stats#readme)
 
@@ -139,10 +106,7 @@ padding="10px" /><p>Square Madness </p></a></div>
 [`Repository templates`](https://github.com/wei/socialify#readme)
                     
 [`GitHub streaks`](https://github.com/DenverCoder1/github-readme-streak-stats#readme)
+
 </details>
-<p> If you liked my profile, you can <b>⭐</b><a href=https://github.com/jirafey/jirafey> this repo</a> and if you want to use this template you can <a href=https://github.com/jirafey/jirafey/fork> <b>fork it</b></a> and use it.</p>
-                    </p>
-                   
+
 ![](https://hit.yhype.me/github/profile?user_id=97115044)
-    
- 
