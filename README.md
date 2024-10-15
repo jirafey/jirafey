@@ -1,8 +1,9 @@
 <div align="center">
 
-<div align="center">
+### Jirafey
+_Pronounced: "giraffe" + "ey"_
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0CD7C&center=true&height=40&duration=4000&width=530&lines=Passionate+Computer+Science+student;C%23+Developer;Open+to+job+offers" alt="Typing SVG" align="center">  </div>
+
 ![](https://komarev.com/ghpvc/?username=jirafey&style=flat&color=F1cc7b)
 
 <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=jirafey&langs_count=6&layout=compact&show_icons=true&bg_color=20,f4e892,f1ce7d,f5e58d,f0cd7b,f0cd7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true&card_width=330&card_height=100" alt="Most used languages"> <br>
@@ -88,3 +89,4 @@ padding="10px"><p>Square Madness </p></a></div>
 </details>
 
 ![](https://hit.yhype.me/github/profile?user_id=97115044)
+
