@@ -1,0 +1,184 @@
+/* userChrome.css */
+/* forked from: https://github.com/migueravila/SimpleFox */
+
+/* Colors */
+/* Make Sidebery's color for the profile */
+:root, #sidebar-box, .sidebar-placesTree {
+  --sfwindow: #19171a;
+  --sfsecondary: #201e21;
+  --toolbar-bgcolor: var(--sfsecondary) !important;
+}
+
+/* Eye candy */
+/* Remove top-right margin (gray area) from the urlbar
+So it matches the top-left corner */
+#urlbar-container {
+  margin: 0 !important;
+}
+
+/* Move input text in urlbar to the right */
+#urlbar-input {
+  margin-left: 10px !important;
+}
+
+/* Remove tabs from the top-bar and the top-bar itself */
+#TabsToolbar-customization-target {
+  visibility: collapse !important;
+}
+
+/* Remove "Flexible Space" on the left and on the right */
+toolbar toolbarspring {
+  max-width: 0 !important;
+}
+
+/* Remove some weird outline under urlbar */
+#navigator-toolbox {
+  border: none !important;
+}
+
+#import-button {
+  visibility: collapse;
+}
+
+#PlacesToolbarItems {
+  visibility: collapse;
+}
+
+#OtherBookmarks {
+  visibility: collapse;
+}
+
+/* Remove Save to Pocket button */
+#save-to-pocket-button {
+  visibility: collapse;
+}
+
+/* Remove "More tools..." button to edit the nav-bar */
+#nav-bar-overflow-button {
+  visibility: collapse;
+}
+
+#identity-icon {
+  visibility: collapse;
+}
+
+#permissions-granted-icon {
+  visibility: collapse;
+}
+
+/* Remove "Scroll backwards", "Scroll forwards" button */
+#scrollbutton-down, #scrollbutton-up {
+  display: none !important;
+}
+
+/* Remove "Reload current page (Ctrl+R)" button,
+Remove "Stop loading this page (Esc)" button
+in top-right corner of urlbar */
+#reload-button, #stop-button {
+  display: none !important;
+}
+
+/* Remove "View recent browsing across windows and devices" button
+in top-right corner of urlbar if top-bar is enabled */
+#firefox-view-button {
+  display: none !important;
+}
+
+/* Remove "This time, search with:" button in search suggestions in urlbar
+Remove search engine shortcuts (icons) 
+You can still look them up in "about:settings#search"*/
+#urlbar .search-one-offs:not([hidden]) {
+  display: none !important;
+}
+
+/* Remove "Go to the address in the Location Bar" button 
+Remove right arrow in the urlbar when typing */
+.urlbar-go-button {
+  display: none;
+}
+
+/* Remove "Open Web developer tools (Ctrl + Shift + I)" button
+In reality it is "Ctrl + Alt + Shift" */
+#developer-button {
+  display: none;
+}
+
+/* Remove top-right "Account"/"Manage accounts"/"Sync" button */
+#fxa-toolbar-menu-button {
+  display: none;
+}
+
+/* Remove top-right "Downloads" button in urlbar */
+#downloads-button {
+  display: none;
+}
+
+/* Top-left corner of urlbar */
+/* Remove "No trackers known to Firefox were detected on this page." button  */
+#tracking-protection-icon-container {
+  display: none;
+}
+
+/* Top-left corner of urlbar*/
+/* Remove "Go back one page (Alt+Left Arrow)" button*/
+#back-button {
+  display: none;
+}
+
+/* Top-right corner of urlbar */
+/* Remove "Bookmark this page (Ctrl+D)" */
+#star-button-box {
+  display: none;
+}
+
+/* Top-right corner of urlbar */
+/* Remove "Open application menu" button */
+#PanelUI-button {
+  display: none;
+}
+
+/* Top-left corner of urlbar*/
+/* Remove "Go forward one page (Alt+Right Arrow)" button*/
+#forward-button {
+  display: none;
+} 
+
+/* Remove "Close tab" button in top-bar */
+.tab-close-button {
+  display: none !important;
+}
+
+/* Remove "Extensions" button in top-right corner of urlbar 
+Still accessible via "Alt+D+Tab+Enter"
+Instead of "Alt+D" you can use "Ctrl+K" or "Ctrl+J" to access the urlbar*/
+#unified-extensions-button, #unified-extensions-button > .toolbarbutton-icon{
+  width: 0.009px !important;
+  padding: 0px !important;
+}
+
+/* Remove "List all tabs" button 
+Remove "search tabs" button*/
+#alltabs-button { display: none !important; }  
+
+/* Remove Close button */
+.titlebar-buttonbox-container {
+  display: none
+}
+
+/* "Remove Open Picture-in-Picture (Ctrl+Shift+])" from urlbar button */
+#picture-in-picture-button {
+  display: ;
+}
+
+/* Remove "Search or enter address" text in new tab*/
+#urlbar-input::placeholder{ 
+  color: transparent;
+}
+/* remove bar on under urlbar */
+#PersonalToolbar.browser-toolbar.chromeclass-directories.instant.customization-target {
+  visibility: collapse !important;;
+}
+
+toolbarbutton#urlbar-searchmode-switcher {
+  visibility: collapse;
+}
