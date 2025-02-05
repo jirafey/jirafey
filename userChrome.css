@@ -179,6 +179,7 @@ Remove "search tabs" button*/
   visibility: collapse !important;;
 }
 
-toolbarbutton#urlbar-searchmode-switcher {
+/* remove icon of a search engine when in new tab */
+toolbarbutton#urlbar-searchmode-switcher.chromeclass-toolbar-additional {
   visibility: collapse;
 }
